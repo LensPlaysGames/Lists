@@ -1,0 +1,269 @@
+## Experiments with Household Chemicals:
+	
+	
+	- Copper(II) Acetate - Feb. 14, '21
+	
+		First crystallized Feb. 14, '21 by electrolysis of copper metal (my dad had about ~2 ft. of bare, braided copper wire that was like 0AWG, and he was willing to part with it :) in a ~1:1 ratio of household vinegar (5% Acetic Acid) and hydrogen peroxide.
+		I did this on a small scale in an old, polypropylene spice container. The 'crystals' were mostly powder, except for one or two 0.5-1mm crystals.
+		The color was beautiful, and I knew I was on the right track, so I knew I just needed to do more. I made more solution and poured it into an old tupperware container with two sections. One was skinny while the other took up the rest of the container.
+		I filled both sides with the same amount of solution and waited for evaporation.
+		After ~3 days I was left with a nice set of crystals in the large, flat dish, ranging from powder to 4mm clusters. I was really excited!
+		The other side took longer to evaporate, and only left me with a powder for some reason...
+		I collected both sides seperately in some foam-topped glass vials and labeled accordingly. This was on Feb. 28, '21.
+		
+		After doing this a few more times to replenish my copper metal crystal grow, I've had some issues with my process.
+		I never measured the solution ingredients, as you kind of just need both present (or so I was told).
+		A few times during electrolysis, the solution would turn green instead of blue, and foam like crazy, sometimes spilling out of the container.
+		There isn't a lot of documentation on this, but I think I've figured it out. The solution had too much H2O2 which has a pKa of like 11, which turned the solution basic.
+		As there was still acetic acid present, the electrolysis caused the formation of Copper(II) Acetate, however, in the basic solution, it immediately converted into Basic Copper Acetate. 
+		There's not a lot of info on this, but the wiki says that this basic copper acetate is the main blue-green color of verdigris, or copper corrosion. I'm assuming this was a bulk of the green color I was seeing.
+		However, if the solution was REALLY basic, it's possible the basic copper acetate hydrolyzed into copper carbonate, which is much more green than both the basic and standard forms of copper acetate.
+		To fix my problem, I could simply add more vinegar to the solution. This would reduce the pH, making basic copper acetate unstable, and form the copper(II) acetate that we need again.
+		I could also start trying different solution ratios (2:1, for example), and maybe try actually measuring!
+		
+	
+
+	- Copper Metal Crystals V1 - Feb. 15, '21
+	
+		First Crystallized Feb. 15, '21 by Electrolysis of Copper Electrodes within saturated Copper-salt solution (Copper(II) Acetate, in this case).
+		At this point, I realized my vessel was all wrong. I used a mason jar, which was too tall and skinny and not wide and fat. 
+		My anode was very uneven with lots of pointy ends (I just bent the braids of the wire in different directions on a 2d-plane).
+		This caused the crystals to mostly grow at the points that were closest to the cathode, as that is where the copper ions and electrons had the least resistance through the solution.
+		Next time I would use something like a tupper-ware container to allow for more room between the electrodes, meaning bigger crystals can form (and less current flows).
+		Also, a 'flatter' anode would do better. I think I could bend a copper wire back and forth in sort of an accordian shape, or like the lines used to be sectioned off at the movie theatre for a better crystal-growing medium.
+		Using a USB phone charger for power.
+		
+	
+
+	- Electroplating Copper - Feb. 16, '21
+	
+		Coins + 'Clay' Tool electroplated successfully (even layer and strong enough to buff with copper cleaner) on Feb. 16, '21
+		
+	
+
+	- Boom Baloons V1 (H2 Gas) - Feb. 19, '21
+	
+		Synthesized H2 gas by reacting 'Muriatic Acid' (20% Aqueous HCl) with aluminum foil in a skinny-necked glass container so I could pop a baloon over the top. 
+		This was not the best way of collecting it, as the apparatus got too hot, but it worked :)
+		Next time I would like to attach tubing to the reaction vessel and bubble the gas through some water (maybe with some NaHCO3 in it or something)
+		
+	
+
+	- Copper Metal Crystals V2 - Feb. 20, '21
+	
+		Started on Feb. 20, '21 with an accordian-ed copper wire as the anode (-), and that same braided copper wire I got from my dad as the cathode (+).
+		I knew this was a longer-term experiment, so I used two 6" sections of the wire and connected them using some tiny copper wire I had laying around, both above and below the solution.
+		This is when I made a huge mistake. I put fresh vinegar and hydrogen peroxide in the vessel, thinking it wouldn't take much as the mason jar only took a few hours and wasn't even noticeable on the electrodes.
+		The doubled-up cathode dissolved way faster than I thought it was going to due to the reaction vessel I was now using (a cleaned-out Breyer's Gelato container) being much bigger than the mason jar I was using before-hand.
+		Also, the copper wire I used to connect them electrically all dissolved wherever it was touching the solution after one day, so there was only one high-resistance connection up where they were taped together outside of the solution still.
+		This did not go very well, and no crystals grew at all before one day I checked on it and a bulk of the wire was sitting on the bottom of the vessel. 
+		The top portion was still taped to the top and connected electrically, but had dissolved at the gas-liquid interface due to the presence of extra O2 faster than anywhere else, causing the cathode to pinch itself off from the solution.
+		Using a USB phone charger for power.
+		
+		Next time, I need more copper (expensive, ugh) mass on the cathode. 
+		Or I could just think slightly ahead and pour in already-saturated solution, meaning I don't have to dissolve heaps into the fresh vinegar/H2O2 mixture.
+		I think the accordian style ~14AWG copper wire worked great as the anode in this case.
+		The container seemed really good for this sort of thing, although it evaporates rather quickly, meaning refills are quite frequent (~1-3 days interval)
+		Maybe a lid/bigger box for it to sit in would reduce the evaporation, and also make it safer from passers-by.
+		
+	
+
+	- Copper(II) Chloride V1 - Feb. 21, '21
+	
+		First started by dissolving copper metal in HCl. To do this, you could boil it, or just add an oxidizing agent. I used 3% hydrogen peroxide (H2O2) as it is cheap.
+		I did this in a clear polypropylene (PP) spice container with what looks to be an LDPE lid, but there aren't any markings to be sure. 
+		Within a few hours of mixing everything, it was already a dark-green color. I used a pipette to put a drop on some aluminum foil, and the HCl and CuCl2 foamed and bubbled like crazy, forming a metallic orange precipate. 
+		This small experiment confirms the presence of copper(II) chloride, so I decide to wait for the solution to saturate, then evaporate it and see the spiky crystals, as there's only like one picture on Wikipedia (and it sucks (no offense)).
+		After 2-3 days, it was so dark I couldn't see a bright flashlight shining through it. It looked black, but where it was thin there was definitely green present. I transferred it to an old cream cheese container for evaporation.
+		On Feb. 26, '21, small, needle-like clusters of crystals started to grow on the surface at various points after 2 days of evaporating. Later in the day, they had more than doubled in quantity and size.
+		The next day, the needle-like clusters were above the surface of the solution, and there was just some in the bottom around the edges. I continue to evaporate and dry the solution.
+		Over the next few days, small stalagmites started forming and reaching up into the air, above the previous flat layer where the crystals formed on the top of the solution.
+		I kind of couldn't believe it, and I definitely couldn't find anything online on this, but, man, was it beautiful. It looked like coral with a bunch of spiny sea urchins underneath. AMAZING RESULTS!
+		On Mar. 2, '21, the crystals had changed from a green color to a light-blue. This indicates that most of the HCl had evaporated, and little to no chlorine was left. They were also dry, and crackled whenever I touched the container.
+		I decided it was the crystals time to be stored. I flexed the container so the crystals could break off the surface into chunks small enough to fit into the small mason jar I was planning to store them in.
+		I used some tweezers to transfer the crystals to a small mason jar with what looks to be an aluminum lid. Don't shake it and it should be fine :}
+		
+	
+
+	- Aluminum Can -> Plastic Bag V1 - Feb 22, '21
+	
+		We've had these tiny soda cans sitting in the basement forever, so I decided to finally use them. I saw a video by NurdRage about how aluminum cans have plastic liners, and you can see that by dissolving it away.
+		I thought this would be really cool to see, so I opened up a can, popped a skewer through the pop-tab, and suspended it in a plastic container I got from take-out (thanks Pho).
+		In another, identical container, I added some HCl (forgetting to dilute it at all (NR used 5%, I have 20%)). 
+		I also sanded the bottom and sides of the can before I forgot (do this before you open it, dummy).
+		After this, I could dip the can in the acid, it would dissolve, then I could set the remaining bag of soda in the identical, empty container, and the drips of acid wouldn't do any harm to anything. 
+		It would also keep the rather fragile plastic bag intact, and in the case of that failing, would contain the sugary mess.
+		Upon dipping the can, there was furious bubbling and slight splashing from when there was enough gas in the upside-down cup on the bottom of the can to push itself out and escape.
+		Obviously, this was happening because I forgot to dilute it, which I also remembered at this moment.
+		The acid got very hot with each dip of the can, but, slowly and surely, I was steadfast.
+		Eventually, the bottom 3cm or so of the can were plastic only, but the heat had popped the bag, spilling the soda into my empty container :(.
+		Next time, I need to dilute the acid for a less-violent reaction. This way, I could leave it dissolving for ~1 hour, then come back and take it out without woorying about heat, or furious foaming.
+		
+	
+
+	- Chemical Garden - Mar 1, '21
+		
+		Video by NurdRage outlines the classic chemical garden experiment. Silicon Dioxide can be found in 'crystal cat litter'. Sodium Hydroxide can be found as drain cleaner, lye, and other things.
+		I followed the procedure outlined in the video very closely, only differing in my option of container, which was a giant old Bacardi bottle I had lying around from when my brother lived here.
+		I mixed the dry ingredients (60g SiO2, 30g NaOH). To this mix, I added 100mL of water (I don't have a grad. cylinder or anything so I just weighed 100g). The heat drives the reaction forward, so add it all at once.
+		Wait overnight (or longer) for the SiO2 to 'completely' dissolve. It's okay to have 5-10 grains of litter in the bottom, but a sizeable amount means the reaction did not get hot enough and so could not take place.
+		After the solution is clear, add ~800mL of water to dilute the solution of Sodium Silicate. After this, add and place your transitional metal salts for all the colors and all the shapes! It's really cool.
+		I'm really happy with how this turned out and I wish I had more metal salts to try out! So cool to see them grow over 15 minutes, and even more-so after a day!
+		
+	
+
+	- Hot Ice (Sodium Acetate) - Mar 2, '21
+	
+		All you have to do is mix vinegar and baking soda (slowly, in a big pot). This creates sodium acetate. For hot ice, I was told you need relatively pure sodium acetate, so I decided to recrystallize it.
+		To do this, I boiled it down in the pot I reacted it in (convenient, eh?). It took like 8 hours on my cheap hot plate, but, finally, I noticed the 'skin' forming on top of the solution, which tells me it's done at this point.
+		I transfer it (STILL HOT!) to a PP container, and cover to let cool slowly on the kitchen counter (yay food safe chemistry). After cooling, I transfer it the freezer to crystallize the sodium acetate, and then wash it.
+		This is where it didn't exactly go as planned. For some reason, the solution decided to supersaturate in the freezer, and not crystallize (Damn you, clean containers!). 
+		This means the vinegar was all mixed with the sodium acetate and the only way to seperate it now would be to do the reaction and save the remnants to recrystallize that.
+		So I did that. I tapped the container, sloshed it, took the lid off, stirred it. Nothing. No crystallization, no hot ice, nothing. I was devastated. 
+		Just as I was ready to throw the whole container in the garbage, it started to form hot ice before my eyes. It was really cool and looked like a 3D snowflake growing in the liquid.
+		After this happened, and I was done oggling it, I let it sit in the container on the kitchen counter again, covered. It was a liquid again after a few hours, so I decided to put it back in the freezer.
+		This time, crystals formed, and I was able to pour off the vinegar, and wash the remaining sodium acetate crystals. I saved a few (although not enough) in a small PP vial that looks to be an un-blown-up 2 liter soda bottle.
+		The rest, I dissolved in some hot water, and did the whole recrystallization process again, this time aiming to supersaturate it, for hot ice. It worked first try, and my little sister had fun playing with it.
+		I tried saving it and doing it again, but it seems like a contaminant built up, or something got into the solution, as it wouldn't supersaturate.
+		It ended up just freezing in the freezer, or staying liquid but never icing up, even upon taking it out and placing sodium acetate crystals in.
+		
+	
+
+	- Green Fire (Salting out propan-2-ol, copper acetate and copper chloride flame test) - Mar. 2, '21
+	
+		On Mar. 2, I tested 70% propan-2-ol (isopropyl alcohol) with copper chloride. The alcohol and crushed crystal were added onto a glass surface and ignited. The alcohol burned blue until it went out, leaving behind a wet powder.
+		I surmise that there's too much water, so I look into higher percentage alcohols. Due to the pandemic, these are hard to buy right now, but I found a solution. Propan-2-ol can be 'salted-out' to it's azeotrope, which happens to be quite high at 95%.
+		The procedure is simple, just add salt to the propan-2-ol, and it will make salt-water, which is heavier than alcohol and sinks to the bottom, allowing the top layer of propan-2-ol that is floating to be used/carefully collected.
+		I added ~250mL to a mason jar with a cm of salt in it, and started shaking (after capping). 
+		I shook for about a minute, then let it settle to the two layers many, many times. 
+		Partially because I wanted the water out of the alcohol, and partially because it looked like ghostly particles breaking the veil.
+		This was really easy, and I was now ready to test with a higher % alcohol! I got more crystals crushed into powder, and prepared it on the glass surface. Onto it, I pipette a few drops of the propan-2-ol I just salted-out, ignite, and! nothing....
+		Still a blue flame until it dies out. Leaves a relatively dry powder though, which is nice, or something. I was bored that it just did the same thing, so I used the torch-lighter I was using and started hitting the powder directly.
+		This made a bright green flame that was really beautiful to see, so I kept torching the powder, kind of forgetting something...
+		After a few minutes of this (yes, I'm that easily distracted) the glass surface I was using exploded everywhere. Ugh. I went and brought the shop vac in to clean up...
+		At this point I realized it just won't work with propan-2-ol and I'm going to have to bring out the big guns. Ethanol. That's right, it's a frat party now.
+		I picked up some denatured alcohol (which is just ethanol with some propan-2-ol in it so you won't drink it) because I'm under-age and can't buy Everclear :(.
+		I added the old powder and some new powder onto a glass surface. Onto the surface, I pipette a drop or three of the ethanol. It turns green with the hue of wet copper chloride almost instantly, and keeps getting darker.
+		I let it mix and dissolve the powder for a few seconds, not wanting the volatile liquid to evaporate too much, and then ignite it. Poof! Up arises a green flame. A
+		And it burns for quite a while, even leaving behind more copper chloride that I could keep adding fuel to!
+		This is a beautiful flame and I am so happy to have finally achieved it. I want to get/make an alcohol candle just so I can have a green candle :)
+		
+	
+
+	- Disinfectant from Pennies (Zinc Chloride) - Mar 5, '21
+	
+		Pennies minted after 1982 are 97.5% Zinc metal, with just a thin coating of copper making up the remaining 2.5%. HCl does not react with copper metal at ambient, room temperature conditions, but zinc does.
+		To expose the inner core of zinc, I cut up four pennies using a vice and some small bolt cutters. I'm pretty sure this is illegal as I'm defacing government property, but also fuck pennies, and I'm not making money at all from this sooo oh well.
+		After desecrating the law of my forefathers, I plopped the results into a mason jar, and added some 20% aqueous HCl on top. 
+		I did the stoichiometry and it turned out I needed 12.3576213535mL of acid for each penny. I just added 75mL to have an excess of acid (which I now know was a mistake).
+		The pennies did dissolve rather quickly, and it was fun to watch the light copper plating dance around in the solution around the bubbles. Luckily, it reacted rather fast, and only took a few hours to showing any signs of reaction.
+		Turns out, ZiCl is VERY soluble in water, meaning it kind of sucks to evaporate. This is why the extra acid was a problem. It's not the acid, per se, but the water IN the acid that I now have to wait for to fly away like Peter god-damned Pan.
+		Because of this, I boiled it right after the pennies were done reacting and filtered out. It got down to ~30mL when I stopped, and also turned yellow for some reason.
+		It is Mar. 12 and I am still evaporating that solution down. It's currently at about 15mL if I had to estimate, and still yellow.
+		
+	
+
+	- Zinc Acetate - Mar 5, '21
+	
+		Pennies minted after 1982 are 97.5% Zinc metal, with just a thin coating of copper making up the remaining 2.5%. Acetic acid does not react with copper without the presence of oxygen at ambient, room temperature conditions, but zinc does.
+		To expose the inner core of zinc, I cut up four pennies using a vice and some small bolt cutters. I'm pretty sure this is illegal as I'm defacing government property, but also fuck pennies, and I'm not making money at all from this sooo oh well.
+		After desecrating the law of my forefathers, I plopped the results into a mason jar, and added ~200mL 5% aqueous Acetic Acid on top.
+		I did the stoichiometry and it turned out I needed 42.6856296mL per penny, so I rounded up to 50mL for an excess of acid.
+		Almost immediately, bubbles started forming VERY slowly. It took about 20 seconds for one bubble to get big enough to actually float out of the solution.
+		Due to this slow reaction speed, I decided to put it on the magnetic stirrer, assuming this would speed it up quite a bit.
+		It did not... After three days of stirring it was still bubbling, so I decided to give the motor a break, and let the rest happen naturally.
+		I took it off the stirrer and set it on a shelf to react for some time.
+		At five days after the solution was added to the pennies, it was still bubbling about the same as it was on day 3.
+		Day 7 is a similar story, with less bubbling until you tap or jar the container, at which time everything releases it's bubbles at once.
+		
+	
+
+	- Copper and Nickel Chloride - Mar 6, '21
+	
+		I've had this solution of Nickel and Copper Chloride in HCl for a long time, just playing with it on aluminum foil to make H2, and so forth. 
+		I made it by dissolving US Nickel Coins in HCl and Hydrogen Peroxide. 
+		There's not actually that much nickel in nickels though, so this is mostly copper chloride with a tinge of nickel in it (8% MAX).
+		On Mar. 6, '21, I decided to retire the solution and evaporate it to it's crystal form. I was hoping that the nickel and copper would seperate but I knew that was a pipe dream.
+		I filtered the nickels out of the solution, and transferred it to a container to evaporate in (an old, cleaned-out PP cream cheese container).
+		
+		It is the 12th of March now, and it has finally dried up. No stalagmites formed, like on the pure copper chloride, but large lumps have protruded from the surface, almost like mountains/trees.
+		Upon breaking the crystals up, I found there were spiky, needle-like copper chloride crystals underneath the large solid layer that the 'trees' formed on top of. It almost reminds me of trees and grass and caves.
+		Beautiful color too! Staying green even when drying out, apart from some of the needles of copper chloride which are turning their characteristic light-blue. 
+		I wonder if this will make a good pyrotechnics composition additive? Time to get the ethanol out!
+		
+	
+
+	- Copper(II) Chloride V2 - Mar 6, '21
+	
+		I've had this solution of Copper Chloride in HCl for a long time, just playing with it on aluminum foil to make H2, and so forth. 
+		I made it by dissolving some snipped-up pieces of that wire my dad gave me in HCl with some H2O2 in there. It turned green just like the run I did before, and kept going darker and darker until it looked black and opaque over the next few days.
+		After a few weeks or so, here we are. I kind of just had it sitting around and doing nothing now, so I decided to deal with it, along with the nickels I was dissolving slowly (mentioned above).
+		I filtered the solution into a clear container to evaporate, and waited.
+		
+		It is now Mar. 12th, '21, and the crystals have dried completely. They are a fantastic light blue color, almost like light cyan. Along the edges of the container, crystals have crept up the walls, almost like vines, about a mm or so.
+		In the center, crystal structures have grown upwards from the solution. 
+		It seems like once the solution gets below the height of the crystals, they act with some kind of capillary action, and the crystals grow in the free space above the crystals that already formed and filled most of the container.
+		I find this so cool, every time! I can see how alchemists thought metal was alive for a long, long time. Heck, I'm not convinced after seeing some of these colors and transformations that happen :)
+		I'm going to let the crystals dry for one more day, then collect them.
+		
+	
+
+	- Copper-Ammonia Complex - Mar. 7, '21
+	
+		I've seen this thing online of copper and ammonia reacting, but it seems like nobody knows exactly whats happening, and it goes through a few stages.
+		First, right after the copper and ammonia are mixed, nothing happens. Even after a few minutes, no bubbles form, no nothing. But, after a few hours, I found it turned VERY light blue.
+		It was hard to tell if it was even a different color at this point, or if I was imagining it. However, overnight, an amazing reaction occured, as, when I woke up, I found it to be a deep vibrant violet color.
+		I really loved the color it produced, so I decided to acquire more before attempting to crystallize it out. There was still plenty of copper metal, so I added more ammonia, about 5x the amount.
+		As I added it, a powdery precipate formed, but as I kept adding, it re-dissolved into a light-blue color that almost looked like liquid oxygen. I stirred it and some precipate came up from the bottom.
+		It was shiny, and reflected light like glitter while it was swimming around the solution. More and more of this has been forming over the next few days. 
+		From all the research I've done this powder is copper hydroxide, formed by the presence of copper oxide in basic conditions. However, once it gets too acidic/not basic enough it converts to some copper-ammonia complex that is light blue.
+		Conversely, if it gets too basic, a dark blue/violet DIFFERENT copper-ammonia complex forms. Or so I think. This basic copper-ammonia complex is a color I very much like, and am interested in crystallizing out. 
+		I will wait for the extra volume of ammonia to take on this color, then evaporate (outside! ammonia stinks BAD)
+		
+	
+
+	- Copper Metal Crystals V3 - Mar. 7, '21
+	
+		I found a great source for copper metal. Online, a lb of copper is like $15 all the way up to like $40. I found this a little out of my price range.
+		Luckily, I did some more digging, and home improvement stores like Lowe's and Home Depot have 10 feet of Type L 1/2in. Copper Pipe for less than $20. That's 2.85lbs of copper for $20... Much better than those prices for copper online.
+		I picked up a pipe, bent it in half so it would fit in the car, and walked out of there so happy. I used a hacksaw to cut off ~6" sections, then a vice to flatten them. I drilled a small hole near one end so I could wrap wire around and through it.
+		I weighed each one, and they are about 50g of copper. That means I have over 20 electrodes for $20! And they last way longer than that braided wire did, that stuff just fell apart as soon as it started corroding at all.
+		I used the same accordian style anode to maximise surface area and crystals grown, but this time used one of my copper pipe electrodes as the cathode.
+		It is now Mar. 12, '21, and we have three fairly large (5mm) copper crystals starting to grow! They are forming this bulbous flower-stalk shape that is really cool, and I can't wait for this project to progress. 
+		I keep checking it every day and am surprised by the beautiful geometry that this hunk of metal is capable of producing with just a little nudge.
+		Using a USB phone charger for power.
+		
+	
+
+	- Zinc, Carbon, and MnO2 from batteries - Mar. 8, '21
+	
+		This is very messy. Pretty much any alkaline battery will have zinc, carbon rods, and manganese dioxide powder with potassium hydroxide electrolyte soaked into it. Make sure it is alkaline and not lithium!
+		The easiest and most efficient source is those old camping batteries that are gigantic. It's about $8 for 2 of them at wal-mart. 
+		I start by cracking open the top with a screwdriver and hammer. Once the plastic top is removed, and the wires connecting everything are cut, it's time to work on each individual cell.
+		These batteries have four of them, while a AA battery is the cell itself. Pull out a cell and start prying the metal from the top. It should rip downwards and you should be able to make a metal flower sort of thing, which allows you to access the carbon rod.
+		Pull out the carbon rod by grabbing it with some pliers and twisting and pulling. It will pop out audibly. Be careful, these are quite fragile!
+		The MnO2 and KOH are beneath the secondary seal, the plastic one. Keep peeling the zinc away until you can remove the second seal, then use a screwdriver to pull/scoop out the MnO2 powder. This is very messy.
+		Collect the powder in a zip-loc bag, or alternatively you can wash it in water in order to remove the KOH, but it takes forever to filter off and dry again, so I'll just store it as-is.
+		The zinc casings that we are tearing apart can all go in a pile to melt down! Luckily, you don't need a forge to do this, and the stove-top will work great (although I recommend a hot-plate, outside, for safety).
+		After abusing all 8 cells of the batteries, I was left with 8 mostly-intact carbon electrodes, a lot of MnO2/KOH mix, and an ingot of zinc that weighed about 150g.
+		
+	
+
+	- Fire from Pool Chlorine and Brake Fluid - Mar. 8, '21
+	
+		This is a very popular reaction and has even been featured on such popular shows as Rhett & Link's GMM. 
+		Now, every time I've seen it, it was a spectacular fireball that happened within 30 seconds of mixing the two ingredients, Calcium Hypochlorite pool chlorine, and Polyethylene Glycol brake fluid.
+		When I mixed them... nothing. Even after 15 minutes. I assume this to be due to the sub-zero Celsius temperatures we have here right now. So I'm going to wait for summer for a proper reaction.
+		I could coax the reaction to happen by lighting the PEG on fire and mixing a LOT until it finally started spitting, bubbling, popping, and then erupted into flame. 
+		Which was cool, but it would have been cooler if it didn't take me sitting there stirring it while it's on fire, and happened a little quicker than 20 minutes after mixing the two chemicals.
+		Summer, oh how I miss your reactive temperatures :|.
+		
+	
+
+	- Copper(II) Acetate Large Single Crystal - Mar. 12, '21
+	
+		Today is March 12th. I have some old fishing line from my dad, so I can tie a seed crystal to the end and dip it in a saturated solution for it to grow!
+		I tied the slip-knot and fumbled with the ~2mm long crystal for some minutes before I was able to lasso the bugger. I wish I was better at knots, or with my hands.
+		Now I just need to make the solution for it to sit in, and then hang it around a pencil or something like that. I also have a dentist appointment today and I don't want to go because my mouth doesn't hurt and I'm fine. Ugh.
+		
+	
