@@ -206,6 +206,10 @@
 		I find this so cool, every time! I can see how alchemists thought metal was alive for a long, long time. Heck, I'm not convinced after seeing some of these colors and transformations that happen :)
 		I'm going to let the crystals dry for one more day, then collect them.
 		
+		Mar. 13, '21 - I have collected the dry crystals and placed them in my copper chloride container, which is now full! 
+		I think I could fit more if I crushed some of the clusters of crystals, but I'm not sure what I'm going to do with all of it, so I don't want to powderize it yet.
+		The container is a ECO16S glass mason jar, so I don't have crazy amounts or anything.
+		I'm going to powderise some for use in pyrotechnics compositions and store in another container for convenience.
 	
 
 	- Copper-Ammonia Complex - Mar. 7, '21
@@ -229,9 +233,10 @@
 		I picked up a pipe, bent it in half so it would fit in the car, and walked out of there so happy. I used a hacksaw to cut off ~6" sections, then a vice to flatten them. I drilled a small hole near one end so I could wrap wire around and through it.
 		I weighed each one, and they are about 50g of copper. That means I have over 20 electrodes for $20! And they last way longer than that braided wire did, that stuff just fell apart as soon as it started corroding at all.
 		I used the same accordian style anode to maximise surface area and crystals grown, but this time used one of my copper pipe electrodes as the cathode.
+		Using a USB phone charger for power.
+		
 		It is now Mar. 12, '21, and we have three fairly large (5mm) copper crystals starting to grow! They are forming this bulbous flower-stalk shape that is really cool, and I can't wait for this project to progress. 
 		I keep checking it every day and am surprised by the beautiful geometry that this hunk of metal is capable of producing with just a little nudge.
-		Using a USB phone charger for power.
 		
 	
 
@@ -247,7 +252,8 @@
 		The zinc casings that we are tearing apart can all go in a pile to melt down! Luckily, you don't need a forge to do this, and the stove-top will work great (although I recommend a hot-plate, outside, for safety).
 		After abusing all 8 cells of the batteries, I was left with 8 mostly-intact carbon electrodes, a lot of MnO2/KOH mix, and an ingot of zinc that weighed about 150g.
 		
-		NEXT TIME: I should wash the powder with water to free the KOH, as it is quite caustic. I didn't this time as I don't have the reaction vessels large enough to do this, or any way to filter it (literally not even a 2-liter bottle rn)...
+		NEXT TIME: I should wash the powder with water to free the KOH, as it is quite caustic. 
+		I didn't this time as I don't have the reaction vessels large enough to do this, or any way to filter it (literally not even a 2-liter bottle rn lol)...
 		
 	
 
@@ -261,6 +267,7 @@
 		Summer, oh how I miss your reactive temperatures :|.
 		
 		NEXT TIME: Don't do it when it's freezing out, ya jackass.
+		
 	
 
 	- Copper(II) Acetate Large Single Crystal - Mar. 12, '21
