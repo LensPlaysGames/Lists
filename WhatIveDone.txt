@@ -247,6 +247,8 @@
 		The zinc casings that we are tearing apart can all go in a pile to melt down! Luckily, you don't need a forge to do this, and the stove-top will work great (although I recommend a hot-plate, outside, for safety).
 		After abusing all 8 cells of the batteries, I was left with 8 mostly-intact carbon electrodes, a lot of MnO2/KOH mix, and an ingot of zinc that weighed about 150g.
 		
+		NEXT TIME: I should wash the powder with water to free the KOH, as it is quite caustic. I didn't this time as I don't have the reaction vessels large enough to do this, or any way to filter it (literally not even a 2-liter bottle rn)...
+		
 	
 
 	- Fire from Pool Chlorine and Brake Fluid - Mar. 8, '21
@@ -258,6 +260,7 @@
 		Which was cool, but it would have been cooler if it didn't take me sitting there stirring it while it's on fire, and happened a little quicker than 20 minutes after mixing the two chemicals.
 		Summer, oh how I miss your reactive temperatures :|.
 		
+		NEXT TIME: Don't do it when it's freezing out, ya jackass.
 	
 
 	- Copper(II) Acetate Large Single Crystal - Mar. 12, '21
@@ -266,4 +269,21 @@
 		I tied the slip-knot and fumbled with the ~2mm long crystal for some minutes before I was able to lasso the bugger. I wish I was better at knots, or with my hands.
 		Now I just need to make the solution for it to sit in, and then hang it around a pencil or something like that. I also have a dentist appointment today and I don't want to go because my mouth doesn't hurt and I'm fine. Ugh.
 		
+		It is the next morning, Mar. 13, '21. I went to the stupid angry dentist man (he's always so mad!). It went really well! He was in a good mood and even explained what he was doing when I asked him, which was a first 
+		(reading this back I should probably just get a new dentist...)
+		Anyway, the crystal is tied and suspended inside a clear PP container that I got from Vietnamese take-out (my love of Pho is paying off). 
+		I fashioned a funnel out of a minute-rice container by using a screw, a lighter, and pliers, as I was quite tired of the no-funnel situation that has been going on for some time.
+		I heat up the screw, and plunge it through the plastic container to make a hole through the lowest point when it's at about a 45º angle, but can still hold a liquid.
+		I filtered the solution of Copper(II) Acetate that I electrolysed overnight through a single coffee filter in the funnel-like object I had just created. 
+		The crystal was not low enough in the container for it to be submerged yet, so I immediately started another batch of C4H6CuO4.
+		I have found that 200mL of 5% Acetic Acid (household distlled white vinegar) and 100mL of 3% Hydrogen Peroxide (from the pharmacy section) works much better than the 1:1 ratio suggested by many online.
+		I kept having foam-overs and green solutions when I used 150mL of 5% Acetic Acid and 150mL of 3% Hydrogen Peroxide. 
+		I believe the green was due to the formation of Basic Copper Acetate, or maybe, if it was really basic, Copper Hydroxide (although this might be a stretch).
+		I am realizing today that I need to increase my Copper(II) Acetate solution production, or at least get some stored up so I don't have to make some everyday for a few weeks... 
+		Or just do that, it's not that hard and just requires a wall outlet and 8-24 hours. 
+		But I have an old vinegar container that's a gallon, made out of HDPE, and has an LDPE lid. 
+		I could just start filtering into that, and keep making solution. 
+		We'll see how this next day goes!
+		
 	
+
