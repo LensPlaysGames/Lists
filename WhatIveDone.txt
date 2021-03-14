@@ -159,6 +159,7 @@
 		The pennies did dissolve rather quickly, and it was fun to watch the light copper plating dance around in the solution around the bubbles. Luckily, it reacted rather fast, and only took a few hours to showing any signs of reaction.
 		Turns out, ZiCl is VERY soluble in water, meaning it kind of sucks to evaporate. This is why the extra acid was a problem. It's not the acid, per se, but the water IN the acid that I now have to wait for to fly away like Peter god-damned Pan.
 		Because of this, I boiled it right after the pennies were done reacting and filtered out. It got down to ~30mL when I stopped, and also turned yellow for some reason.
+		
 		It is Mar. 12 and I am still evaporating that solution down. It's currently at about 15mL if I had to estimate, and still yellow.
 		
 	
@@ -191,6 +192,9 @@
 		Beautiful color too! Staying green even when drying out, apart from some of the needles of copper chloride which are turning their characteristic light-blue. 
 		I wonder if this will make a good pyrotechnics composition additive? Time to get the ethanol out!
 		
+		NEXT TIME: To actually progress with my original intent of getting nickel metal from nickels, I think I would need to boil them in HCl, rather than adding H2O2, which oxidized the copper into CuO, which dissolves in HCl.
+		I don't think I would need boiling chips as the nickels would act as boiling chips themselves.
+		
 	
 
 	- Copper(II) Chloride V2 - Mar 6, '21
@@ -210,6 +214,8 @@
 		I think I could fit more if I crushed some of the clusters of crystals, but I'm not sure what I'm going to do with all of it, so I don't want to powderize it yet.
 		The container is a ECO16S glass mason jar, so I don't have crazy amounts or anything.
 		I'm going to powderise some for use in pyrotechnics compositions and store in another container for convenience.
+		
+		NEXT TIME: I'm not sure I would change much, other than measuring the yield and stuff.
 	
 
 	- Copper-Ammonia Complex - Mar. 7, '21
@@ -224,6 +230,10 @@
 		Conversely, if it gets too basic, a dark blue/violet DIFFERENT copper-ammonia complex forms. Or so I think. This basic copper-ammonia complex is a color I very much like, and am interested in crystallizing out. 
 		I will wait for the extra volume of ammonia to take on this color, then evaporate (outside! ammonia stinks BAD)
 		
+		Mar. 13, '21 - The extra volume has finally reached a color reminiscent of the original. It took much longer than expected, but that's okay.
+		I think I will give it a few more days to fully react or do what it is going to do, then I will un-cover it and leave it outside for a long, long time.
+		I will cover it with a paper towel or something so that it doesn't get dust/dead bugs in it.
+		
 	
 
 	- Copper Metal Crystals V3 - Mar. 7, '21
@@ -237,6 +247,14 @@
 		
 		It is now Mar. 12, '21, and we have three fairly large (5mm) copper crystals starting to grow! They are forming this bulbous flower-stalk shape that is really cool, and I can't wait for this project to progress. 
 		I keep checking it every day and am surprised by the beautiful geometry that this hunk of metal is capable of producing with just a little nudge.
+		
+		Mar. 13, '21 - It seems like each day a new 'bulb' on the 'flower-stalk' grows. Today there is three large crystals, each with three bulbous sections, almost like peas in a pod.
+		Each section has such intricate detail. Spiky fingers reach outward, and the further they reach, the more the center-stalk thickens. It is honestly a beautiful phenomena and I recommend everyone see this at least once.
+		The copper pipe electrode has degraded, but much less significantly and catastrophically than the braided wire. 
+		The bottom corner, closest to the other electrode, has kind of dissolved into an oxide powder, leaving behind a smooth transition between the bed of insoluble CuO and the green, corroded exterior of the electrode.
+		I haven't stirred it at all, except for what happens when I add more solution. 
+		There is a few millimeters of copper oxide around the edges of the container, and a lot of black stuff under the cathode that appears to have fallen from it.
+		The back of the anode has a beautiful glitter-like shine. Due to the slow plating on the back side of the electrode, it has deposited very fine crystals that reflect the light in such a unique way.
 		
 	
 
@@ -291,6 +309,39 @@
 		But I have an old vinegar container that's a gallon, made out of HDPE, and has an LDPE lid. 
 		I could just start filtering into that, and keep making solution. 
 		We'll see how this next day goes!
+		It's afternoon now. I think I am going to keep making solution and store it, if I can keep up with the evaporation.
+		That batch of solution was saturated about 1600 hours, meaning it took 8 hours total for it to get there. 
+		I added it to the large single crystal vessel through the same filter as before. 
+		It had a blue powder/crystal (Copper(II) Acetate) everywhere the liquid had evaporated from, and a white powder (CuO?) near the bottom/exit.
+		The crystal floated in the solution as I added it, which was terrifying. The slow drip from the funnel made the surface quite unstable, and it looked like a sailboat in a hurricane.
+		Luckily, it survived, and the solution didn't eat it either, which was nice to see. As the solution rose above the crystal, surface tension broke and it sunk until the string holding it was taut.
+		After a few minutes, bubbles had appeared all over the crystal and string, implying it is working as nucleation sites (at least for H2O2 decomposition, meaning it is likely also a nucleation site for the acetate crystallization).
+		Time to wait and see!
+		Or so I thought... Checked on it after updating this just now, and it has fallen into the solution, out of my slip-knot :(
+		It's still sitting at the bottom, so it doesn't seem like it is dissolving, but it might be slowly, I guess.
+		I'm not sure what to do next, as I want that crystal out of the solution but it's all the way at the bottom and I don't have anything to grab it with.
+		I could filter the whole solution again into something else, just to get that one crystal out. That would also let me re-tie the same crystal if I wanted to.
+		Or I could just get a new crystal, tie that on, and plunge it into the solution...
+		Hmm...
+		I filtered the solution (through the same filter) into a new container. After much dismay, I was able to get the tiny, tiny seed crystal back into a slip-knot. 
+		I initially tried another crystal, but I couldn't tie it after like 15 minutes, so I went to the one I used originally. It had a better shape that allowed it to be lassoed by the knot much better.
+		After hanging the crystal back in the original container, I poured the solution back from whence it came.
+		It is hung once again!!!
+		Now to wait, and hope for the best :)
+		The best has not occurred....
+		The crystal fell into the solution.
+		I just think it is not saturated enough. My next batch I will run for 16 hours total, at least.
+		To solve the problem I have now, I'm just going to let it evaporate until I see crystals. That should mean it is a saturated solution. 
+		Then, I can filter and tie another one of my seed crystals on, and, truly this time, hope for the best :)
+		
+		It is Mar. 14, '21.
+		I've had some time to think.
+		I am going to transfer the solution in the crystal growing vessel (vinegar/H2O2) into another container for evaporation. Once I have some Copper(II) Acetate stored up (at least 40-50g), I'll be ready to actually start...
+		
+		NEXT TIME: I am going to use water as my crystal growing medium, instead of using the vinegar/H2O2 mix directly. I believe I am having a hard time getting to saturation, meaning solvent is left behind.
+		This left-behind solvent carries over to the crystal growing vessel, and dissolves my seed crystal. I could just run each batch of solution for a long, long time, but that seems impractical.
+		I'm going to evaporate the vinegar/H2O2 off to get the Copper(II) Acetate crystals. I will dissolve those in water until it is saturated, then filter that into my crystal growing vessel.
+		This should prevent the seed crystal from dissolving by gauranteeing a saturated solution, especially if I heat the water slightly above room temperature (which is what it will be growing at).
 		
 	
 
