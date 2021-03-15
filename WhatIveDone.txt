@@ -162,6 +162,12 @@
 		
 		It is Mar. 12 and I am still evaporating that solution down. It's currently at about 15mL if I had to estimate, and still yellow.
 		
+		It is Mar. 14, and I have boiled the solution down on the hot-plate in a sand bath.
+		The liquid slowly turned more and more brown from some sort of contamination while heating.
+		At some point, the ZiCl started crystallizing out, which is when I turned off the heat and let it cool down to the point I felt comfortable moving it.
+		Once cool enough, I transferred inside to completely cool to room temperature.
+		I am planning to put it in the freezer in order to get the most crystals out of the water as possible.
+		
 	
 
 	- Zinc Acetate - Mar 5, '21
@@ -242,7 +248,7 @@
 		Luckily, I did some more digging, and home improvement stores like Lowe's and Home Depot have 10 feet of Type L 1/2in. Copper Pipe for less than $20. That's 2.85lbs of copper for $20... Much better than those prices for copper online.
 		I picked up a pipe, bent it in half so it would fit in the car, and walked out of there so happy. I used a hacksaw to cut off ~6" sections, then a vice to flatten them. I drilled a small hole near one end so I could wrap wire around and through it.
 		I weighed each one, and they are about 50g of copper. That means I have over 20 electrodes for $20! And they last way longer than that braided wire did, that stuff just fell apart as soon as it started corroding at all.
-		I used the same accordian style anode to maximise surface area and crystals grown, but this time used one of my copper pipe electrodes as the cathode.
+		I used the same accordian style anode to maximise surface area and crystals grown, but this time used one of my copper pipe electrodes as the positive electrode.
 		Using a USB phone charger for power.
 		
 		It is now Mar. 12, '21, and we have three fairly large (5mm) copper crystals starting to grow! They are forming this bulbous flower-stalk shape that is really cool, and I can't wait for this project to progress. 
@@ -253,8 +259,38 @@
 		The copper pipe electrode has degraded, but much less significantly and catastrophically than the braided wire. 
 		The bottom corner, closest to the other electrode, has kind of dissolved into an oxide powder, leaving behind a smooth transition between the bed of insoluble CuO and the green, corroded exterior of the electrode.
 		I haven't stirred it at all, except for what happens when I add more solution. 
-		There is a few millimeters of copper oxide around the edges of the container, and a lot of black stuff under the cathode that appears to have fallen from it.
+		There is a few millimeters of copper oxide around the edges of the container, and a lot of black stuff under the positive electrode that appears to have fallen from it.
 		The back of the anode has a beautiful glitter-like shine. Due to the slow plating on the back side of the electrode, it has deposited very fine crystals that reflect the light in such a unique way.
+		
+		Morning of Mar. 15, '21 - The positive electrode has dissolved almost completely. A large amount of what looks to be Black Copper Oxide has deposited itself underneath the positive electrode.
+		Presumably, at some point throughout the night, the positive electrode was oxidized to such an extent that it lost structural integrity.
+		This caused the portion exposed to the acidic, oxidizing solution to fall to the bottom of the vessel, leaving behind that large mass of Black Copper Oxide underneath the positive electrode.
+		The top portion that is connected to power stayed mostly in place, only twisting slightly from it's original position.
+		I will be making a few more electrodes from my copper pipe this morning, and replacing the dissolved one, leaving the growing crystals intact and ready to keep growing.
+		I made the electrodes, at the same time I cut up a bunch of US five-cent pieces ('nickels').
+		I just estimated the length as I forgot to measure the first ones that worked out before they disintegrated.
+		I got extremely close, as when I juxtapose them it's almost like a before-and-after line-up.
+		The replacement when fairly well, with just some struggles on disconnecting the wire wrapped around the stub.
+		There are these beautiful Copper(II) Acetate crystals that formed on the electrode I took out.
+		It seems with me replacing it with saturated solution, and also evaporating, more and more Copper(II) Acetate is accumulating.
+		This Copper(II) Acetate seems to be attracted to the positive electrode for some reason, which is why there are crystals accumulating on the positive electrode (I think).
+		Or, the copper is a great 'seed' for the Copper(II) Acetate, and when evaporating it simply favors the copper metal rather than anywhere else.
+		Although if that were the case, the negative electrode would also accumulate crystals, which it does not (at least until now).
+		As for the crystal growth, it is going well. Of the three large crystals, one has taken off over the other three. The other two are about equal.
+		They stopped 'ungulating' at the third 'bulb'. From this point they have grown out like trees, with the base of them thickening into a lumpy mass instead of branch-like structure.
+		It really looks as if it is alive :)
+		r/natureismetal on a whole new level.
+		The biggest crystal is about 2cm in it's longest dimension, towards the positive electrode.
+		The other two are about half of that in the same direction, but retain a similar over-all geometry, if that makes sense.
+		There are two 'bulbs' which are formed by the diameter of the crystal oscillating.
+		After this, the third 'bulb' is partially formed, but opens into a tree-like structure of brances that reach outwards wider than before.
+		This is what gives it the 'tree look', along with one other thing. The crystals at the base started off as branch-like and reaching, just like the top of the 'tree'
+		However, over time, these crystals at the base have become more and more lumpy, and less branch-like (meaning the branches have coallesced, in a sense).
+		I believe this is due to the increased power needs of the larger and larger surface area of the growing crystal.
+		The base is the conductor for all the electrons and they don't like (to anthropomorphize) having to travel through these skinny, long crystals just to get to the nice big, copper negative electrode.
+		Because of this, I believe they take little shortcuts, cutting corners slightly near the negative electrode to get to the destination faster (as the solution in between is also conductive).
+		As this happens, the same reaction happens where the electron carries copper ion(s) that get plated onto the negative electrode.
+		Due to this, it keeps building up the crystals at the base as well as at the tip, I think :).
 		
 	
 
@@ -298,7 +334,7 @@
 		(reading this back I should probably just get a new dentist...)
 		Anyway, the crystal is tied and suspended inside a clear PP container that I got from Vietnamese take-out (my love of Pho is paying off). 
 		I fashioned a funnel out of a minute-rice container by using a screw, a lighter, and pliers, as I was quite tired of the no-funnel situation that has been going on for some time.
-		I heat up the screw, and plunge it through the plastic container to make a hole through the lowest point when it's at about a 45º angle, but can still hold a liquid.
+		I heat up the screw, and plunge it through the plastic container to make a hole through the lowest point when it's at about a 45? angle, but can still hold a liquid.
 		I filtered the solution of Copper(II) Acetate that I electrolysed overnight through a single coffee filter in the funnel-like object I had just created. 
 		The crystal was not low enough in the container for it to be submerged yet, so I immediately started another batch of C4H6CuO4.
 		I have found that 200mL of 5% Acetic Acid (household distlled white vinegar) and 100mL of 3% Hydrogen Peroxide (from the pharmacy section) works much better than the 1:1 ratio suggested by many online.
@@ -342,6 +378,39 @@
 		This left-behind solvent carries over to the crystal growing vessel, and dissolves my seed crystal. I could just run each batch of solution for a long, long time, but that seems impractical.
 		I'm going to evaporate the vinegar/H2O2 off to get the Copper(II) Acetate crystals. I will dissolve those in water until it is saturated, then filter that into my crystal growing vessel.
 		This should prevent the seed crystal from dissolving by gauranteeing a saturated solution, especially if I heat the water slightly above room temperature (which is what it will be growing at).
+		
+	
+
+	- Green Fire V2 (Copper(II) Chloride + Ethanol) - Mar. 14, '21
+		
+		The nickel(II) chloride and copper(II) chloride, obtained from dissolving nickels in HCl and H2O2, was powderized between a folded sheet of paper with the back of a screwdriver.
+		This powder was split into a small portion, to which a small amount of ethanol was added, and a large portion, to which a lot of ethanol was added.
+		This was done to see how dilute I could make the solution and still have it turn the flame green.
+		Waiting for darkness to fall for testing...
+		Well, it sucked.
+		The more dilute solution just burned blue until dryness.
+		The completely saturated solution that was dark, dark green burned blue for 5-10 seconds, then popped and erupted into green for about 20 seconds (which was really cool).
+		It left behind a lot of residue that could still burn green if fuel was added and it was ignited, however.
+		So, I have one that's too weak, and one that's so strong I'm wasting the Copper(II) Chloride.
+		It seems like doing this in a liquid solvent might be the basis of my dilemma.
+		I will research into powder-based alternatives, I have seen some pyrotechnics compositions that look promising, and I think I can get my hands on what I need.
+		
+	
+
+	- Nickel(II) Chloride - Mar. 14, '21
+	
+		I have dissolved US five-cent pieces (75% Cu, 25% Ni) before, but not just the nickel. I dissolved both the nickel and copper, leaving me with an impure end product.
+		To selectively dissolve the nickel, I am going to be boiling the copper-nickel alloy in aqueous HCl.
+		If kept wet, the heat should speed the dissolution of the nickel, while staying out of the range of copper reacting with HCl at all (430 ?C).
+		I am going to cut up some nickels as to expose more surface area, than plop some acid on top and boil it.
+		
+		It is Mar. 15, '21, and this morning I cut up the nickels while I was creating some more copper electrodes.
+		Turns out, nickels are much, much stronger than pennies.
+		Copper-nickel alloys must be much, much harder than zinc, is my guess.
+		The small bolt-cutters I used before didn't cut through, they merely made a dent.
+		Same for the full-size bolt-cutters.
+		I ended up using a mix of a vice, pliers, and the small bolt-cutters to bend it into pieces.
+		I am going to boil this in HCl, hoping to leech out the nickel metal as a salt (Nickel(II) Chloride) and leave the copper behind for further processing.
 		
 	
 
