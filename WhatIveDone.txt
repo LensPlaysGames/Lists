@@ -412,5 +412,25 @@
 		I ended up using a mix of a vice, pliers, and the small bolt-cutters to bend it into pieces.
 		I am going to boil this in HCl, hoping to leech out the nickel metal as a salt (Nickel(II) Chloride) and leave the copper behind for further processing.
 		
+		I just did the stoichiometry.
+		A US five-cent piece weights 5 grams. 
+		A US five-cent piece is 25% Nickel.
+		5 grams * 25% = 1.25g of Ni per US five-cent piece
+		A mole of nickel weighs 58.6934 grams, so 1.25g of Ni is equal to 0.0212971134 moles.
+		
+		We need double that of HCl, as the reaction is Ni + 2(HCl) -> NiCl2 + H2
+		
+		0.0212971134 moles * 2 = 0.0425942268 moles
+		1 mole of HCl weighs 36.458 grams.
+		0.0425942268 moles of HCl is equal to 1.55290032 grams.
+		I have HCl in an aqueous solution at 20% concentration, which has a density of 1.1g/mL.
+		1.1g/mL * 20% = 0.22g/mL
+		1.55290032 grams / 0.22g/mL = 7.05863782 milliliters
+		
+		10mL of 20% aqueous hydrochloric acid per US five-cent piece is a stoichiometric excess of acid.
+		I will be using 6 nickels, so that would be about 60mL of acid. 
+		This seems like a small amount to boil down (too small, in fact), so I am going to dilute the acid with some water, making the total volume around 100 to 200mL.
+		Now, all I have to do is prepare the solution, boil the nickels in the solution, and extract as much nickel as I can!
+		I think I will do this tomorrow, as it is getting late and I'm a lazy fuck.
 	
 
