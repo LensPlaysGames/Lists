@@ -9,7 +9,7 @@
 		I filled both sides with the same amount of solution and waited for evaporation.
 		After ~3 days I was left with a nice set of crystals in the large, flat dish, ranging from powder to 4mm clusters. I was really excited!
 		The other side took longer to evaporate, and only left me with a powder for some reason...
-		I collected both sides seperately in some foam-topped glass vials and labeled accordingly. This was on Feb. 28, '21.
+		I collected both sides separately in some foam-topped glass vials and labeled accordingly. This was on Feb. 28, '21.
 		
 		After doing this a few more times to replenish my copper metal crystal grow, I've had some issues with my process.
 		I never measured the solution ingredients, as you kind of just need both present (or so I was told).
@@ -118,7 +118,7 @@
 		To do this, I boiled it down in the pot I reacted it in (convenient, eh?). It took like 8 hours on my cheap hot plate, but, finally, I noticed the 'skin' forming on top of the solution, which tells me it's done at this point.
 		I transfer it (STILL HOT!) to a PP container, and cover to let cool slowly on the kitchen counter (yay food safe chemistry). After cooling, I transfer it the freezer to crystallize the sodium acetate, and then wash it.
 		This is where it didn't exactly go as planned. For some reason, the solution decided to supersaturate in the freezer, and not crystallize (Damn you, clean containers!). 
-		This means the vinegar was all mixed with the sodium acetate and the only way to seperate it now would be to do the reaction and save the remnants to recrystallize that.
+		This means the vinegar was all mixed with the sodium acetate and the only way to separate it now would be to do the reaction and save the remnants to recrystallize that.
 		So I did that. I tapped the container, sloshed it, took the lid off, stirred it. Nothing. No crystallization, no hot ice, nothing. I was devastated. 
 		Just as I was ready to throw the whole container in the garbage, it started to form hot ice before my eyes. It was really cool and looked like a 3D snowflake growing in the liquid.
 		After this happened, and I was done oggling it, I let it sit in the container on the kitchen counter again, covered. It was a liquid again after a few hours, so I decided to put it back in the freezer.
@@ -190,7 +190,7 @@
 		I've had this solution of Nickel and Copper Chloride in HCl for a long time, just playing with it on aluminum foil to make H2, and so forth. 
 		I made it by dissolving US Nickel Coins in HCl and Hydrogen Peroxide. 
 		There's not actually that much nickel in nickels though, so this is mostly copper chloride with a tinge of nickel in it (8% MAX).
-		On Mar. 6, '21, I decided to retire the solution and evaporate it to it's crystal form. I was hoping that the nickel and copper would seperate but I knew that was a pipe dream.
+		On Mar. 6, '21, I decided to retire the solution and evaporate it to it's crystal form. I was hoping that the nickel and copper would separate but I knew that was a pipe dream.
 		I filtered the nickels out of the solution, and transferred it to a container to evaporate in (an old, cleaned-out PP cream cheese container).
 		
 		It is the 12th of March now, and it has finally dried up. No stalagmites formed, like on the pure copper chloride, but large lumps have protruded from the surface, almost like mountains/trees.
@@ -462,6 +462,21 @@
 		I am now ready to go boil the nickels which will react the Ni metal in them with the hot HCl, and form Nickel(II) Chloride in solution.
 		After filtering, I should just be able to evaporate it off and be left with some nice, relatively pure Nickel(II) Chloride.
 		
+		Immediately upon boiling, my power went out :(
+		The phones were down at my electric company, as well :(
+		Luckily, it came back on after 15-30 minutes while I was in the bathroom!
+		Woo-hoo!
+		I turned the hot-plate back on and we were good to go.
+		After about 30 more minutes we were boiling again.
+		The solution was slightly green/yellow at this point but it could have been from impurity in the HCl I'm using, at this point.
+		Luckily, as time went on, the solution became more and more green.
+		I should have timed when I started boiling :/
+		I think it's been 3-4 hours at this point, 1300 hours on Wednesday the 17th.
+		I have had to add more HCl twice now so it does not dry out.
+		If I had a condenser, I could reflux the acid and not have to do this, but, sadly, I'm stuck with the 'measuring-cup watch-glass method' for now.
+		I think I'm going to make this into a YouTube video, as the only ones I've seen FAILED horribly because they were impatient and added H2O2, which oxidizes the copper and ruins the separation of the two metals.
+		By boiling the copper-nickel alloy, we are speeding up the nickel reaction, and have no chance of dissolving the copper metal at all in boiling HCl (~108 ?C).
+		
 	
 
 	- Copper(II) Hydroxide - Mar. 17, `21
@@ -471,5 +486,11 @@
 		Because of this, the copper hydroxide crashes out of solution, due to it not being soluble in water.
 		After this, all that's needed is a simple filtration, then to dry what we filtered off.
 		We should be left with some beautiful baby-blue Copper(II) Hydroxide!
+		
+		I still have the copper metal in my solution, so I will need to filter it to get that out first.
+		Once the copper metal is out, I will be able to add the NaOH solution which will precipitate Copper(II) Hydroxide.
+		I can then wait for this to separate, and decant the liquid off of the CuOH.
+		I can then filter to get the last bit of liquid out, then leave to evaporate to drive off any remaining moisture.
+		Once dry, I should have relatively pure CuOH.
 		
 	
