@@ -200,6 +200,7 @@
 		
 		NEXT TIME: To actually progress with my original intent of getting nickel metal from nickels, I think I would need to boil them in HCl, rather than adding H2O2, which oxidized the copper into CuO, which dissolves in HCl.
 		I don't think I would need boiling chips as the nickels would act as boiling chips themselves.
+		I'M DOING THIS NOW (Mar. 14, `21)! SEE BELOW!! "Nickel(II) Chloride"
 		
 	
 
@@ -243,6 +244,10 @@
 		Mar. 17, `21 - After some additional research, I figured out that the complex is not stable without ammonia present. This means as I evaporated it, it would break down into it's components (CuOH + NH4OH).
 		Now that I know this, I am going to purposefully precipitate the copper(II) hydroxide out, filter, dry, and store it.
 		Entry on this BELOW ("Copper(II) Hydroxide").
+		
+		NEXT TIME: I would not try to make Copper(II) Hydroxide using NaOH. 
+		I would evaporate it down to leave whatever is left behind from the copper. 
+		Filter to remove copper metal first.
 		
 	
 
@@ -477,13 +482,24 @@
 		I think I'm going to make this into a YouTube video, as the only ones I've seen FAILED horribly because they were impatient and added H2O2, which oxidizes the copper and ruins the separation of the two metals.
 		By boiling the copper-nickel alloy, we are speeding up the nickel reaction, and have no chance of dissolving the copper metal at all in boiling HCl (~108 ?C).
 		
+		It is now 1700 hours on the 17th of March. I have been boiling this solution for over 7 hours at this point. It has definitely turned green.
+		It's not as dark as I would like, so I'm going to keep boiling. Luckily, it is a well-behaved reaction as long as there is plenty of liquid around.
+		The mangled five-cent pieces are great nucleation sites for the bubbles caused by boiling.
+		They really weren't kidding when they said Ni reacts with HCl slowly... I had tested room temp and a day did nothing, but I thought boiling would speed it up way more than this.
+		I may end up turning it off overnight, and reheating tomorrow after adding some acid.
+		But we'll cross that bridge when we come to it.
+		For now, I'm checking on it periodically and making sure it doesn't get below ~100mL.
+		This is excessive, but I'd rather err on the side of caution.
+		
 	
 
 	- Copper(II) Hydroxide - Mar. 17, `21
 		
-		A copper-ammonia complex can be formed by mixing copper and ammonia over time, with an excess of ammonia.
-		Copper Hydroxide can be precipitated from Copper-Ammonia complex solution by adding a solution of NaOH. This sodium hydroxide destroys the ammonia, meaning the complex is no longer stable.
-		Because of this, the copper hydroxide crashes out of solution, due to it not being soluble in water.
+		A copper-ammonia complex can be formed by mixing copper and ammonia over time, with an excess of ammonia. I have left bare copper wire in clear ammonia (the household cleaning kind) since Mar. 7, `21.
+		
+		Copper Hydroxide can be precipitated from Copper-Ammonia complex solution by adding a solution of NaOH. 
+		The sodium hydroxide destroys the ammonia, meaning the complex is no longer stable.
+		Because of this, the copper hydroxide crashes out of solution, due to it not being soluble in water alone.
 		After this, all that's needed is a simple filtration, then to dry what we filtered off.
 		We should be left with some beautiful baby-blue Copper(II) Hydroxide!
 		
@@ -493,4 +509,16 @@
 		I can then filter to get the last bit of liquid out, then leave to evaporate to drive off any remaining moisture.
 		Once dry, I should have relatively pure CuOH.
 		
-	
+		Yeah this didn't work. At all.
+		I dissolved 20g of sodium hydroxide in 200g of water (which is 200mL). I waited for it to clear up.
+		I filtered my copper-ammonia complex, made by reacting copper and ammonia with an oxidizer (I used ~20mL 3% aqueous hydrogen peroxide) through a coffee filter.
+		This removed the bits of copper metal, and also some white looking powder, but only very little. I'm not sure what this was. Maybe CuO?
+		With my clean copper-ammonia complex solution filtered, and my NaOH solution ready, I poured the NaOH into the copper-ammonia complex solution.
+		Nothing happened. I mean, the volume increased, but that's expected. The color lightened but only by what you would expect by adding water.
+		I'm not sure what I did wrong. Maybe the hydrogen peroxide messed things up? Or maybe I didn't have the correct copper-ammonia complex, or something. I really don't know.
+		:(
+		
+		NEXT TIME: I don't fackin' know tbh
+		
+		
+
