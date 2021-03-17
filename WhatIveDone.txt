@@ -72,7 +72,7 @@
 	
 		First started by dissolving copper metal in HCl. To do this, you could boil it, or just add an oxidizing agent. I used 3% hydrogen peroxide (H2O2) as it is cheap.
 		I did this in a clear polypropylene (PP) spice container with what looks to be an LDPE lid, but there aren't any markings to be sure. 
-		Within a few hours of mixing everything, it was already a dark-green color. I used a pipette to put a drop on some aluminum foil, and the HCl and CuCl2 foamed and bubbled like crazy, forming a metallic orange precipate. 
+		Within a few hours of mixing everything, it was already a dark-green color. I used a pipette to put a drop on some aluminum foil, and the HCl and CuCl2 foamed and bubbled like crazy, forming a metallic orange precipitate. 
 		This small experiment confirms the presence of copper(II) chloride, so I decide to wait for the solution to saturate, then evaporate it and see the spiky crystals, as there's only like one picture on Wikipedia (and it sucks (no offense)).
 		After 2-3 days, it was so dark I couldn't see a bright flashlight shining through it. It looked black, but where it was thin there was definitely green present. I transferred it to an old cream cheese container for evaporation.
 		On Feb. 26, '21, small, needle-like clusters of crystals started to grow on the surface at various points after 2 days of evaporating. Later in the day, they had more than doubled in quantity and size.
@@ -230,7 +230,7 @@
 		First, right after the copper and ammonia are mixed, nothing happens. Even after a few minutes, no bubbles form, no nothing. But, after a few hours, I found it turned VERY light blue.
 		It was hard to tell if it was even a different color at this point, or if I was imagining it. However, overnight, an amazing reaction occured, as, when I woke up, I found it to be a deep vibrant violet color.
 		I really loved the color it produced, so I decided to acquire more before attempting to crystallize it out. There was still plenty of copper metal, so I added more ammonia, about 5x the amount.
-		As I added it, a powdery precipate formed, but as I kept adding, it re-dissolved into a light-blue color that almost looked like liquid oxygen. I stirred it and some precipate came up from the bottom.
+		As I added it, a powdery precipitate formed, but as I kept adding, it re-dissolved into a light-blue color that almost looked like liquid oxygen. I stirred it and some precipitate came up from the bottom.
 		It was shiny, and reflected light like glitter while it was swimming around the solution. More and more of this has been forming over the next few days. 
 		From all the research I've done this powder is copper hydroxide, formed by the presence of copper oxide in basic conditions. However, once it gets too acidic/not basic enough it converts to some copper-ammonia complex that is light blue.
 		Conversely, if it gets too basic, a dark blue/violet DIFFERENT copper-ammonia complex forms. Or so I think. This basic copper-ammonia complex is a color I very much like, and am interested in crystallizing out. 
@@ -239,6 +239,10 @@
 		Mar. 13, '21 - The extra volume has finally reached a color reminiscent of the original. It took much longer than expected, but that's okay.
 		I think I will give it a few more days to fully react or do what it is going to do, then I will un-cover it and leave it outside for a long, long time.
 		I will cover it with a paper towel or something so that it doesn't get dust/dead bugs in it.
+		
+		Mar. 17, `21 - After some additional research, I figured out that the complex is not stable without ammonia present. This means as I evaporated it, it would break down into it's components (CuOH + NH4OH).
+		Now that I know this, I am going to purposefully precipitate the copper(II) hydroxide out, filter, dry, and store it.
+		Entry on this BELOW ("Copper(II) Hydroxide").
 		
 	
 
@@ -292,6 +296,16 @@
 		As this happens, the same reaction happens where the electron carries copper ion(s) that get plated onto the negative electrode.
 		Due to this, it keeps building up the crystals at the base as well as at the tip, I think :).
 		
+		It is 0800 on a Wednesday, the 17th. The largest copper crystal has made it over half-way to the other electrode! I'm worried about it reaching the fluffy bed of stuff at the bottom and creating a short-circuit.
+		I'm pretty sure the bed of stuff that has settled out is mostly white CuO. This would explain it's kind-of ghostly appearance.
+		If it is, it's possible to grow crystals from it. The positive electrode (the one being oxidized) has CuO crystals growing on it, as well as Copper(II) Acetate crystals growing everywhere the CuO isn't.
+		It really is a beautiful sight, almost like an old ship-wreck underwater.
+		I'm thinking about breaking the largest crystal before it reaches the other electrode, allowing all the others to grow more.
+		Speaking of the others, there are 2 crystals about half the size of the largest, and 2 more crystals half the size of those.
+		Beyond that, it's mostly solid lumps on the wire itself. It almost looks like a mis-shapen Allihn condenser.
+		I am so happy with how this is turning out!
+		It has been 10 days and I already have such large crystals! From the videos/forum posts online it seemed like it was going to take months to get near this size.
+		
 	
 
 	- Zinc, Carbon, and MnO2 from batteries - Mar. 8, '21
@@ -308,6 +322,7 @@
 		
 		NEXT TIME: I should wash the powder with water to free the KOH, as it is quite caustic. 
 		I didn't this time as I don't have the reaction vessels large enough to do this, or any way to filter it (literally not even a 2-liter bottle rn lol)...
+		Also, KOH and MnO2 both react with H2O2 to produce O2, which is my main use for this powder, so I don't mind it being mingled and mangled together :).
 		
 	
 
@@ -395,6 +410,8 @@
 		It seems like doing this in a liquid solvent might be the basis of my dilemma.
 		I will research into powder-based alternatives, I have seen some pyrotechnics compositions that look promising, and I think I can get my hands on what I need.
 		
+		NEXT TIME: I would not do this, as Copper(II) Chloride just doesn't get used efficiently when burned in a liquid fuel.
+		
 	
 
 	- Nickel(II) Chloride - Mar. 14, '21
@@ -432,5 +449,27 @@
 		This seems like a small amount to boil down (too small, in fact), so I am going to dilute the acid with some water, making the total volume around 100 to 200mL.
 		Now, all I have to do is prepare the solution, boil the nickels in the solution, and extract as much nickel as I can!
 		I think I will do this tomorrow, as it is getting late and I'm a lazy fuck.
+		
+		The morning of Mar. 17, `21, has rolled around, and I am ready to do some boiling!
+		I have created the diluted HCl solution, and am ready to add the nickels, and start the reaction!
+		I still am amateur, so I have no lab glass, meaning I will be boiling in a mason jar.
+		This is not ideal, but not not-ideal, so I can make it work.
+		I will be using a sand-bath on top of a hot-plate for even heating.
+		The nickels will act as my boiling chips/nucleation sites for bubbles.
+		I am using a pyrex measuring cup set over the top of the mason jar to reduce the amount of liquid lost to evaporation.
+		As copper does not react with the hot HCl (the whole point of this), I will be using an old copper electrode to stir it while it is hot.
+		I don't have any glass stir rods yet and I'm pretty sure most steels would get destroyed by the HCl, so silver-ware is out, and copper pipe is in!
+		I am now ready to go boil the nickels which will react the Ni metal in them with the hot HCl, and form Nickel(II) Chloride in solution.
+		After filtering, I should just be able to evaporate it off and be left with some nice, relatively pure Nickel(II) Chloride.
+		
 	
 
+	- Copper(II) Hydroxide - Mar. 17, `21
+		
+		A copper-ammonia complex can be formed by mixing copper and ammonia over time, with an excess of ammonia.
+		Copper Hydroxide can be precipitated from Copper-Ammonia complex solution by adding a solution of NaOH. This sodium hydroxide destroys the ammonia, meaning the complex is no longer stable.
+		Because of this, the copper hydroxide crashes out of solution, due to it not being soluble in water.
+		After this, all that's needed is a simple filtration, then to dry what we filtered off.
+		We should be left with some beautiful baby-blue Copper(II) Hydroxide!
+		
+	
