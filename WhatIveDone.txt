@@ -60,7 +60,7 @@
 		The top portion was still taped to the top and connected electrically, but had dissolved at the gas-liquid interface due to the presence of extra O2 faster than anywhere else, causing the cathode to pinch itself off from the solution.
 		Using a USB phone charger for power.
 		
-		Next time, I need more copper (expensive, ugh) mass on the cathode. 
+		NEXT TIME: I need more copper (expensive, ugh) mass on the cathode. 
 		Or I could just think slightly ahead and pour in already-saturated solution, meaning I don't have to dissolve heaps into the fresh vinegar/H2O2 mixture.
 		I think the accordian style ~14AWG copper wire worked great as the anode in this case.
 		The container seemed really good for this sort of thing, although it evaporates rather quickly, meaning refills are quite frequent (~1-3 days interval)
@@ -98,6 +98,26 @@
 		The acid got very hot with each dip of the can, but, slowly and surely, I was steadfast.
 		Eventually, the bottom 3cm or so of the can were plastic only, but the heat had popped the bag, spilling the soda into my empty container :(.
 		Next time, I need to dilute the acid for a less-violent reaction. This way, I could leave it dissolving for ~1 hour, then come back and take it out without woorying about heat, or furious foaming.
+		
+	
+
+	- Carbon Snek - Feb 2?, `21
+		
+		Sulfuric acid is available as 'Kleen-Out' drain opener at Wal-Mart in a relatively high (93%) concentration. It is a thick, syrupy liquid, and completely clear.
+		Sugar, also known as glucose (C12H22O11), is a good fuel source, as it has the perfect ratio of H to O to make water molecules.
+		
+		C12H22O11 + H2SO4 + 1/2 O2 = 11 C + CO2 + 12 H2O + SO2
+		As the sulfuric acid reacts with the water produced, a secondary reaction occurs: the break-down of glucose due to temperature.
+		C12H22O11 + (heat) = 12 C + 11 H2O
+		The water keeps reacting exothermically with the H2SO4, meaning it keeps getting hotter and hotter, breaking down the sugar, and the loop continues until it is out of one of the reactants.
+		
+		I used a random amount of sugar and acid in an old tomato sauce jar, outside. After mixing, there was a distinct caramel smell given off by the sugar being heated.
+		After 15 seconds or so, the sugar had turned to brown, and was blackening as time went on.
+		I suspect this to be the carbon forming from the first reaction, as well as water.
+		This water dissolves the sugar and dilutes the acid, which is exothermic.
+		After about 30 seconds, it was appearing to grow upwards. After a minute or two, it had grown to about 4x it's height in the jar (or just peeking over the top rim).
+		It smelled terrible at this point (presumably SO2 trapped in the carbon foam, along with CO2, and some H2O).
+		Clean-up was awful. The carbon foam is one of the messiest things I have ever dealt with.
 		
 	
 
@@ -456,40 +476,54 @@
 		I think I will do this tomorrow, as it is getting late and I'm a lazy fuck.
 		
 		The morning of Mar. 17, `21, has rolled around, and I am ready to do some boiling!
-		I have created the diluted HCl solution, and am ready to add the nickels, and start the reaction!
-		I still am amateur, so I have no lab glass, meaning I will be boiling in a mason jar.
-		This is not ideal, but not not-ideal, so I can make it work.
-		I will be using a sand-bath on top of a hot-plate for even heating.
-		The nickels will act as my boiling chips/nucleation sites for bubbles.
-		I am using a pyrex measuring cup set over the top of the mason jar to reduce the amount of liquid lost to evaporation.
-		As copper does not react with the hot HCl (the whole point of this), I will be using an old copper electrode to stir it while it is hot.
-		I don't have any glass stir rods yet and I'm pretty sure most steels would get destroyed by the HCl, so silver-ware is out, and copper pipe is in!
-		I am now ready to go boil the nickels which will react the Ni metal in them with the hot HCl, and form Nickel(II) Chloride in solution.
-		After filtering, I should just be able to evaporate it off and be left with some nice, relatively pure Nickel(II) Chloride.
+			I have created the diluted HCl solution, and am ready to add the nickels, and start the reaction!
+			I still am amateur, so I have no lab glass, meaning I will be boiling in a mason jar.
+			This is not ideal, but not not-ideal, so I can make it work.
+			I will be using a sand-bath on top of a hot-plate for even heating.
+			The nickels will act as my boiling chips/nucleation sites for bubbles.
+			I am using a pyrex measuring cup set over the top of the mason jar to reduce the amount of liquid lost to evaporation.
+			As copper does not react with the hot HCl (the whole point of this), I will be using an old copper electrode to stir it while it is hot.
+			I don't have any glass stir rods yet and I'm pretty sure most steels would get destroyed by the HCl, so silver-ware is out, and copper pipe is in!
+			I am now ready to go boil the nickels which will react the Ni metal in them with the hot HCl, and form Nickel(II) Chloride in solution.
+			After filtering, I should just be able to evaporate it off and be left with some nice, relatively pure Nickel(II) Chloride.
+			
+			Immediately upon boiling, my power went out :(
+			The phones were down at my electric company, as well :(
+			Luckily, it came back on after 15-30 minutes while I was in the bathroom!
+			Woo-hoo!
+			I turned the hot-plate back on and we were good to go.
+			After about 30 more minutes we were boiling again.
+			The solution was slightly green/yellow at this point but it could have been from impurity in the HCl I'm using, at this point.
+			Luckily, as time went on, the solution became more and more green.
+			I should have timed when I started boiling :/
+			I think it's been 3-4 hours at this point, 1300 hours on Wednesday the 17th.
+			I have had to add more HCl twice now so it does not dry out.
+			If I had a condenser, I could reflux the acid and not have to do this, but, sadly, I'm stuck with the 'measuring-cup watch-glass method' for now.
+			I think I'm going to make this into a YouTube video, as the only ones I've seen FAILED horribly because they were impatient and added H2O2, which oxidizes the copper and ruins the separation of the two metals.
+			By boiling the copper-nickel alloy, we are speeding up the nickel reaction, and have no chance of dissolving the copper metal at all in boiling HCl (~108 ?C).
+			
+			It is now 1700 hours on the 17th of March. I have been boiling this solution for over 7 hours at this point. It has definitely turned green.
+			It's not as dark as I would like, so I'm going to keep boiling. Luckily, it is a well-behaved reaction as long as there is plenty of liquid around.
+			The mangled five-cent pieces are great nucleation sites for the bubbles caused by boiling.
+			They really weren't kidding when they said Ni reacts with HCl slowly... I had tested room temp and a day did nothing, but I thought boiling would speed it up way more than this.
+			I may end up turning it off overnight, and reheating tomorrow after adding some acid.
+			But we'll cross that bridge when we come to it.
+			For now, I'm checking on it periodically and making sure it doesn't get below ~100mL.
+			This is excessive, but I'd rather err on the side of caution.
 		
-		Immediately upon boiling, my power went out :(
-		The phones were down at my electric company, as well :(
-		Luckily, it came back on after 15-30 minutes while I was in the bathroom!
-		Woo-hoo!
-		I turned the hot-plate back on and we were good to go.
-		After about 30 more minutes we were boiling again.
-		The solution was slightly green/yellow at this point but it could have been from impurity in the HCl I'm using, at this point.
-		Luckily, as time went on, the solution became more and more green.
-		I should have timed when I started boiling :/
-		I think it's been 3-4 hours at this point, 1300 hours on Wednesday the 17th.
-		I have had to add more HCl twice now so it does not dry out.
-		If I had a condenser, I could reflux the acid and not have to do this, but, sadly, I'm stuck with the 'measuring-cup watch-glass method' for now.
-		I think I'm going to make this into a YouTube video, as the only ones I've seen FAILED horribly because they were impatient and added H2O2, which oxidizes the copper and ruins the separation of the two metals.
-		By boiling the copper-nickel alloy, we are speeding up the nickel reaction, and have no chance of dissolving the copper metal at all in boiling HCl (~108 ?C).
-		
-		It is now 1700 hours on the 17th of March. I have been boiling this solution for over 7 hours at this point. It has definitely turned green.
-		It's not as dark as I would like, so I'm going to keep boiling. Luckily, it is a well-behaved reaction as long as there is plenty of liquid around.
-		The mangled five-cent pieces are great nucleation sites for the bubbles caused by boiling.
-		They really weren't kidding when they said Ni reacts with HCl slowly... I had tested room temp and a day did nothing, but I thought boiling would speed it up way more than this.
-		I may end up turning it off overnight, and reheating tomorrow after adding some acid.
-		But we'll cross that bridge when we come to it.
-		For now, I'm checking on it periodically and making sure it doesn't get below ~100mL.
-		This is excessive, but I'd rather err on the side of caution.
+		Mar. 18, `21, has rolled around, and I forgot to update the entry last night.
+			The solution was a lime-green, and completely clear after 10-12 hours of boiling.
+			Basically, all I did once reaching the stop-point was turn the heating off, pop on some oven gloves, and filter the hot solution through a coffee-filter to remove any chunks of copper from the nickels that was left.
+			Unfortunately, I didn't fore-see the hot liquid just tearing straight through my filter :(
+			Although the filter tore right away, I still was able to decant most of the clear liquid and leave behind the solid bits of metal at the bottom, so it's not a total failure.
+			I brought the decanted solution inside to the evaporation station (a shelf with a fan blowing on it) to cool overnight.
+			Even after a few minutes, I could see crystals starting to grow on the bottom of the solution as it cooled.
+			So exciting!
+			
+			When I woke up this morning, I checked on the solution (I really should have used a container with clear walls :*
+			The solution has gone from completely clear, tinted green to completely black, tinted green.
+			I'm hoping this is from evaporation, and is just Nickel(II) Chloride in solution with a high concentration, giving it a black color due to the green on top of green on top of green on top of green, etc.
+			It reminds me of the Copper/Nickel(II) Chloride solution color, so I am still hopeful that I have the right product, and that it didn't degrade from exposure to air or something.
 		
 	
 
