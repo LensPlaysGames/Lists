@@ -188,6 +188,13 @@
 		Once cool enough, I transferred inside to completely cool to room temperature.
 		I am planning to put it in the freezer in order to get the most crystals out of the water as possible.
 		
+		It is now Mar. 20, '21, and I totally did not put that in the freezer at all. I did some research (that I should have done before-hand) and realized I have nothing to wash the crystals with :(.
+			This means I left them in the brown liquid they were in to evaporate.
+			At some point, it did turn into a solid, with an ultra-hard, gel-like substance forming at the bottom of the jar.
+			However, after a few days, this solid returned back to a brown solution, show-casing the deliquescience of this chemical.
+			It really is weird to leave something a solid and have it just turn into a liquid, but not by melting. I think I would need some dioxane to be able to clean this up, so at this point it's kind of pointless...
+			Oh well!
+		
 	
 
 	- Zinc Acetate - Mar 5, '21
@@ -202,6 +209,11 @@
 		I took it off the stirrer and set it on a shelf to react for some time.
 		At five days after the solution was added to the pennies, it was still bubbling about the same as it was on day 3.
 		Day 7 is a similar story, with less bubbling until you tap or jar the container, at which time everything releases it's bubbles at once.
+		I let this go for ~10 days and then transferred it to a dish for evaporation.
+		
+		Mar. 20, '21 - The solution is about 20% of what it was before, volume-wise.
+			I presume there to be another week before it's dry; there is about 100mL left.
+			The solution has taken on a slight cloudiness, and is definitely more viscous than water would be.
 		
 	
 
@@ -534,6 +546,16 @@
 			
 		Mar. 20, `21 - The slight film of liquid left behind on the un-covered surface, when I tilted the evaporation dish, has left such a thin film of crystals that it looks clear/white in color.
 			The edges of where the solution had gathered have shown significantly thicker crystal growth than before, meaning the tilt was not in vain :).
+			
+			It is the afternoon now (~1700 hours), and there has been a development. The Nickel(II) Chloride has formed crystals!
+			There is a ring of vertical disc-shaped crystal clusters that formed at some point during evaporation. Interestingly enough, there is a gap with no crystals between the ring and the top of the solution.
+			I'm thinking the crystals were able to grow that large by siphoning from the solution, until it got too far away and couldn't get past gravity? I don't know, just a guess.
+			But the color is amazing! I'm so happy this worked out. It seems there might be some Copper(II) Chloride mixed in, based on the fact that there are some blue-looking, spiky patches through-out the crystals.
+			There is about 10mL left in the bottom edge of the 200x200mm oven dish, so not much longer to go! 
+			As an interesting side note, I also had some Copper(II) Acetate drying in the evaporation station, past the Nickel(II) Chloride.
+			It seems to me the HCl gas/vapors made there way through the air-stream and reacted with the copper acetate, forming copper chloride.
+			Luckily, it was just left-over on the bottom of the evaporation dish from when I had already collected it, as I would not have liked all of it to go blue/green.
+			This is a good reminder to be careful about what I evaporate next to each other :).
 		
 	
 
