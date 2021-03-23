@@ -343,6 +343,24 @@
 		I am so happy with how this is turning out!
 		It has been 10 days and I already have such large crystals! From the videos/forum posts online it seemed like it was going to take months to get near this size.
 		
+		On the night of Mar. 22, '21, I decided it was time to remove the large crystal (it was less than 1cm from the other electrode).
+		To do this, I reached in with some tweezers, and the thing immediately broke :(.
+		After fishing out all of the pieces I could, I left it overnight, still powered on.
+		I put the pieces on a paper towel to dry immediately, then, once I had collected them all, went to the sink and rinsed them thoroughly, on the paper towel.
+		After I could see no more blue color from the copper acetate solution coming off, I put them in the evaporation station (shelf with a fan) to dry.
+		When I checked on them this morning, Mar. 23, '21, they all looked the same and haven't significantly degraded or oxidized.
+		I think I will choose one to keep and spray it with polyurethane to preserve it's color and shape.
+		The rest, I will store as elemental copper, for now. The crystal reached about 4cm length in total, but broke into 1-2cm sections.
+		The copper is beautiful, and some pieces are actually quite strong, due to them being more bulbous, rather than branch-like.
+		I am so happy to have grown these myself, and I can't wait for V4!
+		BTW, the short crystals are all bulbous, and I couldn't even remove them from the wire they were growing on :).
+		I think I will use these as my 'seed crystals' for V4! I am so excited to have these crystals and the fact I made them myself is so awesome!!!
+		I also emptied the solution in the crystal-growing vessel into a container, then filtered that for clean, saturated Copper(II) Acetate solution.
+		I know it's saturated because of the 5mm layer of blue crystals that formed across most of the bottom of the vessel. It looks almost like a sludge of crystals, it's really beautiful.
+		The crystals are dark-blue, with glitter-like imperfections shining every which way as you look at it.
+		I am going to leave the vessel for a while, as I have some other projects I'm working on today.
+		I think I will dissolve the crystals in the container in water or something, then pour it off through a filter, and evaporate to get clean crystals. (Recrystallize impure Copper(II) Acetate in bottom of crystal-growing vessel).
+		
 	
 
 	- Zinc, Carbon, and MnO2 from batteries - Mar. 8, '21
@@ -447,7 +465,7 @@
 		It seems like doing this in a liquid solvent might be the basis of my dilemma.
 		I will research into powder-based alternatives, I have seen some pyrotechnics compositions that look promising, and I think I can get my hands on what I need.
 		
-		NEXT TIME: I would not do this, as Copper(II) Chloride just doesn't get used efficiently when burned in a liquid fuel.
+		NEXT TIME: I would not do this, as Copper(II) Chloride just doesn't get used efficiently when burned in a liquid fuel. Powders when in doubt-ers, or something.
 		
 	
 
@@ -556,6 +574,32 @@
 			It seems to me the HCl gas/vapors made there way through the air-stream and reacted with the copper acetate, forming copper chloride.
 			Luckily, it was just left-over on the bottom of the evaporation dish from when I had already collected it, as I would not have liked all of it to go blue/green.
 			This is a good reminder to be careful about what I evaporate next to each other :).
+			
+		Mar. 22, '21 - I need the dish that the crystals are growing in, and they are completely dry, so I'm going to collect them today.
+			It seems like the copper chloride color went away after a few days, meaning it could have been the nickel chloride but slightly dehydrated.
+			I now have the characteristic lime-green color of Nickel(II) Chloride Hexahydrate!
+			After scraping the container, I transferred the crudely-crushed substance onto a piece of paper, folded it in half, and started powderizing with the handle of a screwdriver.
+			After it was all powderized, I used a paper funnel to transfer the salt into a small, glass vial.
+			The Nickel(II) Chloride is all safe and in storage! Woot woot!
+			I will have to weigh the salt and try to figure out a yield from the 6 nickel coins I used.
+			
+			Theoretical Max: 1.25g * 6 coins = 7.5g Ni
+			
+			Ni is 45.288% of the total mass of Nickel(II) Chloride Anhydrate, the rest being chlorine.
+			7.5g/45.288 = total mass / 100
+			0.165606783 grams = m / 100
+			m = 16.5606783 grams
+			Theoretical Maximum Yield: 16.5606783 grams of Nickel(II) Chloride Anhydrate.
+			
+			But, I have the hexahydrate... So,
+			24.693% of Nickel(II) Chloride Hexahydrate is Ni, the element.
+			7.5g/24.693 = total mass / 100
+			0.303729802 grams = m / 100
+			m = 30.3729802 grams
+			ACTUAL Theoretical Maximum Yield: 30.3729802 grams of Nickel(II) Chloride Hexahydrate.
+			
+			Actual Yield:
+			% Yield:
 		
 	
 
