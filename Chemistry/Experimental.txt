@@ -63,7 +63,7 @@ Mar. 22, '21 - Black Powder!
 
 Mar. 23, '21 - Nitrocellulose!
 
-	The night before, SWIM prepared a solution of Sulfuric Acid and Potassium Nitrate.
+	The night before, SWIM prepared a solution of Sulfuric Acid and Potassium Nitrate outside in the ~0 ºC weather.
 	
 		35g KNO3
 		50mL H2SO4
@@ -71,6 +71,7 @@ Mar. 23, '21 - Nitrocellulose!
 	It froze immediately upon adding, and was impossible to stir or remove from the glass, so SWIM let it sit overnight, inside where it was warm.
 	SWIM believes the freezing problem was due to being outside in 0 ºC weather.
 	In the morning, the 'ice' remained, so SWIM started stirring, and it incorporated after 5-10 minutes of stirring (my poor arms).
+	
 	After that, SWIM was left with a yellow-brown, viscous goop that SWIM had to somehow soak cotton in.
 	To be exact, 4g of cotton.
 	SWIM went outside, where it was cold, and let everything cool down. While SWIM was doing that, SWIM weighed out the 4g of cotton SWIM needed, from cotton make-up removal pads.
@@ -81,11 +82,35 @@ Mar. 23, '21 - Nitrocellulose!
 	So, SWIM stirred it again. After a thorough mixing, SWIM left it in a blob to soak again.
 	When SWIM came back, this time after 45 minutes, the blob had turned to a puddle.
 	Any remnants of cotton that were stuck together was now evenly distributed within the goop.
+	
 	SWIM prepared a solution of sodium bicarbonate (baking soda, NaHCO3), and set it beside the container with the solution and cotton in it.
 	SWIM slowly scooped over all the cotton SWIM could from the solution, making sure to go slowly to prevent a foam-over.
 	After adding it all, and the foaming had died down, SWIM brought the (now non-toxic) cotton-baking soda solution inside.
-	SWIM used a coffee filter in a funnel to act as a washing setup. Slowly, SWIM washed all the cotton with water.
-	The draining takes FOREVER!
+	SWIM used a coffee filter in a small, red, automotive funnel to act as a washing setup. Slowly, SWIM washed all the cotton with water.
+	The draining takes FOREVER! Vacuum filtering would be a giant plus, maybe even just a buchner funnel in general.
 	
-	NEXT TIME: Don't cool the acid and KNO3 while dissolving, only while adding the cotton.
-	Make more!
+	After washing it 5-10 times, over the course of the whole day, SWIM can safely say it is rinsed now.
+	SWIM is going to leave it in the automotive funnel to dry overnight, then pick it out in the morning.
+	SWIM is worried that if SWIM tries to remove the filter now, the wet paper will just rip immediately.
+	
+	Hopefully, by mid-day tomorrow, SWIM will be left with dry, white nitrocellulose!
+	Testing will commence, but SWIM will update this entry before doing so as to the state of the dryness of the material in the morning.
+	
+	It is the morning of the 24th of March, 2021. 
+	
+		The nitrocellulose has all coalesced, SWIM guesses you could say, into one big conglomerate.
+		It was still quite wet. SWIM decided it was time to remove it from the funnel, and into the open air-stream of the evaporation station.
+		SWIM decided to pull the filter out, and lay it on the wire shelf for drying from beneath and above.
+		It was quite easy to remove, and the cotton being all in one big piece is very helpful, as opposed to the tiny bits and balls that it was before.
+		SWIM used a paper towel to squeeze out some water, just by pressing on it from the top.
+		SWIM spread it as thin as it could go while still being well within the boundaries of the filter paper, and left to dry completely.
+		
+	
+
+	NEXT TIME: 
+		
+		Don't cool the H2SO4 and KNO3 while dissolving, only while adding the cotton.
+		&
+		Make more!
+	
+

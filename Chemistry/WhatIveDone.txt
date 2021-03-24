@@ -101,7 +101,7 @@
 		
 	
 
-	- Carbon Snek - Feb 2?, `21
+	- Carbon Snek - Feb 2?, '21
 		
 		Sulfuric acid is available as 'Kleen-Out' drain opener at Wal-Mart in a relatively high (93%) concentration. It is a thick, syrupy liquid, and completely clear.
 		Sugar, also known as glucose (C12H22O11), is a good fuel source, as it has the perfect ratio of H to O to make water molecules.
@@ -214,6 +214,16 @@
 		Mar. 20, '21 - The solution is about 20% of what it was before, volume-wise.
 			I presume there to be another week before it's dry; there is about 100mL left.
 			The solution has taken on a slight cloudiness, and is definitely more viscous than water would be.
+			
+		Mar. 22, '21 - WOW! Beautiful, large crystals have grown. I really am shocked at the visuals of these.
+			There are hexagons, rhombii, and all sorts of polygons. Clear, slightly cloudy color.
+			There are three distinct, large crystals, about 1cm in diameter forming in the center.
+			Around the outside of the solution, where it contacts the container, is a large ring of crystals, some just as large as the ones in the middle.
+			I need to do more of these!!!!
+			
+		Mar. 23, '21 - I left the solution to evaporate more, and the center distinct crystals have become part of a cluster that spans the entire bottom of the container.
+			There is ~10mL left to evaporate, so a day or two more and we should be there!
+			I am excited to see if any of the large crystals are salvageable. If so, I am going to immediately coat one in polyurethane to protect it, as I want to preserve these beautiful crystals.
 		
 	
 
@@ -232,7 +242,7 @@
 		
 		NEXT TIME: To actually progress with my original intent of getting nickel metal from nickels, I think I would need to boil them in HCl, rather than adding H2O2, which oxidized the copper into CuO, which dissolves in HCl.
 		I don't think I would need boiling chips as the nickels would act as boiling chips themselves.
-		I'M DOING THIS NOW (Mar. 14, `21)! SEE BELOW!! "Nickel(II) Chloride"
+		I'M DOING THIS NOW (Mar. 14, '21)! SEE BELOW!! "Nickel(II) Chloride"
 		
 	
 
@@ -273,7 +283,7 @@
 		I think I will give it a few more days to fully react or do what it is going to do, then I will un-cover it and leave it outside for a long, long time.
 		I will cover it with a paper towel or something so that it doesn't get dust/dead bugs in it.
 		
-		Mar. 17, `21 - After some additional research, I figured out that the complex is not stable without ammonia present. This means as I evaporated it, it would break down into it's components (CuOH + NH4OH).
+		Mar. 17, '21 - After some additional research, I figured out that the complex is not stable without ammonia present. This means as I evaporated it, it would break down into it's components (CuOH + NH4OH).
 		Now that I know this, I am going to purposefully precipitate the copper(II) hydroxide out, filter, dry, and store it.
 		Entry on this BELOW ("Copper(II) Hydroxide").
 		
@@ -505,7 +515,7 @@
 		Now, all I have to do is prepare the solution, boil the nickels in the solution, and extract as much nickel as I can!
 		I think I will do this tomorrow, as it is getting late and I'm a lazy fuck.
 		
-		The morning of Mar. 17, `21, has rolled around, and I am ready to do some boiling!
+		The morning of Mar. 17, '21, has rolled around, and I am ready to do some boiling!
 			I have created the diluted HCl solution, and am ready to add the nickels, and start the reaction!
 			I still am amateur, so I have no lab glass, meaning I will be boiling in a mason jar.
 			This is not ideal, but not not-ideal, so I can make it work.
@@ -541,7 +551,7 @@
 			For now, I'm checking on it periodically and making sure it doesn't get below ~100mL.
 			This is excessive, but I'd rather err on the side of caution.
 		
-		Mar. 18, `21, has rolled around, and I forgot to update the entry last night.
+		Mar. 18, '21, has rolled around, and I forgot to update the entry last night.
 			The solution was a lime-green, and completely clear after 10-12 hours of boiling.
 			Basically, all I did once reaching the stop-point was turn the heating off, pop on some oven gloves, and filter the hot solution through a coffee-filter to remove any chunks of copper from the nickels that was left.
 			Unfortunately, I didn't fore-see the hot liquid just tearing straight through my filter :(
@@ -557,12 +567,12 @@
 			
 			I poured the solution into a glass oven dish to be able to see it better, and evaporate faster.
 			
-		Mar. 19, `21 - The solution has started to crystallize out some Nickel(II) Chloride (by the looks of it).
+		Mar. 19, '21 - The solution has started to crystallize out some Nickel(II) Chloride (by the looks of it).
 			The bottom of the dish is drying out, leaving behind a very thin skin of the nickel salt.
 			I kind of want a bigger crystal, so I have put something under one side of the dish as to let it rest at an angle.
 			All the fluid is gathered on one side now, hopefully allowing for more of the crystals to grow in one spot. We'll see :).
 			
-		Mar. 20, `21 - The slight film of liquid left behind on the un-covered surface, when I tilted the evaporation dish, has left such a thin film of crystals that it looks clear/white in color.
+		Mar. 20, '21 - The slight film of liquid left behind on the un-covered surface, when I tilted the evaporation dish, has left such a thin film of crystals that it looks clear/white in color.
 			The edges of where the solution had gathered have shown significantly thicker crystal growth than before, meaning the tilt was not in vain :).
 			
 			It is the afternoon now (~1700 hours), and there has been a development. The Nickel(II) Chloride has formed crystals!
@@ -603,9 +613,9 @@
 		
 	
 
-	- Copper(II) Hydroxide - Mar. 17, `21
+	- Copper(II) Hydroxide - Mar. 17, '21
 		
-		A copper-ammonia complex can be formed by mixing copper and ammonia over time, with an excess of ammonia. I have left bare copper wire in clear ammonia (the household cleaning kind) since Mar. 7, `21.
+		A copper-ammonia complex can be formed by mixing copper and ammonia over time, with an excess of ammonia. I have left bare copper wire in clear ammonia (the household cleaning kind) since Mar. 7, '21.
 		
 		Copper Hydroxide can be precipitated from Copper-Ammonia complex solution by adding a solution of NaOH. 
 		The sodium hydroxide destroys the ammonia, meaning the complex is no longer stable.
@@ -632,3 +642,33 @@
 		
 		
 
+	- Ammonium Sulfate Crystallization - Mar. 24, '21
+		
+		Ammonium Sulfate is soluble in water, and forms crystals.
+		My dad has a giant bag of ammonium sulfate leftover from gardening, and doesn't really want it anymore.
+		So I told him, I can grow some crystals with it!
+		Ammonium Sulfate has a Molarity of 4.1M at 25 ºC.
+		One mole of Ammonium Sulfate is 132.14 grams.
+		132.14g/mol * 4.1 moles = 541.774 grams / liter
+		So, a 200mL batch would require (541.744 / 5) = 108.3488 grams of ammonium sulfate.
+		
+		To keep it easy, I'll use 200mL of room temperature water, and 100g of ammonium sulfate, which is a stoichiometric excess of solvent.
+		
+	
+
+	- Copper Metal Crystals V4 - Mar. 24, '21
+		
+		Woo-hoo! After V3, I was left with some beautiful trees! I'm going to do mostly the same thing again, except I will add less saturated Copper(II) Acetate solution as it evaporates.
+		The excess copper acetate all collected in the bottom, and took up space that could have been crystal-growing solution.
+		To counter-act this, I will be using fresh solution to top it off, instead of pre-saturated solution.
+		This should keep roughly the same amount of copper acetate in the vessel as when I started, and not keep building up as a layer of sediment.
+		To clean the vessel of the copper acetate sediment, I just poured in 500mL of vinegar and 200mL of hydrogen peroxide (2.5:1 ratio), and that dissolved most of the excess acetate.
+		To this solution, I added the copper electrodes, turned on power, and started up V4! This caused some bubbling at the negative electrode, and all of the excess copper acetate to start dissolving.
+		The bubbles sometimes carried up bits of copper acetate that hadn't dissolved yet, so I had fun looking at the bits dancing around in the solution for quite some time.
+		I am using the same wire as the negative electrode that I did in V3. It is covered in bulbous growths of copper metal, and a few spots are reaching ~5mm or so toward the positive electrode in a tree-branch-like structure.
+		I am hoping these act as 'seed crystals' and help to form larger, stronger crystals, as opposed to growing on a new length of bare wire.
+		
+	
+
+
+		
