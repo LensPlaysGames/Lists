@@ -124,5 +124,28 @@ Mar. 23, '21 - Nitrocellulose!
 		A hair dryer can help speed things up, but not towards the end as the cotton becomes light enough that it can blow away.
 		&
 		Use a different recipe, more liquid so it's easier to mix and stuff (2 cups H2SO4 + 1 cup KNO3 + 10g cotton, from schel sullivan on YT).
+		
 	
 
+Mar. 25, '21 - Manganese Heptoxide!
+	
+	Mn2O7, manganese heptoxide, can be formed by adding KMnO4, potassium permanganate, into an excess of H2SO4, sulfuric acid.
+	A green oil can be seen forming over the period of 15-60 seconds; this is the manganese heptoxide.
+	Having a whopping seven oxygen molecules, Mn2O7 is a powerful oxidizer.
+	Because of the strength of this oxidation, the reaction can be quite vigorous.
+	Almost any organic material can be oxidized by manganese heptoxide.
+	Organic solvents, like ethanol, often detonate upon addition.
+	Organic materials, like cellulose, ignite upon contact.
+	Plastics will be oxidized, but SWIM has not tested this, as it will generate many nasty fumes.
+	That being said, plastic reaction vessels will not work for this reaction. Glass only.
+	A jar upside-down works great, as well as keep the volume synthesized small, which is always good.
+	Any larger amount than 1.5g of KMnO4 added to an excess of H2SO4 is highly not recommended for safety reasons.
+	
+	FUELS TESTED:
+	
+	Cotton Ball: Ignites upon contact, pops for a few seconds, then burns the cotton to ash.
+	
+	Denatured Alcohol (Ethanol + Propan-2-ol): One drop pops and snaps upon contact and sends unreacted alcohol flying. A mL detonates with a large fireball, popping and crackling for 15-120 seconds afterwards.
+	
+	SWIM wants to try more fuels: Charcoal Powder, Gunpowder, Printer Paper, PLA Plastic, Paper Towel, Fruit Peel, Cotton Swab (Q-Tip), etc.
+	
