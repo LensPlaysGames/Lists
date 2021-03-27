@@ -183,7 +183,63 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		SWIM started to get excited, as the texture resembled cotton, and not a plastic soup like the last batch.
 		The cotton was left to dry (dried with paper towel, pressed into pieces, set in front of fan).
 		After about one hour, the cotton has whitened, and feels very dry.
-		A small burn test still shows that it is wet, so I will let it dry for a few more hours, then do a proper test, and weigh my yield!
+		A small burn test still shows that it is wet, so it will be left dry for a few more hours, then do a proper test, and weigh my yield!
+		I ended up waiting overnight.
+		
+		
+	Mar. 27, '21 - Nitrocellulose, but it works!
+	
+		It is the next morning. 
+		An imprecise scale showed 15g of nitrocellulose as my final, dry yield. I will have to weigh my cotton balls to figure out rough yield %.
+		
+		Burn test concludes that this is properly nitrated cellulose! 
+		Not as fast as 'professional' nitrocellulose/flash paper/flash cotton, but it is so much faster than regular cotton.
+		It also leaves minimal residue/ash, and burns before it hits the ground, even in modest amounts.
+		Definitely enough for a magician, or a layman like me that just likes explosions and fire :).
+		
+		
+		
+		Some Facts:
+		
+		- Nitrocellulose with less than 12% nitrogen concentration is not deemed an explosive (and therefore not illegal, technically), and is soluble in a mixture of acetone/ether.
+		This soluble nitrocellulose is sometimes referred to as 'collodion'.
+		
+		- Nitrocellulose with more than 13% nitrogen (sometimes called insoluble nitrocellulose) can be prepared by prolonged exposure to hot, concentrated acids.
+		This method was used to make naval mines, warheads, torpedoes, and blasting explosives for mining.
+		After production of 'guncotton' started in the 1860s by Waltham Abbey Royal Gunpowder Mills, the material rapidly became popular, and dominated the explosives industry.
+		This W.A.R.G.M. guncotton was the main source for military warheads at the time.
+		
+		- In 1832, Henri Braconnot discovered that nitric acid and wood fibers created a lightweight combustible explosive. He named this 'xyloïdine'.
+		
+			In 1846 (thereabouts), German-Swiss chemist Christian Friedrich Schönbein spilled a mixture of sulfuric acid and nitric acid on the kitchen table.
+		He reached for the nearest towel/cloth to clean up the mess, and grabbed a cotton apron just by chance.
+		After soaking up the mixture, he hung the apron on the kitchen stove door to dry.
+		As soon as it was dry, a flash occured as the apron ignited. 
+		Christian Friedrich Schönbein went on to develop a method to make this flammable material: immerse one part fine cotton in 15 parts equal mixture of sulfuric acid and nitric acid. The cotton was then dried slowly at 40 ºC.
+		This method was widely used upon publishing.
+		However, Christian Friedrich Schönbein did not work alone on this paper.
+		Rudolf Christian Böttger independantly discovered a similar process, so they worked together to figure out the best method, then published it.
+		
+			Coincidentally, another chemist, F. J. Otto had produced 'guncotton' in 1846 and was the first to publish the process, which was largely similar to Schönbein and Böttger's method.
+		This largely upset the German Chemists.
+		
+			With this new 'guncotton' invention patented, of course companies were itching to get their hands on it.
+		One company, John Hall & Son, bought the rights to the patent of F. J. Otto's 'guncotton', and immediately started industrial manufacturing.
+		Due to the manufacturing process not being fully understood, adequate safety measured were not put in place.
+		The cotton, after nitration, was not properly washed. When nitrocellulose from the nitration mixture goes unwashed, or is not washed properly, some dilute acids will linger inside the nitrocellulose.
+		Once dry, the evaporated water concentrates the trace amounts of acid. This can further nitrate any cellulose that went unreacted.
+		Over time, the nitrogen content keeps rising, and rising, and rising. As this happens, the chemical becomes more unstable, and more likely to spontaneously combust, even at room temperature.
+		Because of this, unwashed nitrocellulose is often referred to as 'pyrocellulose'.
+		
+		Unfortunately for the hard-working employees of John Hall & Son, less than a year into production, in July of 1846, that is exactly what happened, killing almost two dozen workers.
+		Twenty lives were lost because someone forgot to wash... 
+		Needless to say, the factory was immediately closed.
+		Guncotton manufacturing was shut down prety much globally, at least until a safer method came around.
+		
+			This is where the British chemist Frederick Augustus Abel developed a safe method for guncotton manufacture.
+		The method proposed by Fred extended the washing and drying of the nitrocellulose to 48 hours, as well as repeated eight times over to ensure leftover acids were washed out.
+		The nitration mixture was changed from equal parts sulfuric acid and nitric acid to two parts sulfuric acid, one part nitric acid (1 H2SO4:1 HNO3 -> 2 H2SO4:1 HNO3).
+		Nitration can be controlled by adjusting acid concentrations, as well as reaction temperature.
 		
 	
 
