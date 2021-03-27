@@ -177,14 +177,14 @@
 		After desecrating the law of my forefathers, I plopped the results into a mason jar, and added some 20% aqueous HCl on top. 
 		I did the stoichiometry and it turned out I needed 12.3576213535mL of acid for each penny. I just added 75mL to have an excess of acid (which I now know was a mistake).
 		The pennies did dissolve rather quickly, and it was fun to watch the light copper plating dance around in the solution around the bubbles. Luckily, it reacted rather fast, and only took a few hours to showing any signs of reaction.
-		Turns out, ZiCl is VERY soluble in water, meaning it kind of sucks to evaporate. This is why the extra acid was a problem. It's not the acid, per se, but the water IN the acid that I now have to wait for to fly away like Peter god-damned Pan.
+		Turns out, ZnCl is VERY soluble in water, meaning it kind of sucks to evaporate. This is why the extra acid was a problem. It's not the acid, per se, but the water IN the acid that I now have to wait for to fly away like Peter god-damned Pan.
 		Because of this, I boiled it right after the pennies were done reacting and filtered out. It got down to ~30mL when I stopped, and also turned yellow for some reason.
 		
 		It is Mar. 12 and I am still evaporating that solution down. It's currently at about 15mL if I had to estimate, and still yellow.
 		
 		It is Mar. 14, and I have boiled the solution down on the hot-plate in a sand bath.
 		The liquid slowly turned more and more brown from some sort of contamination while heating.
-		At some point, the ZiCl started crystallizing out, which is when I turned off the heat and let it cool down to the point I felt comfortable moving it.
+		At some point, the ZnCl started crystallizing out, which is when I turned off the heat and let it cool down to the point I felt comfortable moving it.
 		Once cool enough, I transferred inside to completely cool to room temperature.
 		I am planning to put it in the freezer in order to get the most crystals out of the water as possible.
 		
