@@ -289,7 +289,7 @@
 		
 		NEXT TIME: I would not try to make Copper(II) Hydroxide using NaOH. 
 		I would evaporate it down to leave whatever is left behind from the copper. 
-		Filter to remove copper metal first.
+		Filter to remove copper metal and other impurities first.
 		
 	
 
@@ -662,6 +662,11 @@
 		I set the solution in the evaporation station to grow crystals.
 		I will update as I notice changes.
 		
+		Mar. 27, '21 - Not Much Happened Yet
+		
+			Around ~50mL has evaporated from the solution. Some crystals are starting to form on the walls of the container that used to be covered, but they are very small.
+			It appears to have clouded up slightly, so I assume we are reaching saturation of the solution and will see some crystals within a few days.
+		
 	
 
 	- Copper Metal Crystals V4 - Mar. 24, '21
@@ -675,6 +680,13 @@
 		The bubbles sometimes carried up bits of copper acetate that hadn't dissolved yet, so I had fun looking at the bits dancing around in the solution for quite some time.
 		I am using the same wire as the negative electrode that I did in V3. It is covered in bulbous growths of copper metal, and a few spots are reaching ~5mm or so toward the positive electrode in a tree-branch-like structure.
 		I am hoping these act as 'seed crystals' and help to form larger, stronger crystals, as opposed to growing on a new length of bare wire.
+		
+		Mar. 27, '21 - Little Update
+		
+			I posted some pictures online and got a ton of advice. To get larger, stronger crystals with electrolysis, I need to reduce the current and/or voltage.
+			Currently, I am using a 5v USB Charger as the power source. This is not current regulated, and is probably spitting a few hundred milliamps through the electrodes.
+			To solve this, I will use an adjustable LDO voltage regulator, once I get them. This will allow me to set a lower voltage, or current, to my desires.
+			For now, I will just grow some more weak copper trees, because they are beautiful and I like it :).
 		
 	
 
