@@ -687,6 +687,9 @@
 			Currently, I am using a 5v USB Charger as the power source. This is not current regulated, and is probably spitting a few hundred milliamps through the electrodes.
 			To solve this, I will use an adjustable LDO voltage regulator, once I get them. This will allow me to set a lower voltage, or current, to my desires.
 			For now, I will just grow some more weak copper trees, because they are beautiful and I like it :).
+			
+			The solution has evaporated over an inch at this point, so I will refill the container. I am not going to be using saturated solution, and will just use water to try and dilute the solution for larger crystals.
+			When adding saturated solution each time, more and more crystals build up in the vessel. By adding water instead, the solution can re-dissolve any crystals that happened to fall out of solution due to evaporation.
 		
 	
 
