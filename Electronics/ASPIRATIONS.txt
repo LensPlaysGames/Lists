@@ -1,0 +1,28 @@
+Mar. 28, '21 - CREATION!
+
+
+
+STUFF I WANT TO DO:
+	
+ZVS DRIVER (Zero-Voltage Switching):
+	[BY] KEYSTONE SCIENCE
+	
+	[ESTIMATED COST] $40
+	
+	[MATERIALS]
+		- Flyback Transformer (used in CRT TVs, can be found online for ~$20).
+		- 2 IRFP250N MOSFETs, heatsinked
+		- 2 12V Zener Diodes
+		- 2 2W 470 resistors
+		- 2 10k resistors
+		- 0.68uF High Voltage Capacitor
+		- 40-200uH inductor
+		- 2 FR107 ultra-fast diodes
+		- 12-100v power supply
+		
+	[PROCEDURE] DETAILED HERE: https://www.youtube.com/watch?v=JsgRk5IO9UI
+	
+	[USES]
+		- POWERFUL ELECTRICAL ARC, 'DISPLAY'
+		- REMOTE IGNITION (Fireworks fuse)
+		- INDUCTION HEATING (the same circuit can be used as an induction heater if used with a center-tapped thick-gauge copper wire coil.

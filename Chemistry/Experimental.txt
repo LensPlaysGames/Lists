@@ -59,7 +59,6 @@ Mar. 22, '21 - Black Powder!
 	Roll up tightly.
 	Light and enjoy!
 	
-	
 
 Mar. 23, '21 - Nitrocellulose!
 
@@ -186,7 +185,8 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		A small burn test still shows that it is wet, so it will be left dry for a few more hours, then do a proper test, and weigh my yield!
 		I ended up waiting overnight.
 		
-		
+	
+
 	Mar. 27, '21 - Nitrocellulose, but it works!
 	
 		It is the next morning. 
@@ -254,3 +254,55 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		
 	
 
+		NEXT TIME:
+		
+		- RECIPE RATIOS: "schel sullivan" on YT has the best recipe, which is similar to Frederick Augustus Abel's recipe, who patented the method in 1865.
+			( 2 cups H2SO4 : 1 cup KNO3 : ~20g cotton )
+		
+		- RECIPE INGREDIENTS: 
+			Testing other cotton sources would be very interesting, like cotton paper, cotton clothing, cotton yarn, and coffee filters.
+		
+		- RECIPE INGREDIENTS: 
+			As well as other cotton sources, testing different cellulose sources other than cotton would also be very interesting, like tissue paper, toilet paper, printer paper, paper towels, and cardboard.
+			Some sort of testing method will have to be developed! 
+			Maybe DSLR video + Shitty-Phone-Slo-Mo would gather enough data on each one. 
+			Test equivalent weights, volumes, etc, and qualitatively compare, maybe.
+			
+		- SAFETY:
+			When storing large amounts of Nitrocellulose (which looks deceivingly small), it is safest to store wet under alcohol, ideally.
+			
+		
+	
+
+
+
+
+
+
+STUFF I WANT TO DO:
+
+ - DIY FUSE
+	Methods:
+	- Grant Thompson: 
+		- Slow Burning Fuse - (ALSO FEATURED IN 'Making Sparklers', RELEASED ONE YEAR LATER)
+		[INGREDIENTS] 4m COTTON YARN | 36g KNO3 | 24g GRANULATED WHITE TABLE SUGAR | 60mL water | OPTIONAL: FOOD COLORING
+		[PROCEDURE] Prepare a mixture consisting of 36g of KNO3, and 24g of granulated white table sugar. Preheat a frying pan to medium heat. Add 1/3 cup water. 
+			Once boiling, sprinkle in the full 60g mixture. Stir until fully dissolved, evident by a clear solution.
+			Boil until very frothy/foamy. Add cotton yarn, holding onto one end to prevent knotting.
+			Continue heating to drive off most of the remaining water, trying to make sure the solution soaks evenly into the yarn.
+			Once the yarn has soaked up most, if not all, of the solution, spread on an oven baking sheet in a pattern reminiscing a sine-wave, like how long lines go back and forth, or zig-zagging, crocodiling, etc.
+			This is to ensure long, straight pieces of fuse, as it will be rigid after this next step.
+			The baking sheet goes into an oven set to 150 ºC (300 ºF) for 20 minutes.
+			Haflway through baking, remember to nudge it slightly to prevent sticking to the pan when cooling.
+			After the time is up, it is taken out and left to cool. A golden-yellow color is expected.
+			When cool, it will be fully stiff. Cut at bends for pieces of long, straight, and rigid fuse to store.
+			KEEP AWAY FROM HEAT, SPARK, FLAME, AND MOST OF ALL: DON'T BE STUPID! (this parts from SWIM).
+			
+		- Black Powder Fuse
+		[INGREDIENTS] STRIPS OF TISSUE PAPER, FINE BLACK POWDER
+		[PROCEDURE] Prepare a strip of tissue paper, wetting down to keep from blowing away, and easier to work with.
+			Add black powder length-wise, from end to end, leaving a little bit of room to fold/roll/twist it closed.
+			Start rolling fuse by taking one corner of tissue paper, and rolling at a 45º angle, as tightly as possible.
+			Continue this for the entire length of tissue paper.
+			Once rolled up, let dry overnight, and the fuses are ready to be used (although, in a pinch, they also burn right away with good enough black powder).
+		
