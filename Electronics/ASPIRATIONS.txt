@@ -26,3 +26,27 @@ ZVS DRIVER (Zero-Voltage Switching):
 		- POWERFUL ELECTRICAL ARC, 'DISPLAY'
 		- REMOTE IGNITION (Fireworks fuse)
 		- INDUCTION HEATING (the same circuit can be used as an induction heater if used with a center-tapped thick-gauge copper wire coil.
+		
+	
+
+HANDHELD HIGH-VOLTAGE:
+	[BY] KEYSTONE SCIENCE
+	
+	[ESTIMATED COST] $10
+	
+	[MATERIALS]
+		- 3-6v to 400kV Boost/Step-Up Converter (like $5 ea on eBay)
+		- 9v Battery
+		- Momentary Push-Button
+		- Nails/Electrodes
+		
+	[PROCEDURE] DETAILED HERE: https://www.youtube.com/watch?v=wr2XvB95rV8
+		Boost Converter has two input wires, positive and negative, as well as two high-voltage output wires.
+		Wire each of the two nails, or electrodes of choice, to each the high voltage wires.
+		Secure them anywhere from 5mm to 25mm, depending on arc length achievable (~1cm works most of the time). 
+		Make sure the high-voltage electrodes are closest where you want them to arc.
+		Wire one of the Boost Converter input wires to one side of the momentary push-button, and the other side of the push-button to the battery, making sure the polarity is that of the wire that goes to the other side of the button.
+		Wire the other input wire to the opposite polarity on the battery, and there you have it!
+		A push-button (possible lethal) taser.
+		Be careful, and have fun arcing!
+		
