@@ -237,6 +237,9 @@
 		There is just a little bit of Zinc Acetate solution left (~5mL), that seeps below the layer of crystals.
 		I'm thinking these will be dry by Easter (Apr. 4, '21), but one can never be sure :).
 		
+		Apr. 1, '21 - There has to be ~1mL left at this point. 
+		Just about every day since last update, I have moved the container as to coat the sides with liquid, to help speed evaporation.
+		
 	
 
 	- Copper and Nickel Chloride - Mar 6, '21
@@ -691,6 +694,17 @@
 			The 'raft' of 'crystals' seems to have been a misnomer...
 			It now looks to be a colony of bacteria, or something. Almost exactly like what an inoculated agar plate looks like.
 			It is hanging into the solution almost an inch from the surface, and has a few different globs of mass, but it is all connected.
+			
+		Apr. 1, '21 - Not Sure How, But We Did It
+		
+			The raft of crystals that appeared to be a mushy white colony of bacteria has disappeared.
+			A film of some sort has formed over the surface of the liquid. 
+			Any disturbance, like me touching the side of the container, caused a lot of it to break apart and fall down to the bottom of the container.
+			The bottom of the container has small (5mm in their largest dimension) crystals, with short, fat spikes forming on the top surface of the crystal. 
+			The whole crystals make an outline of a rectangle, although the faces are definitely not neat.
+			It seems like the bacteria died off, or are surviving on the walls of the container, or something. All I know is they are out of the solution.
+			Or, it was just ammonium sulfate crystals that happened to be white, cloudy, and such, and I was fooled.
+			Either way, I'm happy with how the project is progressing!
 		
 	
 
@@ -721,6 +735,13 @@
 			
 			The solution had evaporated a little less than an inch, so I decided to top it off again with fresh water.
 			Ideally, I would be using distilled water, but tap water will do the trick for now. I refilled back up to it's original volume, and let it continue.
+			
+		Apr. 01, '21 - Refill Tres, ya sick fuck
+			
+			I refilled it with water from my water bottle again (cold tap water). 
+			The 'main' crystal are about halfway to the other electrode. 
+			Their structure resembles the previous run, almost identically.
+			I can't wait to get some LM350's! I should be able to limit the current to like 10-100mA for some chonky crystals.
 			
 		
 	

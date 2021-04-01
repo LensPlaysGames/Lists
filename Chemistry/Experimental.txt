@@ -279,7 +279,7 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 
 
 
-STUFF I WANT TO DO:
+STUFF TO DO:
 
  - DIY FUSE
 	Methods:
@@ -312,6 +312,51 @@ STUFF I WANT TO DO:
  - DIY CANNON
 	
 	A little cannon sounds like a lot of fun. As long as it doesn't employ the use of more than 1/4 oz (7 grams) of explosives, it is not a 'destructive device' and is not federally illegal in the United States.
-	1/4" steel ball bearings as ammo, and a steel pipe as the barrel.
+	However, other laws are often the problem, as in 'endangering others' or 'disrupting the peace'. Any loud bangs or flying projectiles are a large attention grabber by LE.
+	The idea is to make it small enough as to not have a LOUD bang, but still big enough to have a fun one :).
+	
+	[PROJECTILE]
+	1/4" steel ball bearings as ammo.
+	
+	[IGNITION]
+	Slow Burning Fuse (detailed above) for the fuse that goes into a drilled hole in the side of the steel pipe.
+	
+	[FUEL]
+	Gunpowder as a fuel? Or maybe nitrocellulose. Either way, it will be fun :).
+	
+	[COMBUSTION CHAMBER]
+	1/8" steel pipe nipple as the 'barrel'. 
+	1/8" Schedule 40 Steel Pipe has an ID of 0.269", which should be just big enough to fit a 1/4" steel ball bearing.
+	Why is a 1/8" pipe actually 1/4"? IDFK.
+	Also, a 1/8" steel end cap for one side of the nipple pipe (pipe nipple?).
+	
+
+ - STARLITE FORGE
+	[BY] NightHawkInLight - DETAILED HERE: https://www.youtube.com/watch?v=FmEb1YZScxc
+	
+	[MATERIALS]
+		STARLITE MIX:
+		10 PARTS	- FLOUR
+		5 PART	- CORN STARCH
+		5 PART	- POWDERED Sugar
+		5 PART 	- BAKING SODA
+		1 PART	- BORAX
+		ENOUGH WATER TO GET TO CLAY-LIKE CONSISTENCY (~250ml / kg)
+		
+		ANY STEEL CONTAINER
+		
+		BLOWTORCH WITH STEEL NOZZLE
+		
+	
+	[PROCEDURE]
+		MIX DRY STARLITE INGREDIENTS.
+		ADD WATER UNTIL CLAY-LIKE CONSISTENCY IS REACHED.
+		
+		MOLD STARLITE MIX INTO METAL VESSEL, ATTEMPTING TO KEEP IT EVEN THICKNESS ON BOTTOM AND SIDES.
+		
+		DRILL HOLE FOR TORCH NOZZLE IN SIDE OF METAL VESSEL, NEAR BOTTOM.
+		
+		WAIT TO DRY, AT LEAST OVERNIGHT TO A FEW DAYS.
+	
 	
 	
