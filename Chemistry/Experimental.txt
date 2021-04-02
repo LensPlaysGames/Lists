@@ -142,11 +142,18 @@ Mar. 25, '21 - Manganese Heptoxide!
 	
 	FUELS TESTED:
 	
-	Cotton Ball: Ignites upon contact, pops for a few seconds, then burns the cotton to ash.
+		Cotton Ball: Ignites upon contact, pops for a few seconds, then burns the cotton to ash.
+		
+		Denatured Alcohol (Ethanol + Propan-2-ol): One drop pops and snaps upon contact and sends unreacted alcohol flying. A mL detonates with a large fireball, popping and crackling for 15-120 seconds afterwards.
+
+	Apr. 2, '21 FUELS TESTED: 
+		Paper Towel: Ignites READILY. Similar to cotton, but more pops and snaps.
+		
+		Aluminium foil: didn't have a reaction with the Mn2O7, although the H2SO4 did start dissolving it.
+		
 	
-	Denatured Alcohol (Ethanol + Propan-2-ol): One drop pops and snaps upon contact and sends unreacted alcohol flying. A mL detonates with a large fireball, popping and crackling for 15-120 seconds afterwards.
-	
-	SWIM wants to try more fuels: Charcoal Powder, Gunpowder, Printer Paper, PLA Plastic, Paper Towel, Fruit Peel, Cotton Swab (Q-Tip), etc.
+	SWIM wants to try more fuels: Charcoal Powder, Gunpowder, Printer Paper, PLA Plastic, Fruit Peel, Cotton Swab (Q-Tip), etc.
+		
 	
 
 Mar. 26, '21 - Nitrocellulose, but less idiot.
@@ -159,6 +166,7 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		- Don't use a make-up product and expect purity of any kind!
 		- Don't make a tiny amount of something that is cheap but takes a lot of work! Just do it in bulk, and if it doesn't work, it's cheap, that's okay, try again.
 		
+	
 	Now, let SWIM tell you about today:
 	
 		A nitration solution made up of KNO3 and H2SO4 was prepared the night before.
@@ -192,11 +200,19 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		It is the next morning. 
 		An imprecise scale showed 15g of nitrocellulose as my final, dry yield. I will have to weigh my cotton balls to figure out rough yield %.
 		
+		APR. 2, '21 EDIT - AVG COTTON BALL WEIGHT IS 1.02 grams. Assuming every cotton ball to be average, 20 cotton balls multiplied by 1.02g each equals 20.4 grams of cotton.
+		~15 grams nitrocellulose / ~20.4 grams cotton = ~73.53% yield
+		
+		Theoretical Maximum is ~85%, thought to be due to the complete oxidation of cellulose to oxalic acid.
+		
 		Burn test concludes that this is properly nitrated cellulose! 
 		Not as fast as 'professional' nitrocellulose/flash paper/flash cotton, but it is so much faster than regular cotton.
 		It also leaves minimal residue/ash, and burns before it hits the ground, even in modest amounts.
 		Definitely enough for a magician, or a layman like SWIM that just likes explosions and fire :).
 		To further nitrate the material, it can just be 'double-dipped' and ran through the whole process again, treating it as starting material.
+		This would create 'insoluble nitrocellulose' which has a nitrogen content higher than 12.6%.
+		Insoluble nitrocellulose is classified as a high explosive by the ATF :(.
+		However, soluble nitrocellulose (nitrogen content ≤12.6%) is not technically classified as a high explosive, and is therefore not illegal to manufacture or posess.
 		
 		(Nitrocellulose will be referred to as NC through-out the following text.)
 		
