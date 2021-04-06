@@ -745,6 +745,78 @@
 			Their structure resembles the previous run, almost identically.
 			I can't wait to get some LM350's! I should be able to limit the current to like 10-100mA for some chonky crystals.
 			
+		Apr. 06, '21 - Four is moar (than 3)
+		
+			I refilled it with cold tap water, once again.
+			I need to replace the positively-charged electrode at this point...
+			
 		
 	
 
+	- Iron(II) Chloride - Apr. 06, '21
+	
+		Today I am going to be making Iron(II) Chloride.
+		I will be using iron metal, as well as hydrochloric acid.
+		Here's the reaction: Fe(s) + 2 HCl(aq) -> FeCl2(aq) + H2(g)
+		As this will be producing hydrogen gas, this should be carried out in an area with adequate ventilation, and away from any heat, spark, or ignition source.
+		
+		Here's the stoichiometry:
+		
+			Molar Mass:
+				Fe 	- 	55.845g		- Fe: 100%
+				HCl - 	36.46094g	- H: 1.00794(2.764%)	Cl: 36.463g (97.236%)
+				
+			Millipore Sigma gives 20% aqueous HCl density at 1.1g/mL @ 25 ?C
+			That puts the mass of 100% HCl per mL is 0.22g/mL @ 25 ?C
+			
+			I want to figure out the volume of 20% aqueous HCl to use given a mass of iron.
+			
+			The reaction requires one mole of iron, and two of HCl.
+			That means we will have to get the moles of iron from the mass, first.
+			Then, multiply the amount of iron we have in moles by two, and that will give us the amount of moles of HCl we need.
+			Because we have 20% HCl, we will use 0.22g/mL as our density of HCl, as the HCl concentration does not make up the full mass of the density of the solution.
+			
+			M = Mass of iron in grams
+			mL(HCl) = Milliliters of 20% aqueous HCl needed to react with all of the iron in a stoichiometric ratio.
+			
+			ml(HCl) = ((M / 55.845)*2*36.46094) / 0.22	| The equation broken into it's understandable form. The original I came up with. First, get moles of iron, then multiply by two and the molar mass of HCl to get grams of HCl needed. Then just divide by density to get mL needed.
+			ml(HCl) = ((M / 55.845)*72.92188) / 0.22	| First simplification. 2*36.46094 can be solved before-hand to give 72.92188.
+			ml(HCl) = ((M / 55.845)*331.46309090		| Next simplification. Multiplying and then dividing can be shortened to one multiplication step. 72.92188 / 0.22 = 331.46309090
+			ml(HCl) = 5.9354121389M						| Final simplification. Dividing and then multiplying can be shortened to one multiplaction step, as well. 331.46309090 * (1/55.845) = 5.9354121389
+			
+			ml(HCl) = 5.9354121389M						| Final Form. Multiply mass of iron by 5.9354121389 to get the mL of 20% aqueous HCl needed to react entirely in a stoichiometric ratio.
+			
+			Or just multiply the mass of iron by six... That will be fine too.
+			
+			Because I'm using 10.94g of iron (two old rusty nails worth), I can just pop that into my equation and get the amount of HCl I should measure out.
+			M = 10.94g
+			ml(HCl) = 5.9354121389 * 10.94g
+			ml(HCl) = 64.933408mL of 20% aqueous HCl needed.
+			
+			I measured out 75 and called it a day :).
+			
+		As for the procedure, I prepared the reactants: ~75mL of 20% aqueous HCl & 10.94g of iron metal, in the form of old rusty nails.
+		
+		I clearly labeled a mason jar with these reactants information, as well as dated it.
+		Upon doing this, I added the HCl to the empty jar, carefully to avoid splashing.
+		
+		Once ready, I added the 10.94g of iron metal, carefully, again, to avoid splashing. (~1020 hours)
+		One thing I noticed was the nails couldn't sit flat on the bottom of the reaction flask, so the tops of them were breaching the surface.
+		Immediately, bubbles appeared on the surface of the metal touching the solution. This should be hydrogen gas.
+		
+		After 10-15 seconds, I noticed everywhere around the nails was shifting to a YELLOW color (oh no, yellow chem always bad).
+		Although, this should just be the Iron(II) Chloride going into solution. 
+		As well as this (horrendous) color shift, I noticed bits of what appear to be iron oxides flaking off into the solution, so a filtering is imminent before crystallization (which is expected).
+		
+		After around 5 minutes, the whole solution has gone yellow, but is still quite clear, not taking on any cloudiness.
+		There are black bits of what seems to be iron oxides floating around, as well as some that has sunk to the bottom.
+		One of the pieces of iron, a rusty nail, originally, is now rust-free everywhere the solution has been in contact.
+		The other piece of iron, a rusty nail, originally, is still completely covered in rust and shows no signs of 'cleaning'.
+		
+		After one hour (1130 hours), the solution is still clear, yellow, and the nails are still generating gas bubbles.
+		The nail that was cleansed of rust early on shows little change, giving off a stream of tiny bubbles, along the edge closest to the surface, that almost look like a white powder floating up to the top. Then they pop!
+		The other nail has patches of shiny metal slowly appearing, but is still mostly covered in oxides. My theory is that this nail is much, much older and had rusted quite a bit during that time.
+		There is a lot more black bits floating around, but nothing crazy (yet).
+		
+		
+	
