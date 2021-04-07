@@ -202,16 +202,22 @@
 	- Zinc Acetate - Mar 5, '21
 	
 		Pennies minted after 1982 are 97.5% Zinc metal, with just a thin coating of copper making up the remaining 2.5%. Acetic acid does not react with copper without the presence of oxygen at ambient, room temperature conditions, but zinc does.
+		
 		To expose the inner core of zinc, I cut up four pennies using a vice and some small bolt cutters. I'm pretty sure this is illegal as I'm defacing government property, but also fuck pennies, and I'm not making money at all from this sooo oh well.
 		After desecrating the law of my forefathers, I plopped the results into a mason jar, and added ~200mL 5% aqueous Acetic Acid on top.
 		I did the stoichiometry and it turned out I needed 42.6856296mL per penny, so I rounded up to 50mL for an excess of acid.
+		
 		Almost immediately, bubbles started forming VERY slowly. It took about 20 seconds for one bubble to get big enough to actually float out of the solution.
 		Due to this slow reaction speed, I decided to put it on the magnetic stirrer, assuming this would speed it up quite a bit.
+		
 		It did not... After three days of stirring it was still bubbling, so I decided to give the motor a break, and let the rest happen naturally.
 		I took it off the stirrer and set it on a shelf to react for some time.
+		
 		At five days after the solution was added to the pennies, it was still bubbling about the same as it was on day 3.
+		
 		Day 7 is a similar story, with less bubbling until you tap or jar the container, at which time everything releases it's bubbles at once.
-		I let this go for ~10 days and then transferred it to a dish for evaporation.
+		
+		Mar. 15, '21 - Solution was filtered into a dish for evaporation.
 		
 		Mar. 20, '21 - The solution is about 20% of what it was before, volume-wise.
 			I presume there to be another week before it's dry; there is about 100mL left.
@@ -236,11 +242,21 @@
 			I am excited to see if any of the large crystals are salvageable. If so, I am going to immediately coat one in polyurethane to protect it, as I want to preserve these beautiful crystals.
 			
 		Mar. 28, '21 - I have been checking on it daily for three days now, and notice it is still evaporating nicely. 
-		There is just a little bit of Zinc Acetate solution left (~5mL), that seeps below the layer of crystals.
-		I'm thinking these will be dry by Easter (Apr. 4, '21), but one can never be sure :).
+			There is just a little bit of Zinc Acetate solution left (~5mL), that seeps below the layer of crystals.
+			I'm thinking these will be dry by Easter (Apr. 4, '21), but one can never be sure :).
 		
 		Apr. 1, '21 - There has to be ~1mL left at this point. 
-		Just about every day since last update, I have moved the container as to coat the sides with liquid, to help speed evaporation.
+			Just about every day since last update, I have moved the container as to coat the sides with liquid, to help speed evaporation.
+		
+		Apr. 5, '21 - Dryness achieved! Although not completely dry, there is no longer liquid flowing in the container.
+			I will transfer some of the largest crystals to an open storage container to dry further.
+			
+		Apr. 7, '21 - These crystals are as dry as I can get them without heating!
+			They are clear/white crystals, ranging from powder to 1-2cm in diameter. Very beautiful!
+			Slight acetic acid smell. I will weigh the crystals when I can to determine rough yield.
+			
+		STARTING MATERIAL: 	10g of US $0.01 coins, 9.75g of which is Zn.
+		PRODUCT OUTPUT:		
 		
 	
 
