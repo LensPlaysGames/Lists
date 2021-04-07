@@ -866,7 +866,7 @@
 			
 			Water 	- Distilled, ideally
 			
-			H2SO4	- Drain Opener	- Can have slight impurities
+			H2SO4	- Drain Opener
 		
 		Procedure:
 		1.) 
