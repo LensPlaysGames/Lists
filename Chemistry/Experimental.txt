@@ -286,6 +286,40 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 			
 		- SAFETY:
 			When storing large amounts of Nitrocellulose (which looks deceivingly small), it is safest to store wet under alcohol, ideally.
+		
+		
+	Apr. 06, '21 - DIY Fuse
+	
+		This didn't happen today, but yesterday on the fifth.
+		
+		4 meters of 100% cotton twine was prepared, along with a mixture of 36g KNO3 and 24g sugar (60:40).
+		Oh yeah, and around 60mL of water.
+		
+		A pan was preheated to ~medium heat.
+		
+		Once hot, water was poured in. Upon adding, it should boil immediately.
+		
+		Add mixture of KNO3 and sugar to boiling water. It should fully dissolve.
+		
+		Boil until supersaturated. Looks frothy/foamy and forms skin on top.
+		
+		Add string, holding onto one end so it doesn't tangle in the pan.
+		
+		Soak up solution evenly into string, then transfer string to baking sheet into final shape.
+		
+		Move baking sheet into preheated oven @ 150 ºC (300 ºF) for 20 minutes. 10 minutes in, halfway through, nudge fuse so it does not stick to sheet.
+		
+		Ready to cut and use once cool.
+		
+		
+		RESULTS:
+		
+			Well, it's done! It's cool! It's not the most reliable fuse, but with three bundled together it's not a bad failure rate. Just one on it's own can go out easily, though.
+		The burn is fairly consistent, and it lights very, very easily. I think the shortcomings are largely my fault.
+		It's possible the reason one goes out on it's own is due to the size of string used, or because it's 0 ºC, or because I put it in to the solution too late, so it didn't soak in fully...
+		Either way, this is definitely worth it, and a fun project!
+		
+		
 			
 		
 	
@@ -297,35 +331,7 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 
 STUFF THAT COULD BE DONE:
 
- - Acetone Peroxide - THE MOTHER OF SATAN - You shouldn't do this
- 
-	[MATERIALS] Acetone, 30% Hydrogen Peroxide, HCl acid, Toluene
-	
-	[PROCEDURE]
-		H2O2/acetone/HCl in 1:1:0.25 molar ratios, using 30% hydrogen peroxide.
-		
-		Start by mixing the acetone and hydrogen peroxide together.
-		Add the HCl acid to the chilled mixture of H2O2/acetone. 
-		If the reaction is allowed to heat up, formation of chloroacetone (WWI tear gas) is likely, as well as formation of the monomer and dimer, which are highly unstable compared to the trimer.
-		By using HCl as the acid-catalyst (and keeping everything cold), we are mainly forming the trimer, called TATP, with the formula C9H18O6.
-		
-	
-	[SAFETY]
-		THIS IS A STUPID THING TO MAKE, AND UNLESS YOU ARE READY FOR THE WHOLE BATCH TO EXPLODE AT ANY MOMENT, DON'T DO THIS!
-		
-		SHOCK, FRICTION, HEAT, STATIC SENSITIVE, EVEN WHEN WET.
-		
-		If sulfuric acid is used as the acid-catalyst, the final product is known to be very unstable, detonating at temperatures as low as 50 ºC (122 ºF).
-		
-		Without the use of an ice bath, tear gas is formed, as well as highly unstable and explosive monomers and dimers of acetone peroxide.
-		
-		Attempting to purify by recrystallization has been known to spontaneously combust, due to large crystals forming with a lot of internal stress, which is enough to initiate the reaction.
-		
-	
-	[DISPOSAL]
-		Rendered benign when dissolved in toluene, even in saturated concentrations.
-		'Almost' no risk of detonation, according to ScienceMadness wiki.
-		This solution can then be refluxed in the presence of a copper salt (like Copper(II) Acetate), which will reduce the acetone peroxide, destroying it.
+
 		
 	
 
@@ -346,6 +352,7 @@ STUFF THAT COULD BE DONE:
 		When cool, it will be fully stiff. Cut at bends for pieces of long, straight, and rigid fuse to store.
 		KEEP AWAY FROM HEAT, SPARK, FLAME, AND MOST OF ALL: DON'T BE STUPID! (this parts from SWIM).
 		
+	
 	- Black Powder Fuse
 	[BY] TKOR - Grant Thompson
 	[INGREDIENTS] STRIPS OF TISSUE PAPER, FINE BLACK POWDER
@@ -379,6 +386,7 @@ STUFF THAT COULD BE DONE:
 	Also, a 1/8" steel end cap for one side of the nipple pipe (pipe nipple?).
 	
 
+
  - STARLITE FORGE
 	[BY] NightHawkInLight - DETAILED HERE: https://www.youtube.com/watch?v=FmEb1YZScxc
 	
@@ -407,3 +415,33 @@ STUFF THAT COULD BE DONE:
 		WAIT TO DRY, AT LEAST OVERNIGHT TO A FEW DAYS.
 		
 	
+
+	 - Acetone Peroxide - THE MOTHER OF SATAN - You shouldn't do this
+ 
+	[MATERIALS] Acetone, 30% Hydrogen Peroxide, HCl acid, Toluene
+	
+	[PROCEDURE]
+		H2O2/acetone/HCl in 1:1:0.25 molar ratios, using 30% hydrogen peroxide.
+		
+		Start by mixing the acetone and hydrogen peroxide together.
+		Add the HCl acid to the chilled mixture of H2O2/acetone. 
+		If the reaction is allowed to heat up, formation of chloroacetone (WWI tear gas) is likely, as well as formation of the monomer and dimer, which are highly unstable compared to the trimer.
+		By using HCl as the acid-catalyst (and keeping everything cold), we are mainly forming the trimer, called TATP, with the formula C9H18O6.
+		
+	
+	[SAFETY]
+		THIS IS A STUPID THING TO MAKE, AND UNLESS YOU ARE READY FOR THE WHOLE BATCH TO EXPLODE AT ANY MOMENT, DON'T DO THIS!
+		
+		SHOCK, FRICTION, HEAT, STATIC SENSITIVE, EVEN WHEN WET.
+		
+		If sulfuric acid is used as the acid-catalyst, the final product is known to be very unstable, detonating at temperatures as low as 50 ºC (122 ºF).
+		
+		Without the use of an ice bath, tear gas is formed, as well as highly unstable and explosive monomers and dimers of acetone peroxide.
+		
+		Attempting to purify by recrystallization has been known to spontaneously combust, due to large crystals forming with a lot of internal stress, which is enough to initiate the reaction.
+		
+	
+	[DISPOSAL]
+		Rendered benign when dissolved in toluene, even in saturated concentrations.
+		'Almost' no risk of detonation, according to ScienceMadness wiki.
+		This solution can then be refluxed in the presence of a copper salt (like Copper(II) Acetate), which will reduce the acetone peroxide, destroying it.
