@@ -818,6 +818,10 @@
 		The other nail has patches of shiny metal slowly appearing, but is still mostly covered in oxides. My theory is that this nail is much, much older and had rusted quite a bit during that time.
 		There is a lot more black bits floating around, but nothing crazy (yet).
 		
+		Because of the yellow color of the solution, as opposed to green, I suspect I have failed in making iron(II) chloride (FeCl2) and have actually made iron(III) chloride (FeCl3)...
+		This is okay, and I will just have to make iron(III) chloride then reduce it to iron(II) chloride. This reduction can be carried out with iron metal: 2 FeCl3 + Fe -> 3 FeCl2.
+		I am interested in isolating iron(III) chloride as a crystal as well, so I don't mind this slight mishap. I do believe this will entirely mess up all my stoichiometry, but that's okay :).
+		
 		
 	
 
@@ -862,7 +866,7 @@
 			
 			Water 	- Distilled, ideally
 			
-			H2SO4	- 
+			H2SO4	- Drain Opener	- Can have slight impurities
 		
 		Procedure:
 		1.) 
