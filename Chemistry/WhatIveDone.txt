@@ -757,12 +757,12 @@
 	
 		Today I am going to be making Iron(II) Chloride.
 		I will be using iron metal, as well as hydrochloric acid.
-		Here's the reaction: Fe(s) + 2 HCl(aq) -> FeCl2(aq) + H2(g)
+		Here's the reaction: Fe (s) + 2 HCl (aq) -> FeCl2 (aq) + H2 (g)
 		As this will be producing hydrogen gas, this should be carried out in an area with adequate ventilation, and away from any heat, spark, or ignition source.
 		
 		Here's the stoichiometry:
 		
-			Molar Mass:
+			Molar Masses:
 				Fe 	- 	55.845g		- Fe: 100%
 				HCl - 	36.46094g	- H: 1.00794(2.764%)	Cl: 36.463g (97.236%)
 				
@@ -779,12 +779,12 @@
 			M = Mass of iron in grams
 			mL(HCl) = Milliliters of 20% aqueous HCl needed to react with all of the iron in a stoichiometric ratio.
 			
-			ml(HCl) = ((M / 55.845)*2*36.46094) / 0.22	| The equation broken into it's understandable form. The original I came up with. First, get moles of iron, then multiply by two and the molar mass of HCl to get grams of HCl needed. Then just divide by density to get mL needed.
-			ml(HCl) = ((M / 55.845)*72.92188) / 0.22	| First simplification. 2*36.46094 can be solved before-hand to give 72.92188.
-			ml(HCl) = ((M / 55.845)*331.46309090		| Next simplification. Multiplying and then dividing can be shortened to one multiplication step. 72.92188 / 0.22 = 331.46309090
-			ml(HCl) = 5.9354121389M						| Final simplification. Dividing and then multiplying can be shortened to one multiplaction step, as well. 331.46309090 * (1/55.845) = 5.9354121389
+			ml(HCl) = ((M / 55.845) * 2 * 36.46094) / 0.22	| The equation broken into it's understandable form. The original I came up with. First, get moles of iron, then multiply by two and the molar mass of HCl to get grams of HCl needed. Then just divide by density to get mL needed.
+			ml(HCl) = ((M / 55.845) * 72.92188) / 0.22		| First simplification. 2*36.46094 can be solved before-hand to give 72.92188.
+			ml(HCl) = ((M / 55.845) * 331.46309090			| Next simplification. Multiplying and then dividing can be shortened to one multiplication step. 72.92188 / 0.22 = 331.46309090
+			ml(HCl) = 5.9354121389M							| Final simplification. Dividing and then multiplying can be shortened to one multiplaction step, as well. 331.46309090 * (1/55.845) = 5.9354121389
 			
-			ml(HCl) = 5.9354121389M						| Final Form. Multiply mass of iron by 5.9354121389 to get the mL of 20% aqueous HCl needed to react entirely in a stoichiometric ratio.
+			ml(HCl) = 5.9354121389M							| Final Form. Multiply mass of iron by 5.9354121389 to get the mL of 20% aqueous HCl needed to react entirely in a stoichiometric ratio.
 			
 			Or just multiply the mass of iron by six... That will be fine too.
 			
@@ -820,3 +820,70 @@
 		
 		
 	
+
+	- Iron(II) Sulfate Heptahydrate -
+	
+		The reaction: Fe (s) + H2SO4 (aq)  FeSO4 (aq) + H2 (g)
+		
+		Stoichiometry:
+			
+			Molar Masses:
+				Fe 		- 	55.845g		- 	Fe: 100%
+				H2SO4	-	98.078g		-	(2) H: 1.00794 (2.055%)		(4) O: 15.9994 (65.251%)	S: 32.065 (32.693%)
+				
+			The moles are one to one.
+			I have ~95% sulfuric acid (17.822M). 	1.840 g/mL at 25 ?C (sigma aldrich)
+			
+			M = Recorded weight of iron in grams
+			mL(H2SO4) = Volume of 95% sulfuric acid needed to stoichiometrically react entirely with the mass of iron.
+			
+			ml(H2SO4) = ((M / 55.845) * 98.078) / (1.840 * 0.95)
+			ml(H2SO4) = (M / 55.845) * 56.1086956522
+			ml(H2SO4) = 1.00472192053M
+			
+			So, 1.00472192053 times the weight of iron in grams of 95% (17.822M) sulfuric acid will be enough to sufficiently react with all of it with 95% sulfuric acid (17.822M).
+			To vary the concentration of acid, use this formula where '%SA' is equal to the concentration of sulfuric acid by weight and 'M' is still equal to the recorded weight of iron in grams:
+				ml(H2SO4) = 0.954485824505M / %SA
+			
+			However, even though that's stoichiometrically enough acid, it won't all be soluble, and will become saturated before doing so.
+			To solve this, a solvent that iron sulfate is soluble in can be added to dissolve things properly.
+			Luckily, iron(II) sulfate is fairly soluble in water (~20g/100 mL @ 10 ?C), so we can just use water (distilled, ideally).
+			To figure out how much water I need, I'll need to figure out how much iron turns into how much sulfate.
+			This is easy because there is one mole of iron in one mole iron(II) sulfate, and the molar masses of these chemicals are known.
+			Iron(II) Sulfate Heptahydrate molar mass is 277.8g/mol.
+			That means for every mole of iron, we will produce 4.97448294385 times that amount in grams of sulfate heptahydrate.
+			ml(H2O) = 4.97448294385M / (20.5/100)		| mL of water needed to dissolve the iron sulfate @ 10 ?C. Mass of sulfate divided by solubility in water.
+			ml(H2O) = 24.2657704578M					| Final Simplification.
+			
+		
+		Materials:
+			
+			Fe 		- Iron Metal	- can be steel
+			
+			Water 	- Distilled, ideally
+			
+			H2SO4	- 
+		
+		Procedure:
+		1.) 
+			1a.) Prepare iron to be reacted, and measure and record it's weight in grams.
+			1b.) Multiply the recorded weight of iron by 1.005 to get the volume of 95% (17.822M) sulfuric acid needed, in mL. Record this figure.
+			1c.) Prepare the calculated volume of 95% (17.822M) sulfuric acid.
+			1d.) Multiply the recorded weight of iron by 25 to get the volume of water in mL needed to fully dissolve the iron(II) sulfate heptahydrate that will be produced. Record this figure.
+			1e.) Prepare the calculated volume of water.
+		
+		2.) Add the iron into the water.
+		
+		3.) Slowly and carefully add all the sulfuric acid to the water and iron. This is exothermic! Mix thoroughly once everything is added.
+		
+		4.) With occasional mixing (or light magnetic stirring), leave solution until all iron is completely dissolved.
+		
+		5.) Filter solution to remove iron oxides, carbon (if steel was used), and other insoluble impurites.
+		
+		6.) Evaporate solution in a fume hood. Heating can be used (product decomposition @ 680 ?C). Iron(II) Sulfate Heptahydrate should crystallize.
+		
+		7.) Wash crystals with an alcohol multiple times. Leave to dry once again.
+		
+		8.) Once dry, measure and record weight of product to get a final yield.
+	
+
