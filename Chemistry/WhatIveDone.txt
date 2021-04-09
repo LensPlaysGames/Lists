@@ -824,7 +824,7 @@
 		Although, this should just be the Iron(II) Chloride going into solution. 
 		As well as this (horrendous) color shift, I noticed bits of what appear to be iron oxides flaking off into the solution, so a filtering is imminent before crystallization (which is expected).
 		
-		After around 5 minutes, the whole solution has gone yellow, but is still quite clear, not taking on any cloudiness.
+		After around 5 minutes, the whole solution has gone yellow (fuck), but is still quite clear, not taking on any cloudiness (some hope left).
 		There are black bits of what seems to be iron oxides floating around, as well as some that has sunk to the bottom.
 		One of the pieces of iron, a rusty nail, originally, is now rust-free everywhere the solution has been in contact.
 		The other piece of iron, a rusty nail, originally, is still completely covered in rust and shows no signs of 'cleaning'.
@@ -837,12 +837,20 @@
 		Because of the yellow color of the solution, as opposed to green, I suspect I have failed in making iron(II) chloride (FeCl2) and have actually made iron(III) chloride (FeCl3)...
 		I'm not sure how this is happening, as 2 FeCl3 should be reduced by Fe to 3 FeCl2... Or I just don't know what the color green looks like, lol.
 		
+		Apr. 09, '21 - It's gone turbid.
+		
+			The solution is now a dark yellow, smells of railroad ties, and is completely cloudy.
+			The nails are much skinnier than they were before. Yesterday (2021-04-08), I took the nails out and bent them, returning them to the solution.
+			This allowed for the full submersion of the iron, where-as before the heads were protruding form the surface.
+			I tried to add a stir bar, which miraculously failed. I, in all my infinite wisdom, forgot about iron being literally the source of the discovery of magnets. But oh well.
+			Lessons learned, lessons learned...
+			
 		
 	
 
 	- Iron(II) Sulfate Heptahydrate -
 	
-		The reaction: Fe (s) + H2SO4 (aq)  FeSO4 (aq) + H2 (g)
+		The reaction: Fe (s) + H2SO4 (aq) -> FeSO4 (aq) + H2 (g)
 		
 		Stoichiometry:
 			
