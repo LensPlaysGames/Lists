@@ -852,7 +852,7 @@
 	
 		The reaction: Fe (s) + H2SO4 (aq) -> FeSO4 (aq) + H2 (g)
 		
-		Stoichiometry:
+		Stoichiometry (Apr. 07, '21):
 			
 			Molar Masses:
 				Fe 		- 	55.845g		- 	Fe: 100%
@@ -912,5 +912,131 @@
 		7.) Wash crystals with an alcohol multiple times. Leave to dry once again.
 		
 		8.) Once dry, measure and record weight of product to get a final yield.
+		
 	
 
+	- Copper Sulfate Synthesis (Electrolysis Method) - 
+	
+		The reaction: Cu(s) + H2SO4(con.) -> CuSO4 + H2
+									Electrolysis Catalyst
+									
+		Basically, copper electrodes in sulfuric acid go brrr.
+		No, but really, it's that simple.
+		
+		Useless Stoichiometry:
+		
+			Molar Masses:
+			
+				Cu		63.5463g
+				
+				H2SO4	98.07848g
+				
+			
+			M = Mass of Cu
+			mL(H2SO4) = mL of 95% sulfuric acid needed to fully react
+			
+			ml(H2SO4) = ((M / 63.5463g) * 98.07848g) / 1.84g/mL
+			mL(H2SO4) = (M / 63.5463g) * 53.3035217391
+			mL(H2SO4) = 0.83881393156M
+			
+			To get the mL of near concentrated sulfuric acid (95%) needed to dissolve a given mass of copper, multiply the mass of copper by 0.83881393156.
+			
+			To get the mL of water needed to dilute the acid and dissolve the sulfate, multiple the mL of sulfuric acid needed by 6. Alternatively, multiply the mass of copper by 5.
+			
+		
+		Materials:
+		
+			Water	- Distilled, ideally
+			
+			H2SO4	- Drain Cleaner
+			
+			Cu Metal- Pipe, Wire, you name it.
+			
+		
+		Procedure:
+		
+			1.)
+				1a.) Prepare two copper electrodes, recording both of their weights.
+				1b.) Prepare 10mL of conc. sulfuric acid.
+				1c.) Prepare 60mL of distilled water.
+				
+			2.) Slowly and carefully add conc. sulfuric acid to the water.
+			
+			3.) Secure both electrodes in the solution, not touching, and hooked up to the power supply.
+			
+			4.) Wait as the reaction takes place. Hydrogen gas will be formed along with the copper sulfate.
+			
+			5.) Once you feel you have enough copper sulfate generated, turn the power supply off.
+			
+			6.) 
+				6a.) Remove electrodes from solution, and rinse thoroughly with water.
+				6b.) Weigh electrodes and record their weights, taking note of the difference from the start.
+			
+			7.) Filter solution.
+			
+			8.) 
+				8a.) For small crystals (powder): Boil solution down until precipitate forms.
+				8b.) For large crystals: Leave solution to evaporate slowly, in a controlled environment.
+				
+			9.) Weigh your product, once dry!
+			
+			10.) 
+				To calculate yield %, take note of the amount of copper missing from the electrodes. 
+				
+				Using a molar mass of 63.5463g/mol, determine the amount of moles of copper metal was used in the reaction.
+				Using a molar mass of 249.685g/mol (assuming the pentahydrate form), determine the amount of moles of copper sulfate pentahydrate.
+				
+				Divide the amount of moles of copper sulfate pentahydrate by the amount of moles of copper metal missing from the electrodes, and you should have your yield %!
+				
+				
+		For best yield: Arrange positive electrode on the bottom of the solution, and the negative just breaching the surface 20-50mm (1-2 in.).
+			This will cause the copper sulfate formed to stay down by the positive electrode, preventing the reduction of copper sulfate to copper metal, as well as diffusion of copper ions themselves, increasing overall efficiency greatly.
+		
+	
+
+	- Copper Hydroxide (Copper Acetate Method) - Apr. 09, '21
+	
+		There's not a ton of documentation I can find on this on the internet.
+		
+		Procedure:
+		
+			1.) Prepare a solution of sodium hydroxide, Forty grams in 100mL.
+		
+			2.) Prepare a solution of copper acetate; Five grams in 100mL.
+			
+			3.) Add the sodium hydroxide solution to the copper acetate solution. An insoluble precipitate should form.
+			
+			4.) Filter the solution. Discard what comes through the filter, and everything that doesn't should be the product!
+			
+			5.) To remove any remaining sodium impurites (acetate, hydroxide), wash the filter with some water.
+			
+			6.) Once all solution has gone through the filter, leave to dry.
+			
+			7.) Once dry, record weight of final product.
+			
+			8.) The calculated 100% yield is 2.68563866113g. To calculate yield, divide final recorded weight by expected 100% yield.
+				
+			
+		
+		So, here's what happened...
+		
+			Dissolved materials in solutions, no problems there.
+			
+			When adding the NaOH solution to the acetate solution, a light powder precipitated out.
+			Upon adding all of the NaOH solution, the powder appeared to re-dissolve, and the solution turned a dark purple color.
+			This was all done with magnetic stirring.
+			
+			Then, when filtering, it took overnight to gravity filter... This morning, the tenth, I was left with a dark-gray sludge in the filter.
+			Below, a dark purple solution. 
+			
+			What??? So my guess is something formed a complex, somehow. It looked exactly like making Schweizer's reagent, where a light-colored precipitate forms that redissolves to form a dark purple solution.
+			But I didn't use ammonia. Sooo, yeah. Who knows. Did I just discover something? Lol.
+			
+			Anyway, I washed the reaction vessel from the previous night with some water, and dumped that into the filter. By the rate it was draining, I knew I just increased my wait time by a few hours, at least.
+			Once it's all drained, I'll put the filter on a paper towel, and leave somewhere to dry, then update back here once it is.
+			
+			As for the purple solution, I think I'll evaporate it down. 
+			If it is a complex, that should break it when all the water evaporates (unless the sodium hydroxide left behind keeps it basic enough or something), and I 'should' be left with Copper Hydroxide, Sodium Acetate, and leftover Sodium Hydroxide. 
+			Wash with water, then ethanol, to purify.
+			If this doesn't work, and I end up with a purple copper-sodium salt or something, I guess I'll have to post and ask around if anybody knows what this is.
+		
