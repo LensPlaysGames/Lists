@@ -1045,4 +1045,29 @@
 			I decided to lightly tug on the edges to spread the filter, and about a quarter of the time the paper just ripped.
 			Desipte all this, I was able to spread it relatively flat for drying.
 			I transferred this to a warm place to dry.
+			
+			Apr. 11, '21 - 
+			
+				Well, it's dry-ish. Apparently I did not wash enough with water, as white crystals have formed (probably sodium hydroxide leftover).
+				To remedy this, I simply have to collect everything from the filter, wash with water a few times, then let dry (once again).
+				
+				Wonderful! I have figured out why the solution coming through the filter is a dark purple.
+				As it turns out, copper hydroxide can dissolve in concentrated solutions of NaOH. 
+				Because I didn't want to do the stoichiometry, I just looked up the solubility of NaOH and copper acetate in freezing water (it was 0 ?C in the lab).
+				NaOH had a solubility of over 400g/L, so I figured 40g in 100mL would suffice for a NaOH solution (again, in hindsight this seems so obvious...).
+				Copper acetate had a solubility of over 70g/L, so I rounded down to 50g/L, as I had cold water and large-ish crystals of copper acetate to dissolve, and I didn't want to leave it overnight, or heat it, or something.
+				I figured an equal volume of water would be good (this is so, so dumb. Why didn't I just do the stoichiometry? Lol.), so I measured out 100mL of water and 5g of copper acetate.
+				Once reacted, there was still a large, large excess of sodium hydroxide in solution, so some copper hydroxide was able to dissolve.
+				That is why the solution is blue: because I'm a dumb dumb and used way to much NaOH.
+				But that's okay, I think I can recover it.
+				
+				Here's how I'll recover the copper hydroxide from the purple solution.
+				Slowly add hydrochloric acid, until a sky-blue precipitate forms, turning the clear solution turbid.
+				Filter to remove precipitate. That should be copper hydroxide.
+				If you add to much HCl, the solution will turn light green, and clear. This is copper chloride, and should be avoided in this recovery for best yield.
+				
+				The above procedure was tested on a 10mL scale, and required 2-4mL addition of azeotropic HCl to turn sky-blue, and turbid. 
+				5-7mL of azeotropic HCl added would cause the sky-blue precipitate to dissolve into solution, shifting color to light green, as well as going clear.
+			
+			
 		
