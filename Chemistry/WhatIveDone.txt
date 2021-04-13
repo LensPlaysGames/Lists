@@ -1051,7 +1051,9 @@
 				Well, it's dry-ish. Apparently I did not wash enough with water, as white crystals have formed (probably sodium hydroxide leftover).
 				To remedy this, I simply have to collect everything from the filter, wash with water a few times, then let dry (once again).
 				
-				Wonderful! I have figured out why the solution coming through the filter is a dark purple.
+				So, after trying to collect it, it has become one with the filter. I think I'll have to say goodbye to this part of the yield at this point. 'Great!'...
+				
+				Wonderful! At least I have figured out why the solution coming through the filter is a dark purple.
 				As it turns out, copper hydroxide can dissolve in concentrated solutions of NaOH. 
 				Because I didn't want to do the stoichiometry, I just looked up the solubility of NaOH and copper acetate in freezing water (it was 0 ?C in the lab).
 				NaOH had a solubility of over 400g/L, so I figured 40g in 100mL would suffice for a NaOH solution (again, in hindsight this seems so obvious...).
@@ -1068,6 +1070,8 @@
 				
 				The above procedure was tested on a 10mL scale, and required 2-4mL addition of azeotropic HCl to turn sky-blue, and turbid. 
 				5-7mL of azeotropic HCl added would cause the sky-blue precipitate to dissolve into solution, shifting color to light green, as well as going clear.
-			
+				
 			
 		
+	
+
