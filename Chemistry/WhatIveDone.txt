@@ -1071,7 +1071,81 @@
 				The above procedure was tested on a 10mL scale, and required 2-4mL addition of azeotropic HCl to turn sky-blue, and turbid. 
 				5-7mL of azeotropic HCl added would cause the sky-blue precipitate to dissolve into solution, shifting color to light green, as well as going clear.
 				
+			Apr. 15, '21 -
+			
+				HCl was to the dark blue solution until a light-blue precipitate formed.
+				Upon filtering, the filtrate was still quite blue and cloudy, however the filter did pick up something.
+				The container was washed with some purified water (I really need distilled water. Or I should just make some when my distillation setup gets here...).
+				Once drained (~1 hour), filter was washed with ~50mL of denatured alcohol (ethanol + propan-2-ol). Copper hydroxide is not soluble, so this was to remove any impurities.
+				The slightly-wet hydroxide was transferred to a glass dish to dry fully.
+				Upon drying, powder was collected into a vial and weighed. Twenty one milligrams were collected :(.
+				That is a embarassing yield of 0.00781936911467%, aka 7.8 millipercent. That's a record low for me.
+				The massive losses are attributed to the initial filtration, which removed quite a bit of the formed hydroxide, as well as the filtrate still being quite blue and turbid.
+				Coffee-filters are probably not adequate for the particle size of the product.
+				
 			
 		
 	
 
+	- Basic Copper Carbonate - Trying to avoid stupidity - Apr. 15, '21
+	
+		So basically (no pun intended), copper hydroxide and copper carbonate are kind of one in the same, and there is always some mix of the two. 
+		That is why copper carbonate is sometimes called basic copper carbonate, and copper hydroxide is called 'stabilised'. The stabiliser is copper carbonate, lol. 
+		It's possible to make neutral copper carbonate (no hydroxide), but this is very difficult due to the Cu2+ ion's great affinity for HO-, the hydroxide anion.
+		
+		Anyways, after that massive failure trying to make copper hydroxide, I just want to turn copper blue again :).
+		
+		THE PLAN:
+		
+			1.) Measure out some amount of acidic copper salt (copper acetate, copper chloride, etc).
+			
+			2.) Dissolve copper salt in solution. Dissolve baking soda in a separate solution.
+			
+			3.) Slowly add baking soda solution to copper salt solution until fizzing stops.
+			
+			4.) Filter solution. The filtrate can be discarded, while the feed (what's left on the filter) is the product.
+			
+			5.) Wash reaction vessel and filter with water and/or alcohol to remove impurities and unreacted ingredients, if any.
+			
+			6.) Collect basic copper carbonate from filter and spread to dry.
+			
+		
+		This might be more dumb, but I'm pretty sure this is the best I can do.
+		
+		WHAT HAPPENED TODAY, APRIL 15, 2021:
+		
+			The procedure was followed perfectly, except for step 1; I had previously made copper acetate solution and used that, instead of dissolving the stuff I've crystallized out back into water.
+			
+			Lots of fizzing on each addition of baking soda, and it lasted quite a while. I presume this to be due to the leftover vinegar from making the acetate. 
+			This could be avoided if the procedure was followed.
+			
+			I made a mistake, and ended up adding too much too quickly, even though I was still trying to go slow. What ended up happening was a foam-over.
+			The foam was hard to get rid of, and it almost felt more like a solid than a gas. It seems the baking soda formed so much CO2 that it inflated the copper carbonate as it formed.
+			Luckily, before it ever over-flowed out of the container, I poured it into the larger glass dish.
+			
+			One remarkable thing is the color. A beautiful cyan/baby-blue. Very vibrant.
+			
+			Once it was done foaming, I continued adding baking soda until fizzing no longer occured upon addition.
+			The glass dish had no pour spout, so I decided to transfer the solution to something that was harder to spill. Once everything was reacted, I poured the contents of the large glass dish back into my original reaction vessel. 
+			
+			From here, I poured the solution into a funnel lined with a coffee-filter. The coffee-filter immediately caught lots of light-blue (cyan) precipitate.
+			There was so much caught in the filter that, when drained, there was only a few millimeters from the top of the feed to the top of the filter paper.
+			
+			There has been no color change through any of this since the initial precipitate formed.
+			
+			After multiple careful washings with water, I decided to transfer everything in the filter to a glass dish to dry.
+			I got another large glass dish, and plopped the filter upside-down onto it. Then, I picked it up and scraped the entire filter with a glass stir rod to try and remove as much copper carbonate as possible.
+			
+			This was left to dry. One curious thing, though: it bubbled. For like 30 minutes. Like simmering water. It was weird. I don't think it was a chemical reaction, since it was filtered and washed with water.
+			I think what was happening is when the copper carbonate was formed, it was inflated by all the CO2 also forming into a foam, as well as some of the CO2 dissolving into the water present. 
+			Once left to sit, the water evaporated, causing CO2 to be expelled, as well as the foam to have less surface tension, causing it to break.
+			
+			After an hour, the collected product had phase-separated into a powder at the bottom and water at the top.
+			
+			At this point, there was a distinct color shift, from a cyan/baby-blue to a darker blue. I presume this to be from all of the water sitting on top of the copper carbonate.
+			At the edges of the dish, where I scraped the glass stir rod off, there are spots of dried solution that are a light-blue color, just a little lighter than a blue sky.
+			I presume that, as it dries, all of the copper carbonate will lighten into this light, baby-blue color.
+			
+			I will leave this to dry, and update back when something new happens.
+			
+	
