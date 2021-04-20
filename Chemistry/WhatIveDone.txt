@@ -766,6 +766,18 @@
 			I refilled it with cold tap water, once again.
 			I need to replace the positively-charged electrode at this point...
 			
+		Apr. 19, '21 - Uh Oh
+			
+			I have not refilled it, and have not replaced the positive electrode.
+			The cathode has been reduced to nothing (literally), and the metal crystals are all covered in acetate crystals, turning them blue.
+			There is a good amount of acetate crystallized out on the surface of the solution, as well as on the sides and bottom of the container.
+			
+			I think to recover this, I need to, first, replace the positive electrode so that it exists again.
+			After that, I can add water to dissolve all the acetate off of the crystals, as well as form an electrolyte solution.
+			I can hook up electricity again, which should 'clean' the metal crystals (the anode) of all the acetate.
+			After this, I can pull the wire holding the crystals out of the solution, pick them off, and rinse and dry them.
+			The solution can be filtered and re-used, or evaporated for solid copper acetate.
+			
 		
 	
 
@@ -845,6 +857,35 @@
 			I tried to add a stir bar, which miraculously failed. I, in all my infinite wisdom, forgot about iron being literally the source of the discovery of magnets. But oh well.
 			Lessons learned, lessons learned...
 			
+		Apr. 19, '21 - Update
+		
+			The solution became saturated (yellow crystals appearing on walls of reaction vessel) due to evaporation of the HCl.
+			In order to combat this, I added ~150mL of HCl on top. This re-dissolved all the crystals, and replenished the acid to continue reacting with the iron.
+			I wouldn't say the nails look tremendously different from the start, except for layers of it flaking off of the outside, and it being slightly skinnier.
+			Boiling this would most likely be the best route to extract as much Iron(II) Chloride from the nails as possible. A reflux setup would be very ideal.
+			
+			As for how I'm going to move forward: iron(II) chloride is unstable at STP, and oxidizes into iron(III) chloride.
+			Because I don't really want something that I have to keep under mineral oil/inert gas, I'm going to convert the salt into something stable at STP, allowing for easier storage.
+			One iron(II) compound that is quite stable is iron(II) carbonate. 
+			To form this, iron(II) chloride can be reacted with sodium carbonate.
+			If sodium bicarbonate is used, CO2 gas is expelled, and foaming can occur.
+			
+			My plan is to filter the solution, removing the insoluble impurites, unreacted iron, and whatever else may be in there (dust, bugs, etc).
+			Then, the filtrant will be reacted with a solution of sodium carbonate (commonly available as washing soda).
+			A precipitate should form. This will be filtered off, washed with water a few times, and then left to dry.
+			
+			Here's how it went down:
+			The filter step was quite easy. Passed through quickly, and a bunch of flakes of stuff were left in the filter. The filter, along with the reaction vessel, were washed with some water.
+			The filtrant reacting with the sodium carbonate, however, was not so easy. I forgot that there was still going to be HCl in the solution after I filtered it (stupid, I know) and that this would react to form hydrogen gas and salt.
+			The salt isn't a problem, but the hydrogen gas means I have to slowly add the carbonate, instead of all at once. This kind of sucked, and took about an hour.
+			At this point, the yellow solution had turned dark blue/gray from a suspension of particles. Leaving it to settle for 30 minutes did not change much, so I had to filter that directly.
+			The slop that was in the container didn't clog the filter, which was good, however there was too much for one filter to hold. 
+			So I had to fill one filters worth, wash it with water multiple times, then empty into a large glass dish to dry.
+			Then, I had to repeat that whole process for the next half that was leftover still. This took like four hours and had me questioning if this was worth it.
+			Once it was all collected and in one spot, I let it sit to dry.
+			As it oxidizes/dries, it turns from that blue/gray to a light rust color, almost yellow-orange. This is very cool to see, and stirring it causes cool swirls like in fancy coffee.
+			It is still this weird suspension, forming this weird slop that's not quite liquid but not quite solid. Very odd texture.
+			
 		
 	
 
@@ -907,7 +948,7 @@
 		
 		5.) Filter solution to remove iron oxides, carbon (if steel was used), and other insoluble impurites.
 		
-		6.) Evaporate solution in a fume hood. Heating can be used (product decomposition @ 680 ?C). Iron(II) Sulfate Heptahydrate should crystallize.
+		6.) Evaporate solution in a fume hood. Heating can be used (product decomposition @ 680 C). Iron(II) Sulfate Heptahydrate should crystallize.
 		
 		7.) Wash crystals with an alcohol multiple times. Leave to dry once again.
 		
@@ -1084,6 +1125,9 @@
 				Coffee-filters are probably not adequate for the particle size of the product.
 				
 			
+			NEXT TIME: Don't use a 10M solution of sodium hydroxide. Use a 1M, or less.
+			
+			
 		
 	
 
@@ -1133,12 +1177,12 @@
 			
 			There has been no color change through any of this since the initial precipitate formed.
 			
-			After multiple careful washings with water, I decided to transfer everything in the filter to a glass dish to dry.
+			After one washing with water, the filter started to let precipitate through (I stupidly only used one coffee-filter), so I was forced to transfer everything in the filter to a glass dish to dry.
 			I got another large glass dish, and plopped the filter upside-down onto it. Then, I picked it up and scraped the entire filter with a glass stir rod to try and remove as much copper carbonate as possible.
 			
-			This was left to dry. One curious thing, though: it bubbled. For like 30 minutes. Like simmering water. It was weird. I don't think it was a chemical reaction, since it was filtered and washed with water.
+			This was left to dry. One curious thing, though: it bubbled. For like 30 minutes. Like simmering water. It was weird. I don't think it was a chemical reaction, since it only happened once spread out in the larger glass dish..
 			I think what was happening is when the copper carbonate was formed, it was inflated by all the CO2 also forming into a foam, as well as some of the CO2 dissolving into the water present. 
-			Once left to sit, the water evaporated, causing CO2 to be expelled, as well as the foam to have less surface tension, causing it to break.
+			Once left to sit, the water evaporated, causing CO2 to be expelled from solution, as well as the foam to have less surface tension, causing it to break and release the CO2 trapped inside of it.
 			
 			After an hour, the collected product had phase-separated into a powder at the bottom and water at the top.
 			
@@ -1146,6 +1190,28 @@
 			At the edges of the dish, where I scraped the glass stir rod off, there are spots of dried solution that are a light-blue color, just a little lighter than a blue sky.
 			I presume that, as it dries, all of the copper carbonate will lighten into this light, baby-blue color.
 			
-			I will leave this to dry, and update back when something new happens.
+			I will leave this to dry, stirring and breaking up clumps occasionally, and update back when something new happens.
 			
+		APRIL 19, 2021:
+			
+			The copper carbonate is almost completely dry after four days of drying!
+			
+			After about two days of drying, I noticed a white salt crystallizing out near the edges of the solution.
+			This, I assume, is sodium bicarbonate I was unable to wash out due to the filter failure. This means the final product will be impure with sodium bicarbonate and sodium acetate.
+			
+			After three days (yesterday), there was no more free-standing water left. 
+			Slowly, over the course of the next day, it turned from a paste and clumps into a free-flowing powder.
+			When it was still clumpy and damp, I transferred everything to a small mason jar to complete drying in.
+			This was mostly to get the giant glass pie dish off of the lab bench so there is actually space to do things.
+			
+			After a bit longer of it sitting out, I will weigh it and update back here. I'm thinking about heating it to drive off excess water, as well, but we will see if I get to that.
+			
+			By the time it was dark the powder was very dry, and I couldn't detect any water if there was any.
+			So, I got the lid to the mason jar and popped it on. It's not labeled YET, but that's just because they are inside. I will do that tomorrow.
+			But I did it! I have a jar of nice baby-blue/light-cyan powder that looks amazing! I think it's still slightly impure, but that's not something I'm worried about for this purpose. 
+			I could always clean it of the excess baking soda by just doing a water washing before I need to use it.
+			
+		NEXT TIME: Use two coffee-filters stacked, not just one. This will allow for multiple washings and not risk the filter failing.
+			
+		
 	

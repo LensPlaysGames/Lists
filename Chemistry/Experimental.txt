@@ -319,10 +319,61 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		It's possible the reason one goes out on it's own is due to the size of string used, or because it's 0 ºC, or because SWIM put it in to the solution too late, so it didn't soak in fully...
 		Either way, this is definitely worth it, and a fun project!
 		
-		
-			
-		
 	
+
+Apr. 19, '21 - Micrograin
+
+	Micrograin is a mixture of zinc powder and sulfur, resulting in a flash powder pyrotechnic composition. 
+	Although this was first researched as a rocket propellant, it was never pursued due to it's low energy density, and tendency to detonate in the rocket.
+	The mixture has a varying burn rate depending on how compressed it is, like most flammable powders. The more compressed, the slower it burns. 
+	Zinc and Sulfur in a 2.04 to 1 ratio by weight can burn anywhere from 14 to 290 inches per second depending on level of compression.
+	
+	The following was done before the above research, so a ratio of 80% zinc to 20% sulfur was used.
+	This is quite different from the 2.04:1 ratio that is recommended by most people that have made the material, however, I will continue on with what happened.
+	
+	Zinc powder isn't expensive, but waiting for shipping would suck just for something not to work, and to be left with a ton of useless metal powder.
+	So, to test things out, and not just put money into the fire, a source of zinc was found: pennies minted post-1982.
+	A stack of ten pennies were clamped in a vice, and a piece of paper was taped precariously to the vice in order to catch any shavings off of the pennies.
+	A metal file was used to grind the pennies into a fine powder to be caught by the paper.
+	Every once and a while, the paper was tipped and collected into a paper cup, as it was a common occurence to bump the paper while filing.
+	Once enough penny powder had been collected (~5g, two pennies worth!), 0.8g of it was measured out. To this, sulfur was added until the scale read 1.000g. There was an error made here, and it actually ended up reading 1.050g.
+	Despite this, I continued on with the experiment. The mixture was placed in a steel dish, in a well ventilated area.
+	Using a soft flame lighter (BBQ lighter), no ignition occured after one full minute; the color did shift darker and it melted together, however.
+	To get a higher activation energy, a hotter and/or larger flame could be used, or something like a magnesium strip would probably work.
+	A propane blowtorch was ignited, and the flame aimed at the mixture. In under ten seconds, a bright green flash erupted, followed by a (still very bright) yellow-orange flame that died down slowly into a molten slag.
+	It worked! 80:20 is definitely viable, but here's the theory: the extra sulfur in the recommended 2.04:1 ratio will make it easier to ignite, possibly by a soft flame?
+	
+	
+
+Apr. ??, '21 - Actual Gunpowder
+
+	Gunpowder isn't as simple as it seems. Turns out the manufacturing process has an extra step that SOMEBODY didn't know about :(.
+	But now SOMEBODY does :).
+	
+	Basically, the dry mixture that SOMEBODY called gunpowder is wet with a little bit of water. This is then pushed through a screen, and allowed to dry. 
+	This forms the granules of gunpowder (previously called grains), and this burns much more quickly than the dry-mixed stuff.
+	
+	Thinking a 25g batch of actual gunpowder is more than plenty, but not enough to have to store it long after it's needed. This is ideal.
+	
+	Here's a plan:
+	
+		1.) Measure out the standard 75:15:10 and mix thoroughly. Record actual weights of each ingredient, as well as final mixture weight.
+			
+			KNO3:			18.75g
+			CHARCOAL:		3.75g
+			S:				2.5g
+			
+		2.) Wet with SMALL amount of distilled water. Just enough to turn it a darker color.
+		
+		3.) Push the wetted powder through a window-screen, forming small granules.
+		
+		4.) Dry the small granules by means of evaporation. DO NOT HEAT TO DRY!
+		
+		5.) Once dry, weigh the granules and record the weight.
+		
+			5a.) How much powder was lost in the screening process?
+			5b.) How does the burn of the wet-screened mixture compare to the burn of the dry mixture, and why?
+
 
 
 
