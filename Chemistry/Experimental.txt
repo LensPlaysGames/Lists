@@ -361,7 +361,7 @@ Apr. ??, '21 - Actual Gunpowder
 			
 			KNO3:			18.75g
 			CHARCOAL:		3.75g
-			S:				2.5g
+			SULFUR:			2.5g
 			
 		2.) Wet with SMALL amount of distilled water. Just enough to turn it a darker color.
 		
@@ -373,7 +373,32 @@ Apr. ??, '21 - Actual Gunpowder
 		
 			5a.) How much powder was lost in the screening process?
 			5b.) How does the burn of the wet-screened mixture compare to the burn of the dry mixture, and why?
-
+			
+			
+		
+	RESULTS:
+	
+		18.751g	KNO3
+		3.751g 	CHARCOAL
+		2.510g	SULFUR
+		25.012g	TOTAL
+		
+		To this, water was added 0.5mL at a time until a dark color was reached. 3.5mL of water was added in total.
+		This caused the light-grey powder to turn dark-grey and slightly clump up.
+		
+		The wet powder was pushed through a window screen. 
+		The idea is that this forms granules that are dense and well-mixed.
+		But, since they are granules, the space in-between them allows for extra surface area during the burn, increasing the burn rate.
+		
+		Once this was done, the powder was moved to a vacuum chamber with dessicant in the bottom. A vacuum was pulled for twenty minutes, then it was shut off and left to sit in the vacuum for the same amount of time.
+		After this, it was removed from the chamber and a burn test (~0.5g, 0.630g actual) was done. It did light with a soft-flame, however it fizzled out quite easily. Presumably, this is due to water that is still present.
+		
+		To get rid of this water, the powder was put back in the vacuum chamber, and left for ~2 hours, 'refreshing' the vacuum occasionally. 
+		Once this time was up, another burn test (~0.5g, 0.560g actual) was performed. Similar result: fizzled out multiple times, but eventually the whole thing burned.
+		
+		Since it was still wet, the powder was put in a sealed container with a lot of dessicant, the hope being that overnight it would pull the most of moisture out of it. 
+		This works for things like 3d-printer filament and pieces of wood, so the hope is it works for this too.
+		
 
 
 
