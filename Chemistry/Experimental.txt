@@ -399,6 +399,39 @@ Apr. ??, '21 - Actual Gunpowder
 		Since it was still wet, the powder was put in a sealed container with a lot of dessicant, the hope being that overnight it would pull the most of moisture out of it. 
 		This works for things like 3d-printer filament and pieces of wood, so the hope is it works for this too.
 		
+		
+		UPDATE: After overnight in the dessicant chamber, the powder was crisp and dry when handling.
+		Burn test concludes it ignites and burns rather well. Woo hoo! It's not completely ruined.
+		It's easier to ignite, burns faster, and looks much more glamorous (white flame, sparks) than just the dry mix.
+		
+		Doing some research online, it was discovered that the longer the powder is wet, the less effective it is. This is due to the KNO3 dissolving in the water present.
+		Then, if it's wet for a long time, evaporation is happening very slowly. This causes crystals of KNO3 to be able to grow, ruining the fine mix of the powder.
+		This causes 'hot-spots' and tends to fizzle itself out, as well as burn very slowly, if at all.
+		
+		Now knowing that water is evil, the depths of memory were accessed and something was found: isopropyl alcohol is better at 'wetting' things than water. It also evaporates faster.
+		This means the powder could be wetted, screened, and then dried relatively quickly.
+		
+		A batch of 40g 75:15:10 KNO3:Charcoal:Sulfur was measured out and mixed.
+		8mL of 70% propan-2-ol was added to the powder. This turned it a dark color, as well as making it clump up slightly.
+		Once thoroughly mixed, the powder was pushed through a window-screen, creating small, well-mixed granules.
+		The granules were then transferred to a piece of paper and spread out evenly. This was left in the sun for ~2 hours, stirring occasionally.
+		After the two hours, the mix was very dry (comparable to overnight in the dessicant chamber), so a burn test was in order.
+		Around half a gram was measured out in a small pile. With a small, soft flame (terrible BBQ lighter), the mix ignited within a few seconds.
+		
+		It burst into a white flame, while at the same time sending showers of sparks everywhere. This is much better than just the dry mix!
+		
+		It also isn't too difficult to do, just wet the powder with some iso, screen, then leave in the sun to dry.
+		Can be done in (less than) one day!
+		
+		SWIM would also like to try the 'actual' method of making gunpowder; first, KNO3 is dissolved in boiling water. 
+		Charcoal + sulfur is added to form a slurry, then this slurry is dumped in a large bath of isopropyl alcohol, screened, and dried.
+		
+		As well as the boiling method, SWIM thinks that maybe the powder was just not wet down enough to granulate properly.
+		To test this, a 40g batch of 75:15:10 will be mixed up and wet with a LOT of alcohol, until it seems like it could form one solid mass.
+		Then, this will be screened and dried. The idea here being that stronger granules are the result of the really wet mixture going through the screen.
+		
+		
+		
 
 
 
