@@ -4,6 +4,84 @@ Mar. 28, '21 - CREATION!
 
 STUFF TO DO:
 
+ELECTRIC FURNACE:
+	[BY] TAOW
+	
+	[ESTIMATED COST] $100
+	
+	[MATERIALS]
+		- Kaowool or Alumina Firebrick
+		- AC heating coil
+		- PID Temperature Controller
+		- High Temp Type K Thermocouple
+		
+	[PROCEDURE]
+		Remember to stretch out the heating element(s) prior to using by hanging it from something with a weight on the bottom for even stretching and no hotspots.
+		
+	FOR BRICKS:
+		Arrange fire brick to make an enclosed area. Only the top side should be open.
+		Figure out how to arrange heating element inside furnace area, and mark where you need to make channels in the brick where the element can slot in.
+		Dismantle the brick arrangement and make the channel for the heating element. I honestly don't even know what tool I need to do this.
+		Once that's done, push the heating element in to the channels and make sure both ends are accessible, drilling small holes to get the ends out for electrical connection if necessary.
+		Drill a hole for the thermocouple, as well.
+		Arrange everything again, using high-temperature refractory mortar to stick them all together.
+		On the outside, mount the PID controller (somehow), and connect up all the terminals (heating element, thermocouple, relay).
+		Make sure to test the circuit before full assembly. However, you should now be done!
+		Plug it in, set the temp on the controller, and you are good to go (as long as no wires melt).
+		
+	FOR KAOWOOL:
+		Get a metal bucket of some sort, and line it with kaowool on the bottom and sides. 
+		Weave the heating element into the wool around the outsides, or use high-temp refractory mix to attach the coil in spots as it goes up.
+		Make sure both ends are outside the hot zone and can have cables attached to them to go the PID controller.
+		Drill a hole in the bucket and cut a hole in the insulation in order to make room for the thermocouple.
+		Hook everything up the PID controller, plug it in, set the temp and you are good to go.
+		Be sure to test the circuit before full assembly.
+		
+		You should now be left with a working, electric metal foundry!
+		
+
+E-MATCH:
+	[BY] GRANT THOMPSON
+	
+	[ESTIMATED COST] $15
+	
+	[MATERIALS]
+		- 12v (or higher) power source (car battery, lamp/lantern battery, 9v battery, hacked PC power supply, etc)
+		- Stranded Wire
+		- Electrical Switch (high DC current)
+		- Electrical Tape (or any tape, but durability will vary)
+		- Matches
+		
+	[PROCEDURE] DETAILED HERE: https://www.youtube.com/watch?v=duoxvqxASak
+		Start by stripping both ends of two ~5-10cm lengths of stranded wire. If nylon is intertwined with the strands, use a flame to 'lick' the nylon (burn it away).
+		On one of these lengths of wire, single out a strand from one of the sides, and seperate it from the rest by bending it at a 90º angle.
+		Grant shows to cut the rest of the strands off, but the other strands are still usable once the single strand is used, so keeping them there and just bending them out of the way can help you re-use it if that's your thing.
+		On a small section of tape, place the wires parallel to each other, around 5-10mm apart. Make sure the bent strand is laid over the other wire.
+		Once they are taped in place, wrap the end of the single strand around the stripped portion of the other wire. 
+		You can also wrap the wire, then do the tape, but I found it's easier to hold everything in place first, then wrap.
+		Make sure the only thing connecting the two wires is that single strand. If the bare wires are touching anywhere else, this won't work.
+		Now, put a notch in the tip of a match (like in the back of an arrow) using a sharp edge like a knife, scissors, or the edge of a 2x4. This just needs to be small enough to fit that single strand in.
+		Slide the match onto the bridge-wire (the small strand connecting the two wires), and press it onto the tape, sticking it in place.
+		Then, wrap the rest of the tape around the wires and match, holding everything in place. Using electrical tape and wooden matches, this results in quite a sturdy igniter.
+		All that's needed now is to power it up! But only when we want it to... That's why we need the switch.
+		Once your power source is all ready (2 9v batteries in series, 2-4 6v lantern batteries in series, car battery, etc), it's as simple as running (long) wires to your igniter, putting you a safe distance away from the ignition.
+		To ignite, simply touch the wires running off of the igniter to the positive and negative on the power supply (polarity doesn't matter in this case, as long as you don't touch both to one).
+		Alternatively, a switch can be used for a more human-friendly ignition. 
+		Simply splice the switch in-between one of the wires that goes to the igniter from the power source. 
+		Make sure the switch is off when you do hook up the power source to the ignition lines. For extra safety, an arm switch and a fire momentary push-button can be used.
+		This requires the switch to be set to the ON position, as well as someone/something holding/pressing the button, instead of just a switch that can be left to the ON position on accident.
+		
+	
+	[COMMENTS]
+		I have tested 5v @ 4A, and haven't gotten the wire to do as much as heat up even a little bit. 
+		For these lower voltages, a resistive wire would need to be used (like nichrome, kanthal, vape coil stuff, etc).
+		
+		This is a good, quick, disposable E-match that does it's job very well, and is much more safe than a lot of the E-matches you see being made online (looking at you, ETN).
+		For rocket motors, or remote ignitions of any kind, these will do the trick. Plus, a meter of wire, a box of matches, and a roll of tape gives you many of these igniters in a short amount of time.
+		For more 'tricky' ignitions, I would like to investigate the HANDHELD HIGH-VOLTAGE project below as an ignition source (sustained electrical arc), as well as a ZVS Flyback circuit (repeated AC electrical arc).
+		
+	
+
 HANDHELD HIGH-VOLTAGE:
 	[BY] KEYSTONE SCIENCE
 	
@@ -15,15 +93,24 @@ HANDHELD HIGH-VOLTAGE:
 		- Momentary Push-Button
 		- Nails/Electrodes
 		
+	
 	[PROCEDURE] DETAILED HERE: https://www.youtube.com/watch?v=wr2XvB95rV8
-		Boost Converter has two input wires, positive and negative, as well as two high-voltage output wires.
+		'Boost Converter' has two input wires, positive and negative, as well as two high-voltage output wires.
 		Wire each of the two nails, or electrodes of choice, to each the high voltage wires.
 		Secure them anywhere from 5mm to 25mm, depending on arc length achievable (~1cm works most of the time). 
 		Make sure the high-voltage electrodes are closest where you want them to arc.
 		Wire one of the Boost Converter input wires to one side of the momentary push-button, and the other side of the push-button to the battery, making sure the polarity is that of the wire that goes to the other side of the button.
 		Wire the other input wire to the opposite polarity on the battery, and there you have it!
-		A push-button (possible lethal) taser.
+		A push-button (possibly lethal) taser.
 		Be careful, and have fun arcing!
+		
+	
+	[RANT]
+		The reason I put 'boost converter' in quotes is because it's sort of tricky. 
+		It has a switching circuit to switch between VCC and GND rapidly, then sends that to a transformer to be stepped up, and/or a voltage multiplier of some sort (most likely CW), all of that with a bridge rectifier at the end.
+		This causes an insanely high voltage due to the many circuits used here, and is not really what is meant when the words 'boost converter' are put together. 
+		To me, boost converter generally means a usable voltage from an unusable voltage for a given piece of hardware, like 5v -> 12v, not 5v -> 50000v. 
+		That would make it a voltage multiplier, at least in my opinion.
 		
 	
 
@@ -34,7 +121,7 @@ ZVS DRIVER (Zero-Voltage Switching):
 	
 	[MATERIALS]
 		- Flyback Transformer (used in CRT TVs, can be found online for ~$20).
-		- 2 IRFP250N MOSFETs, heatsinked
+		- 2 High Current MOSFETs, heatsinked
 		- 2 12V Zener Diodes
 		- 2 2W 470 resistors
 		- 2 10k resistors

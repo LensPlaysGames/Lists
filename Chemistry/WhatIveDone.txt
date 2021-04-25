@@ -857,7 +857,7 @@
 			I tried to add a stir bar, which miraculously failed. I, in all my infinite wisdom, forgot about iron being literally the source of the discovery of magnets. But oh well.
 			Lessons learned, lessons learned...
 			
-		Apr. 19, '21 - Update
+		Apr. 19, '21 - Update to iron(II) carbonate
 		
 			The solution became saturated (yellow crystals appearing on walls of reaction vessel) due to evaporation of the HCl.
 			In order to combat this, I added ~150mL of HCl on top. This re-dissolved all the crystals, and replenished the acid to continue reacting with the iron.
@@ -868,7 +868,8 @@
 			Because I don't really want something that I have to keep under mineral oil/inert gas, I'm going to convert the salt into something stable at STP, allowing for easier storage.
 			One iron(II) compound that is quite stable is iron(II) carbonate. 
 			To form this, iron(II) chloride can be reacted with sodium carbonate.
-			If sodium bicarbonate is used, CO2 gas is expelled, and foaming can occur.
+			If sodium bicarbonate is used, CO2 gas is expelled, and foaming can occur. 
+			However, after doing the reaction, I realize foaming will occur either way as the (bi)carbonate reacts with the HCl leftover in solution to form 2 NaCl + H2.
 			
 			My plan is to filter the solution, removing the insoluble impurites, unreacted iron, and whatever else may be in there (dust, bugs, etc).
 			Then, the filtrant will be reacted with a solution of sodium carbonate (commonly available as washing soda).
@@ -886,6 +887,14 @@
 			As it oxidizes/dries, it turns from that blue/gray to a light rust color, almost yellow-orange. This is very cool to see, and stirring it causes cool swirls like in fancy coffee.
 			It is still this weird suspension, forming this weird slop that's not quite liquid but not quite solid. Very odd texture.
 			
+		Apr. 24, '21 - 
+			
+			The slop has been drying by means of evaporation for five days now. Most of the water is expelled, and the volume has decreased significantly.
+			I have had fun just about everyday playing with the swirls in the material from the oxidation/drying induced color-shift.
+			Slowly, the material under the surface has become more and more orange due to me mixing the material many times (for fun).
+			The edges have developed a crust of white salt, which I presume to be leftover sodium chloride and sodium carbonate.
+			This means my product is definitely still pretty impure, and will need a purification for actual further use.
+			As the product dries further, it goes from a light-orange/light-rust color to a dark, deep red. I'm not sure why this is.
 		
 	
 
