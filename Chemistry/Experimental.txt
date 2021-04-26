@@ -317,7 +317,7 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 			Well, it's done! It's cool! It's not the most reliable fuse, but with three bundled together it's not a bad failure rate. Just one on it's own can go out easily, though.
 		The burn is fairly consistent, and it lights very, very easily. The shortcomings are largely the fault of the preparation.
 		It's possible the reason one goes out on it's own is due to the size of string used, or because it's 0 ºC, or because SWIM put it in to the solution too late, so it didn't soak in fully...
-		Either way, this is definitely worth it, and a fun project!
+		Either way, this is definitely worth it, and a fun project! SWIM will be looking into alternative DIY fuse methods, however.
 		
 	
 
@@ -340,12 +340,15 @@ Apr. 19, '21 - Micrograin
 	Despite this, I continued on with the experiment. The mixture was placed in a steel dish, in a well ventilated area.
 	Using a soft flame lighter (BBQ lighter), no ignition occured after one full minute; the color did shift darker and it melted together, however.
 	To get a higher activation energy, a hotter and/or larger flame could be used, or something like a magnesium strip would probably work.
-	A propane blowtorch was ignited, and the flame aimed at the mixture. In under ten seconds, a bright green flash erupted, followed by a (still very bright) yellow-orange flame that died down slowly into a molten slag.
+	A propane blowtorch was ignited, and the flame aimed at the mixture. In around ten seconds, a bright green flash erupted, followed by a (still very bright) yellow-orange flame that died down slowly into a molten slag.
 	It worked! 80:20 is definitely viable, but here's the theory: the extra sulfur in the recommended 2.04:1 ratio will make it easier to ignite, possibly by a soft flame?
+	
+	UPDATE: 67.1:32.9 (2.04:1) is the best ratio tested so far. Still requires large amount of activation energy (blowtorch), but the ignition is a lot faster (~3 sec vs ~15 sec). 
+	It is also more efficient, meaning less flame leftover after, and more of the powder used in the combustion.
 	
 	
 
-Apr. ??, '21 - Actual Gunpowder
+Apr. 2?, '21 - Actual Gunpowder
 
 	Gunpowder isn't as simple as it seems. Turns out the manufacturing process has an extra step that SOMEBODY didn't know about :(.
 	But now SOMEBODY does :).
@@ -424,11 +427,32 @@ Apr. ??, '21 - Actual Gunpowder
 		Can be done in (less than) one day!
 		
 		SWIM would also like to try the 'actual' method of making gunpowder; first, KNO3 is dissolved in boiling water. 
-		Charcoal + sulfur is added to form a slurry, then this slurry is dumped in a large bath of isopropyl alcohol, screened, and dried.
+		Charcoal + sulfur is added to form a slurry, then this slurry is dumped into a bath of isopropyl alcohol, screened, and dried.
 		
 		As well as the boiling method, SWIM thinks that maybe the powder was just not wet down enough to granulate properly.
 		To test this, a 40g batch of 75:15:10 will be mixed up and wet with a LOT of alcohol, until it seems like it could form one solid mass.
 		Then, this will be screened and dried. The idea here being that stronger granules are the result of the really wet mixture going through the screen.
+		
+		APR. 25, '21 - UPDATE
+		
+			The extra alcohol in the mix did wonders. Instead of adding 8mL, small amounts were just dumped in and the stopping point was by texture.
+			It eventually reached a sand-castle-like consistency, and that seemed to be a good texture to push through a screen. The mixture was balled up, and some plastic wrap was used to mash it through the window screen.
+			These granules were then spread out in the sun to dry.
+			
+			Once dry, a burn test was conducted; the mixture erupted into sparks and a bright white flame, burning entirely within a few seconds.
+			It's not the fastest black powder, but it is better than before.
+			
+			Here's one problem: the granules are too fragile once dry.
+			When mixing to dry out in the sun, the granules would crumble back into a fine powder. 
+			This isn't a giant problem, as it still is very flammable and better than the dry stuff, but it seems to be reducing the potential effectiveness.
+			To combat this, a binder could be used to harden the granules. IDextrin isn't very good for hardening (sticky), but SGRS seems to dry into a concrete-like hardness, which is exactly what is needed.
+			
+			Here's another problem: the coarseness of the ingredients.
+			The charcoal was crushed with a hammer and then blended and sieved, however the KNO3 seems to be in small crystals like table salt or sugar.
+			The sulfur comes in a 'dusting powder' so it is very finely ground already. 
+			It seems the KNO3 needs a similar treatment to the charcoal: blended and sieved.
+			To do this safely, the entirety of the blender will be washed thoroughly, making sure no charcoal residue is left inside.
+			If any fuel is leftover, the oxidizer can ignite it and turn the blender into a *ahem* 'device', and not the kind you keep in your pocket and watch YouTube on...
 		
 		
 		
@@ -470,6 +494,14 @@ STUFF THAT COULD BE DONE:
 		Start rolling fuse by taking one corner of tissue paper, and rolling at a 45º angle, as tightly as possible.
 		Continue this for the entire length of tissue paper.
 		Once rolled up, let dry overnight, and the fuses are ready to be used (although, in a pinch, they also burn right away with good enough black powder).
+		
+	
+	- Black Match (Actual Black Powder Fuse)
+	[BY] UNKNOWN | MANY ONLINE SOURCES
+	[INGREDIENTS] BLACK POWDER, WATER OR ALCOHOL, COTTON STRING/TWINE
+	[PROCEDURE] Wet black powder down until it is a thick slurry. Be careful to not add too much liquid; add small amounts at a time and mix thoroughly.
+		Soak cotton twine in slurry, trying to coat everything evenly. Once thoroughly soaked, the string can be removed from the slurry and left to dry (preferably in the sun).
+		The string will become rigid once it dries, so be sure to arrange it in straight lines while it does for ease-of-use and storage.
 		
 	
 
