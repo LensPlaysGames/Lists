@@ -319,6 +319,8 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		It's possible the reason one goes out on it's own is due to the size of string used, or because it's 0 ºC, or because SWIM put it in to the solution too late, so it didn't soak in fully...
 		Either way, this is definitely worth it, and a fun project! SWIM will be looking into alternative DIY fuse methods, however.
 		
+		MAY 03, 2021 UPDATE: IT'S NOT COOL, IT'S NOT WORTH IT, ALTERNATIVES ALSO SUCK.
+		
 	
 
 Apr. 19, '21 - Micrograin
@@ -464,9 +466,20 @@ Apr. 2?, '21 - Actual Gunpowder
 
 STUFF THAT COULD BE DONE:
 
-
+ - Aluminum FP
+ 
+	[BY] Gary Chen, Mark Motyka, Jay C. Poret	PATENT NUMBER US7578895B7		TITLE: Perchlorate free flash bang compositions for pyrotechnic training rounds
+	[INGREDIENTS]
+		- Al						Metallic Fuel				Aluminium, Magnesium, Magnalium, Silicon, Zirconium, or combinations
+		- KNO3						Oxidizer					Potassium nitrate, strontium nitrate, copper nitrate, or combinations
+		- S							Non-metallic Fuel			Sulfur
+		- H3BO3						PH Stabilizer				Boric Acid
 		
-	
+	[COMPOSITON 604]
+		- 40% 	Al
+		- 54% 	KNO3
+		- 5%	S
+		- 1%	H3BO3
 
  - DIY FUSE
 	Methods:
@@ -527,17 +540,16 @@ STUFF THAT COULD BE DONE:
 	Also, a 1/8" steel end cap for one side of the nipple pipe (pipe nipple?).
 	
 
-
- - STARLITE FORGE
+ - STARLITE FORGE - cheap metal melter!
 	[BY] NightHawkInLight - DETAILED HERE: https://www.youtube.com/watch?v=FmEb1YZScxc
 	
 	[MATERIALS]
 		STARLITE MIX:
 		10 PARTS	- FLOUR
-		5 PART	- CORN STARCH
-		5 PART	- POWDERED SUGAR
-		5 PART 	- BAKING SODA
-		1 PART	- BORAX
+		5 PART		- CORN STARCH
+		5 PART		- POWDERED SUGAR
+		5 PART 		- BAKING SODA
+		1 PART		- BORAX
 		ENOUGH WATER TO GET TO CLAY-LIKE CONSISTENCY (~250ml / kg)
 		
 		ANY STEEL CONTAINER
@@ -557,7 +569,7 @@ STUFF THAT COULD BE DONE:
 		
 	
 
-	 - Acetone Peroxide - THE MOTHER OF SATAN - You shouldn't do this
+ - Acetone Peroxide - THE MOTHER OF SATAN - You shouldn't do this
  
 	[MATERIALS] Acetone, 30% Hydrogen Peroxide, HCl acid, Toluene
 	
