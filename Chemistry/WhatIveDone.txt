@@ -781,7 +781,7 @@
 		
 	
 
-	- Iron(II) Chloride - Apr. 06, '21
+	- Iron(II) Chloride Synthesis - Apr. 06, '21 - Converted to Iron(III) Carbonate
 	
 		Today I am going to be making Iron(II) Chloride.
 		I will be using iron metal, as well as hydrochloric acid.
@@ -901,10 +901,15 @@
 			Everything is dry. In the last few days, a lot of clumps formed and had to be broken up repeatedly.
 			The dry powder was transferred to a piece of paper. From this piece of paper, the iron carbonate was loaded into a small glass vial with a screw-on plastic lid.
 			The powder is the 'standard rust color', like Mars. Some people call it red (like me), others brown.
+			
+		NEXT TIME:
+			Heat up the damn solution with the nails in it. Avoid all contact with fumes, even skin. This will speed up the process greatly.
+			Reflux it if you care about saving HCl.
+			
 		
 	
 
-	- Iron(II) Sulfate Heptahydrate -
+	- Iron(II) Sulfate Heptahydrate - NOT YET ATTEMPTED
 	
 		The reaction: Fe (s) + H2SO4 (aq) -> FeSO4 (aq) + H2 (g)
 		
@@ -971,7 +976,7 @@
 		
 	
 
-	- Copper Sulfate Synthesis (Electrolysis Method) - 
+	- Copper Sulfate Synthesis (Electrolysis Method) - NOT YET ATTEMPTED
 	
 		The reaction: Cu(s) + H2SO4(con.) -> CuSO4 + H2
 									Electrolysis Catalyst
@@ -1230,3 +1235,11 @@
 			
 		
 	
+
+	- Basic Iron Acetate - May. 05, '21
+		
+		The plan: Stick some nails, steel wool (which I can't find bloody anywhere), or any iron source in some vinegar and 3% hydrogen peroxide, then heat for a few hours. 
+		If my glassware had arrived I would reflux it, but oh well, the ingredients are cheap.
+		This will produce basic iron acetate, which has been used as a dye and mordant for a long time. 
+		I will be using it as a possible paint pigment, as well as just another fun, mildly toxic compound to synthesize.
+			
