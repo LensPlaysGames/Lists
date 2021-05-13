@@ -458,10 +458,61 @@ Apr. 2?, '21 - Actual Gunpowder
 			It seems the KNO3 needs a similar treatment to the charcoal: blended and sieved.
 			To do this safely, the entirety of the blender will be washed thoroughly, making sure no charcoal residue is left inside.
 			If any fuel is leftover, the oxidizer can ignite it and turn the blender into a *ahem* 'device', and not the kind you keep in your pocket and watch YouTube on...
+			
 		
-		
-		
+	
 
+May. 11, '21 - Aluminium as a Fuel
+	
+	Today a lb of indian blackhead dark flake 2um aluminium powder showed up.
+	This is one of the best things you can buy for $20.
+	
+	Compositions: ALL Al/KNO3 or Al/S mixes should have 1% additional boric acid for safety reasons.
+		
+		Miller-Bangor Powder:
+			60%		KNO3					OXIDIZER
+			30%		Al						METALLIC FUEL
+			10%		S						NON-METALLIC FUEL & IGNITION CATALYST
+			
+			TESTS:
+				Unconfined:				Goes off with a woosh/fwoomp, lots of white smoke, and bright!
+				Triangle Cracker:		Standard sugar fuse ignition, loud report from 1g.
+			
+		Composition 604 (US7578895B7):
+			54%		KNO3					OXIDIZER
+			40%		Al						METALLIC FUEL
+			5%		S						IGNITION CATALYST
+			1%		H3BO3					pH STABLIZER
+			
+		PyroData Sparkler #4:
+			63%		KNO3					OXIDIZER			
+			13.5%	CHARCOAL				NON-METALLIC FUEL & SPARK SOURCE
+			13.5%	S						NON-METALLIC FUEL & IGNITION CATALYST
+			10%		Al						METALLIC FUEL
+			
+				TESTS:
+					Unconfined:			Slow burning, bright, but not a crazy amount of sparks.
+				
+		Visser Sparkler Composition #5:
+			44%		KNO3					OXIDIZER			
+			25%		CHARCOAL				NON-METALLIC FUEL
+			19%		Al						METALLIC FUEL
+			12%		S						NON-METALLIC FUEL & IGNITION CATALYST
+			+5%		Dextrin					BINDER
+			
+		I noticed these are basically BP with aluminum added, so let's try that:
+			70%		World's Worst Black Powder
+			30%		Aluminium
+			
+			TESTS:
+				Unconfined:				Harder to light than Miller-Bangor powder, much longer burn, and as bright as the sun the whole time.
+				
+			RESULTS: This mix would be great to 'fix' some bad BP, or just to have a tame FP that is still quite fun. Or to replace the sun for a little while (IT'S SO BRIGHT).
+			
+		
+			
+		
+	
 
 
 
