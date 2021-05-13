@@ -475,8 +475,8 @@ May. 11, '21 - Aluminium as a Fuel
 			10%		S						NON-METALLIC FUEL & IGNITION CATALYST
 			
 			TESTS:
-				Unconfined:				Goes off with a woosh/fwoomp, lots of white smoke, and bright!
-				Triangle Cracker:		Standard sugar fuse ignition, loud report from 1g.
+				Unconfined:				Goes off with a woosh/fwoomp, lots of white smoke, and bright!		11-05-21
+				Triangle Cracker:		Standard sugar fuse ignition, loud report from 1g.					11-05-21
 			
 		Composition 604 (US7578895B7):
 			54%		KNO3					OXIDIZER
@@ -486,28 +486,47 @@ May. 11, '21 - Aluminium as a Fuel
 			
 		PyroData Sparkler #4:
 			63%		KNO3					OXIDIZER			
-			13.5%	CHARCOAL				NON-METALLIC FUEL & SPARK SOURCE
+			13.5%	CHARCOAL				NON-METALLIC FUEL
 			13.5%	S						NON-METALLIC FUEL & IGNITION CATALYST
 			10%		Al						METALLIC FUEL
 			
 				TESTS:
-					Unconfined:			Slow burning, bright, but not a crazy amount of sparks.
+					Unconfined:			Slow burning, bright, but not a crazy amount of sparks.				12-05-21
+					
+		PyroData Sparkler #8:
+			43.75%	KNO3					OXIDIZER
+			25%		CHARCOAL				NON-METALLIC FUEL
+			18.75%	Al						METALLIC FUEL
+			12.5%	S						NON-METALLIC FUEL & IGNITION CATALYST
+			
+				TESTS:
+					Unconfined:			Very slow burning, bright as the sun, a good amount of sparks.		13-05-21
 				
 		Visser Sparkler Composition #5:
 			44%		KNO3					OXIDIZER			
 			25%		CHARCOAL				NON-METALLIC FUEL
 			19%		Al						METALLIC FUEL
 			12%		S						NON-METALLIC FUEL & IGNITION CATALYST
-			+5%		Dextrin					BINDER
+			+5%		DEXTRIN					BINDER
 			
 		I noticed these are basically BP with aluminum added, so let's try that:
 			70%		World's Worst Black Powder
 			30%		Aluminium
 			
 			TESTS:
-				Unconfined:				Harder to light than Miller-Bangor powder, much longer burn, and as bright as the sun the whole time.
+				Unconfined:				Harder to light than Miller-Bangor powder, much longer burn, and as bright as the sun the whole time.		12-05-21
 				
 			RESULTS: This mix would be great to 'fix' some bad BP, or just to have a tame FP that is still quite fun. Or to replace the sun for a little while (IT'S SO BRIGHT).
+			
+		PyroData Fountain #10:
+			56.25%	KNO3					OXIDIZER
+			16.25%	CHARCOAL				NON-METALLIC FUEL
+			15%		S						NON-METALLIC FUEL & IGNITION CATALYST
+			12.5%	Al						METALLIC FUEL
+			
+			TESTS:
+				Unconfined:				Amazing! Slow burn, sparks, and fairly bright.			13-05-21
+				Mini Fountain:			
 			
 		
 			
