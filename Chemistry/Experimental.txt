@@ -467,7 +467,13 @@ May. 11, '21 - Aluminium as a Fuel
 	Today a lb of indian blackhead dark flake 2um aluminium powder showed up.
 	This is one of the best things you can buy for $20.
 	
-	Compositions: ALL Al/KNO3 or Al/S mixes should have 1% additional boric acid for safety reasons.
+	Compositions: 
+		
+		
+		ALL Al/KNO3 or Al/S mixes should have an additional 1-2% boric acid (H3BO3) for safety reasons.
+		
+		ALL KMnO4 compositions should never be stored, only made to use.
+		
 		
 		Miller-Bangor Powder:
 			60%		KNO3					OXIDIZER
@@ -501,6 +507,9 @@ May. 11, '21 - Aluminium as a Fuel
 			
 				TESTS:
 					Unconfined:			Very slow burning, bright as the sun, a good amount of sparks.		13-05-21
+					
+				RESULTS: I think a sparkler mix will require some different chemicals, namely in the binder division (dextrin, SGRS, or something). 
+				I do think these mixes would be good for adding coloring agents to, as they burn a long time and very bright (although this comes from a place of no experience).
 				
 		Visser Sparkler Composition #5:
 			44%		KNO3					OXIDIZER			
@@ -518,7 +527,7 @@ May. 11, '21 - Aluminium as a Fuel
 				
 			RESULTS: This mix would be great to 'fix' some bad BP, or just to have a tame FP that is still quite fun. Or to replace the sun for a little while (IT'S SO BRIGHT).
 			
-		PyroData Fountain #10:
+		PyroData Fountain #10:		
 			56.25%	KNO3					OXIDIZER
 			16.25%	CHARCOAL				NON-METALLIC FUEL
 			15%		S						NON-METALLIC FUEL & IGNITION CATALYST
@@ -526,7 +535,23 @@ May. 11, '21 - Aluminium as a Fuel
 			
 			TESTS:
 				Unconfined:				Amazing! Slow burn, sparks, and fairly bright.			13-05-21
-				Mini Fountain:			
+				Mini Fountain:			AWESOME AWESOME AWESOME! A tiny (6mm ID) paper tube, rammed one side closed with paper, then filled with the above mixture. 
+										For the top, tissue paper was wet with some wood glue and placed over the opening to prevent any spillage. Just below the tissue paper was a few crushed match heads to help with ignition. 
+										AFTER MAKING MORE, LOOSE BP OR EFFECT MIX IS BETTER FOR IGNITION. MATCHES KIND OF SUCK.
+										Upon lighting, there was a shower of sparks and a bright white flame, which turned into an orange, torch-like flame. 
+										The orange flame was slowly dying down until it built up pressure and popped a ton of sparks out the top, re-emerging into a beautiful white flame.
+										Lots of fun, and definitely something to try again! Although, for safety reasons, including the classic '3 scoops effect mix, 1 scoop hot mix' technique would prevent any pressure from building up.
+										
+				
+			
+		Davis Permanganate Flash:
+			60%		KMnO4					OXIDIZER
+			40%		Al						METALLIC FUEL
+			
+			TESTS:
+				Unconfined:				Pretty good! Reminds me of CuO thermite. LOTS of sparks, super bright, and happens fast.
+				
+		
 			
 		
 			
