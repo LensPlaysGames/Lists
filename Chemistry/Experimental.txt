@@ -490,6 +490,9 @@ May. 11, '21 - Aluminium as a Fuel
 			5%		S						IGNITION CATALYST
 			1%		H3BO3					pH STABLIZER
 			
+			TESTS:
+				Triangle Cracker:		Sugar Fuse Ignition, LOUD report from 1g.
+			
 		PyroData Sparkler #4:
 			63%		KNO3					OXIDIZER			
 			13.5%	CHARCOAL				NON-METALLIC FUEL
@@ -564,7 +567,7 @@ May. 11, '21 - Aluminium as a Fuel
 
 STUFF THAT COULD BE DONE:
 
- - Aluminum FP
+ - Aluminum FP - May 11, '21 DONE
  
 	[BY] Gary Chen, Mark Motyka, Jay C. Poret	PATENT NUMBER US7578895B7		TITLE: Perchlorate free flash bang compositions for pyrotechnic training rounds
 	[INGREDIENTS]
