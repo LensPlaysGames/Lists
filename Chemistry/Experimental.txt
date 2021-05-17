@@ -323,6 +323,7 @@ Mar. 26, '21 - Nitrocellulose, but less idiot.
 		Either way, this is definitely worth it, and a fun project! SWIM will be looking into alternative DIY fuse methods, however.
 		
 		MAY 03, 2021 UPDATE: IT'S NOT COOL, IT'S NOT WORTH IT, ALTERNATIVES ALSO SUCK.
+		MAY 17, 2021 UPDATE: IT'S KIND OF THE BEST I CAN DO SO FAR, OTHER THAN A TUBE PACKED WITH BP. RIP.
 		
 	
 
@@ -463,6 +464,19 @@ Apr. 2?, '21 - Actual Gunpowder
 	
 
 May. 11, '21 - Aluminium as a Fuel
+
+	[BY] Gary Chen, Mark Motyka, Jay C. Poret	PATENT NUMBER US7578895B7		TITLE: Perchlorate free flash bang compositions for pyrotechnic training rounds
+	[INGREDIENTS]
+		- Al						Metallic Fuel				Aluminium, Magnesium, Magnalium, Silicon, Zirconium, or combinations
+		- KNO3						Oxidizer					Potassium nitrate, strontium nitrate, copper nitrate, or combinations
+		- S							Non-metallic Fuel			Sulfur
+		- H3BO3						PH Stabilizer				Boric Acid
+		
+	[COMPOSITON 604]
+		- 40% 	Al
+		- 54% 	KNO3
+		- 5%	S
+		- 1%	H3BO3
 	
 	Today a lb of indian blackhead dark flake 2um aluminium powder showed up.
 	This is one of the best things you can buy for $20.
@@ -491,7 +505,7 @@ May. 11, '21 - Aluminium as a Fuel
 			1%		H3BO3					pH STABLIZER
 			
 			TESTS:
-				Triangle Cracker:		Sugar Fuse Ignition, LOUD report from 1g.
+				Triangle Cracker:		Sugar Fuse 
 			
 		PyroData Sparkler #4:
 			63%		KNO3					OXIDIZER			
@@ -566,21 +580,6 @@ May. 11, '21 - Aluminium as a Fuel
 
 
 STUFF THAT COULD BE DONE:
-
- - Aluminum FP - May 11, '21 DONE
- 
-	[BY] Gary Chen, Mark Motyka, Jay C. Poret	PATENT NUMBER US7578895B7		TITLE: Perchlorate free flash bang compositions for pyrotechnic training rounds
-	[INGREDIENTS]
-		- Al						Metallic Fuel				Aluminium, Magnesium, Magnalium, Silicon, Zirconium, or combinations
-		- KNO3						Oxidizer					Potassium nitrate, strontium nitrate, copper nitrate, or combinations
-		- S							Non-metallic Fuel			Sulfur
-		- H3BO3						PH Stabilizer				Boric Acid
-		
-	[COMPOSITON 604]
-		- 40% 	Al
-		- 54% 	KNO3
-		- 5%	S
-		- 1%	H3BO3
 
  - DIY FUSE
 	Methods:

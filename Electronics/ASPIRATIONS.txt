@@ -76,9 +76,9 @@ E-MATCH:
 		I have tested 5v @ 4A, and haven't gotten the wire to do as much as heat up even a little bit. 
 		For these lower voltages, a resistive wire would need to be used (like nichrome, kanthal, vape coil stuff, etc).
 		
-		This is a good, quick, disposable E-match that does it's job very well, and is much more safe than a lot of the E-matches you see being made online (looking at you, ETN).
-		For rocket motors, or remote ignitions of any kind, these will do the trick. Plus, a meter of wire, a box of matches, and a roll of tape gives you many of these igniters in a short amount of time.
-		For more 'tricky' ignitions, I would like to investigate the HANDHELD HIGH-VOLTAGE project below as an ignition source (sustained electrical arc), as well as a ZVS Flyback circuit (repeated AC electrical arc).
+		This is a good, quick, disposable E-match that does it's job very well.
+		For rocket motors, or remote ignitions, these will do the trick. Plus, a meter of wire, a box of matches, and a roll of tape gives you many of these igniters in a short amount of time.
+		For more 'tricky' ignitions, I would like to investigate the HANDHELD HIGH-VOLTAGE project below as an ignition source , as well as a ZVS Flyback circuit.
 		
 	
 
